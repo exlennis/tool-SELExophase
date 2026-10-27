@@ -108,13 +108,13 @@ No personal access token is required. The collection job receives `contents: wri
 
 The Pages job is gated by repository variable `PAGES_ENABLED=true`. Leave it unset until site publication is approved and Pages is configured to use **GitHub Actions**, rather than branch-based publishing. GitHub does not trigger branch-based Pages builds from commits made with `GITHUB_TOKEN`, so this workflow uploads and deploys the verified artifact in the same run.
 
-### Publication boundary
+### Cloud publication status
 
-The proposed repository is `exlennis/tool-SELExophase`, with private visibility. It has not yet been created or pushed. The prepared local workflow is not an active schedule until it is pushed to GitHub. No site is published yet.
+The repository is live at [exlennis/tool-SELExophase](https://github.com/exlennis/tool-SELExophase) with **private** visibility. The 12-hour workflow is enabled. Its [initial cloud run](https://github.com/exlennis/tool-SELExophase/actions/runs/40483602152) passed all 18 tests, downloaded 309 games and committed the refreshed snapshot. The local checkout was fast-forwarded to that verified state.
 
-A private repository does not make its Pages website private. Normal Pages sites, including those sourced from eligible private repositories, are public. Private-repository Pages also depends on the account plan; the current plan was not established by the available account response. Do not change repository visibility, buy a plan, or publish the dashboard automatically if eligibility prevents this configuration. Obtain a separate decision instead.
+Public dashboard publication was approved conditionally on the existing plan supporting private-repository Pages. GitHub rejected activation on 2026-10-27 with HTTP 422: "Your current plan does not support GitHub Pages for this repository." No site is published, and `PAGES_ENABLED` remains unset. The repository remains private; no plan was purchased and no public-repository or alternative-hosting fallback was used. A different hosting arrangement requires another decision.
 
-When approved, create and push the private repository, verify a successful cloud refresh, configure Pages with the workflow source if eligible, enable `PAGES_ENABLED`, then manually dispatch and verify the deployment URL. A Pages-enabled site publishes the compiled activity dataset to visitors, while the raw snapshot remains in the private repository. Do not use branch-root publishing, which could expose the raw cache as a website asset.
+If Pages eligibility changes later, configure the site with the GitHub Actions workflow source, set `PAGES_ENABLED=true`, manually dispatch `sync.yml`, and verify the actual deployment URL. A normal Pages site makes the compiled activity dataset public even when its repository is private. The raw snapshot is excluded from the deployment artifact. Do not use branch-root publishing, which could expose the raw cache as a website asset.
 
 The Python exporter, static assets and JSON remain portable if moving away from GitHub; scheduling and deployment configuration would need replacing. Repository history provides snapshot versions, not an independent backup policy. Keep the existing local backups.
 
