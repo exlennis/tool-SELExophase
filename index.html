@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Exlennis' Exophase activity, with source platforms, known playtime and achievement progress.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; base-uri 'self'; object-src 'none'">
+  <title>Exophase hub / exlennis</title>
+  <link rel="stylesheet" href="assets/dashboard.css">
+  <script src="assets/dashboard.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#library">Skip to games</a>
+  <main class="shell">
+    <header class="masthead">
+      <div><p class="eyebrow">Activity archive <span class="separator">/</span> Exophase</p><h1>EXOPHASE HUB <span>/</span> EXLENNIS</h1></div>
+      <div class="sync-block"><span id="sync-indicator" class="indicator"></span><p id="sync-time">Reading last successful download…</p></div>
+    </header>
+    <p class="intro">Your games, across services and platforms. An activity record, with the gaps kept visible.</p>
+    <div id="load-error" class="message error" role="alert" hidden><p id="error-text">The activity data could not be loaded.</p><button id="retry" type="button">Try again</button></div>
+    <p id="freshness-note" class="message" role="status" hidden></p>
+    <section class="stats" aria-label="Activity summary">
+      <article><h2>Known playtime</h2><p class="stat"><span id="stat-hours">—</span><span class="unit"> h</span></p><p id="hours-note" class="stat-note">Unknown playtime stays unknown</p></article>
+      <article><h2>Tracked games</h2><p class="stat" id="stat-count">—</p><p id="services-note" class="stat-note">Separate source records</p></article>
+      <article><h2>100% achievements</h2><p class="stat accent" id="stat-achievements">—</p><p class="stat-note">Achievement progress, not game completion</p></article>
+    </section>
+    <section id="library" aria-labelledby="library-heading">
+      <div class="library-heading"><div><p class="eyebrow">Source records</p><h2 id="library-heading">Activity library</h2></div><a class="text-link" href="output/data.json" download="exophase-data.json">Download JSON <span aria-hidden="true">↗</span></a></div>
+      <div class="filters">
+        <label class="search-label" for="search">Search games<input type="search" id="search" placeholder="Title or platform" autocomplete="off"></label>
+        <label for="service">Service<select id="service"><option value="">All services</option></select></label>
+        <label for="sort">Sort<select id="sort"><option value="hours">Known playtime</option><option value="title">Title A–Z</option><option value="achievements">Achievement progress</option></select></label>
+      </div>
+      <div class="result-line"><p id="result-count" role="status" aria-live="polite">Loading records…</p><span class="table-hint">Scroll sideways on smaller screens</span></div>
+      <div class="table-scroll" role="region" aria-label="Game activity table" tabindex="0">
+        <table><caption class="sr-only">Source service, release platforms, known playtime and achievement progress for each game</caption><thead><tr><th scope="col">Game</th><th scope="col">Service</th><th scope="col">Platforms</th><th scope="col" class="number">Playtime</th><th scope="col" class="number">Achievements</th></tr></thead><tbody id="library-stream"></tbody></table>
+      </div>
+      <p id="empty" class="empty" hidden>No games match these filters.</p>
+    </section>
+    <footer><p>Exophase activity does not establish ownership. Missing playtime is shown as unknown.</p><p id="generated-time">Source: public Exophase profile</p></footer>
+  </main>
+</body>
+</html>
