@@ -94,7 +94,7 @@ Open `http://127.0.0.1:8786/`. Stop the preview with Ctrl+C. Do not open `index.
 
 ### Tracked state and published files
 
-`.gitignore` keeps `.venv/`, bytecode, local reports, dated archives, achievement JSON, scratch files and environment files out of Git. Its only cache/output exceptions are `cache/telemetry_cache.json` and `output/data.json`, providing a durable raw snapshot and dashboard dataset for ephemeral runners. These files contain profile activity; the repository is intended to be private.
+`.gitignore` keeps `.venv/`, bytecode, local reports, dated archives, achievement JSON, scratch files and environment files out of Git. Its only cache/output exceptions are `cache/telemetry_cache.json` and `output/data.json`, providing a durable raw snapshot and dashboard dataset for ephemeral runners. These files contain profile activity and are intentionally public in the repository, following approval on 2026-10-27. Untracked local files remain excluded.
 
 `build_site.py` copies only `index.html`, the two dashboard assets and `output/data.json`, plus an empty `.nojekyll` file. The raw cache, Python sources and local reports are not included in the Pages deployment artifact. The script refuses non-empty destinations rather than deleting existing files.
 
@@ -106,15 +106,15 @@ The collection job uses Python 3.13 and installs only `requests==2.34.2`. Offici
 
 No personal access token is required. The collection job receives `contents: write` through the repository's `GITHUB_TOKEN`. The deployment job receives only `contents: read`, `pages: write` and `id-token: write`. Repository branch protections or organisation policy can require additional configuration and may block bot pushes; protections are not disabled by this setup.
 
-The Pages job is gated by repository variable `PAGES_ENABLED=true`. Leave it unset until site publication is approved and Pages is configured to use **GitHub Actions**, rather than branch-based publishing. GitHub does not trigger branch-based Pages builds from commits made with `GITHUB_TOKEN`, so this workflow uploads and deploys the verified artifact in the same run.
+The Pages job is enabled by repository variable `PAGES_ENABLED=true`. Pages is configured to use **GitHub Actions**, rather than branch-based publishing. Unsetting this variable stops future deployments but does not unpublish the existing site. GitHub does not trigger branch-based Pages builds from commits made with `GITHUB_TOKEN`, so this workflow uploads and deploys the verified artifact in the same run.
 
 ### Cloud publication status
 
-The repository is live at [exlennis/tool-SELExophase](https://github.com/exlennis/tool-SELExophase) with **private** visibility. The 12-hour workflow is enabled. Its [initial cloud run](https://github.com/exlennis/tool-SELExophase/actions/runs/40483602152) passed all 18 tests, downloaded 309 games and committed the refreshed snapshot. The local checkout was fast-forwarded to that verified state.
+The repository is live at [exlennis/tool-SELExophase](https://github.com/exlennis/tool-SELExophase) with **public** visibility, explicitly approved on 2026-10-27. Its tracked source, raw telemetry snapshot, compiled dataset and commit history are public. The ignored local environment, auxiliary achievement caches and CSV/Excel reports remain local.
 
-Public dashboard publication was approved conditionally on the existing plan supporting private-repository Pages. GitHub rejected activation on 2026-10-27 with HTTP 422: "Your current plan does not support GitHub Pages for this repository." No site is published, and `PAGES_ENABLED` remains unset. The repository remains private; no plan was purchased and no public-repository or alternative-hosting fallback was used. A different hosting arrangement requires another decision.
+The dashboard is live at [Exophase hub](https://exlennis.github.io/tool-SELExophase/). The [verified deployment run](https://github.com/exlennis/tool-SELExophase/actions/runs/40485488526) passed all 18 tests, refreshed 309 source records and successfully deployed the allowlisted site. The browser loaded the dataset without errors. The 12-hour refresh and deployment workflow remains enabled.
 
-If Pages eligibility changes later, configure the site with the GitHub Actions workflow source, set `PAGES_ENABLED=true`, manually dispatch `sync.yml`, and verify the actual deployment URL. A normal Pages site makes the compiled activity dataset public even when its repository is private. The raw snapshot is excluded from the deployment artifact. Do not use branch-root publishing, which could expose the raw cache as a website asset.
+The initial private-repository Pages restriction was resolved by the approved switch to public visibility; no plan upgrade was purchased. `PAGES_ENABLED` is set to `true`. The website bundle contains only the dashboard assets and compiled dataset. The raw snapshot is available through the public repository but is not copied into the Pages website artifact. Keep workflow-based publishing so future deployments retain this file boundary.
 
 The Python exporter, static assets and JSON remain portable if moving away from GitHub; scheduling and deployment configuration would need replacing. Repository history provides snapshot versions, not an independent backup policy. Keep the existing local backups.
 
