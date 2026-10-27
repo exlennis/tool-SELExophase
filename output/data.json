@@ -2,14 +2,14 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-10-26T22:01:04+00:00",
-    "source_retrieved_at": "2026-10-26T22:01:04+00:00",
+    "last_updated": "2026-10-27T09:48:46+00:00",
+    "source_retrieved_at": "2026-10-27T09:48:46+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "6cd3ca3a50e21ae547d06ad2e0dbe474af97f1fe8a1bea390f84a5c41f052743",
-    "total_games": 306,
-    "total_known_hours": 3171.35,
+    "snapshot_sha256": "624a43e106c49f28d2d2a15b14e5f8309f46d04357f880315401c1384f7c92ca",
+    "total_games": 309,
+    "total_known_hours": 3171.4,
     "unknown_playtime_count": 234,
-    "played_evidence_count": 166
+    "played_evidence_count": 169
   },
   "games": [
     {
@@ -914,6 +914,38 @@
       "source_url": null
     },
     {
+      "id": "5315275:184904",
+      "source_player_id": "5315275",
+      "source_game_id": "184904",
+      "title": "Golf",
+      "service": "retro",
+      "platforms": [
+        "Virtual Boy"
+      ],
+      "playtime_minutes": 1,
+      "hours": 0.017,
+      "earned_awards": 0,
+      "achievement_completion_percent": 0.0,
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/golf-retro-3/achievements/#5315275"
+    },
+    {
+      "id": "5315275:139613",
+      "source_player_id": "5315275",
+      "source_game_id": "139613",
+      "title": "Kaboom!",
+      "service": "retro",
+      "platforms": [
+        "Atari 2600"
+      ],
+      "playtime_minutes": 1,
+      "hours": 0.017,
+      "earned_awards": 0,
+      "achievement_completion_percent": 0.0,
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/kaboom-retro/achievements/#5315275"
+    },
+    {
       "id": "5315275:22596",
       "source_player_id": "5315275",
       "source_game_id": "22596",
@@ -928,6 +960,22 @@
       "achievement_completion_percent": 0.0,
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/mario-luigi-superstar-saga-retro/achievements/#5315275"
+    },
+    {
+      "id": "5315275:156467",
+      "source_player_id": "5315275",
+      "source_game_id": "156467",
+      "title": "Metal Slug 5",
+      "service": "retro",
+      "platforms": [
+        "Arcade"
+      ],
+      "playtime_minutes": 1,
+      "hours": 0.017,
+      "earned_awards": 0,
+      "achievement_completion_percent": 0.0,
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/metal-slug-5-retro/achievements/#5315275"
     },
     {
       "id": "5315275:22738",

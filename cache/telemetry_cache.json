@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-10-26T22:01:04+00:00",
+  "retrieved_at": "2026-10-27T09:48:46+00:00",
   "games": [
     {
       "master_id": 882144,
@@ -58,6 +58,159 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/cult-of-the-lamb-apple/achievements/#5315278"
+      }
+    },
+    {
+      "master_id": 184904,
+      "master_playerid": 5315275,
+      "earned_awards": 0,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1792999981,
+      "playtime": "1m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 0,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 0.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1792999981,
+      "total_awards": 20,
+      "resource_standard": "https://m.exophase.com/retro/games/m/d440g8.png?cf7c4087c69bd378cc99f150d765dfd8",
+      "resource_small": "https://m.exophase.com/retro/games/s/d440g8.png?cf7c4087c69bd378cc99f150d765dfd8",
+      "resource_tile": "https://m.exophase.com/retro/games/t/d440g8.png?cf7c4087c69bd378cc99f150d765dfd8",
+      "playtimeUnits": {
+        "hours": 0,
+        "minutes": 1
+      },
+      "meta": {
+        "master_id": 184904,
+        "total_awards": 20,
+        "title": "Golf",
+        "environment_slug": "retro",
+        "platforms": [
+          {
+            "termTaxonomyId": 10,
+            "termId": 10,
+            "name": "Virtual Boy",
+            "slug": "retro"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/golf-retro-3/achievements/#5315275"
+      }
+    },
+    {
+      "master_id": 139613,
+      "master_playerid": 5315275,
+      "earned_awards": 0,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1792998639,
+      "playtime": "1m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 0,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 0.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1792998639,
+      "total_awards": 13,
+      "resource_standard": "https://m.exophase.com/retro/games/m/4bdj04.png?80ffb1bac81669514a5afc76c083f899",
+      "resource_small": "https://m.exophase.com/retro/games/s/4bdj04.png?80ffb1bac81669514a5afc76c083f899",
+      "resource_tile": "https://m.exophase.com/retro/games/t/4bdj04.png?80ffb1bac81669514a5afc76c083f899",
+      "playtimeUnits": {
+        "hours": 0,
+        "minutes": 1
+      },
+      "meta": {
+        "master_id": 139613,
+        "total_awards": 13,
+        "title": "Kaboom!",
+        "environment_slug": "retro",
+        "platforms": [
+          {
+            "termTaxonomyId": 10,
+            "termId": 10,
+            "name": "Atari 2600",
+            "slug": "retro"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/kaboom-retro/achievements/#5315275"
+      }
+    },
+    {
+      "master_id": 156467,
+      "master_playerid": 5315275,
+      "earned_awards": 0,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1792998484,
+      "playtime": "1m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 0,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 0.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1792998484,
+      "total_awards": 39,
+      "resource_standard": "https://m.exophase.com/retro/games/m/b3eg5d.png?648432c58ec25dd0dd585780782085df",
+      "resource_small": "https://m.exophase.com/retro/games/s/b3eg5d.png?648432c58ec25dd0dd585780782085df",
+      "resource_tile": "https://m.exophase.com/retro/games/t/b3eg5d.png?648432c58ec25dd0dd585780782085df",
+      "playtimeUnits": {
+        "hours": 0,
+        "minutes": 1
+      },
+      "meta": {
+        "master_id": 156467,
+        "total_awards": 39,
+        "title": "Metal Slug 5",
+        "environment_slug": "retro",
+        "platforms": [
+          {
+            "termTaxonomyId": 10,
+            "termId": 10,
+            "name": "Arcade",
+            "slug": "retro"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/metal-slug-5-retro/achievements/#5315275"
       }
     },
     {
@@ -3007,7 +3160,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 5814,
+      "earned_exp": 5811,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -3223,7 +3376,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 2958,
+      "earned_exp": 2962,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -5605,7 +5758,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 10093,
+      "earned_exp": 10134,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -7564,7 +7717,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 43,
+      "earned_exp": 44,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -8371,7 +8524,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 147,
+      "earned_exp": 148,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
