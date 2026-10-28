@@ -5,6 +5,12 @@ on:
     # GitHub schedules use UTC and are best effort, not an exact-time guarantee.
     - cron: '0 */12 * * *'
   workflow_dispatch:
+    inputs:
+      accept_removals:
+        description: 'Reviewed source removals to accept, as comma-separated player:game IDs (leave empty normally)'
+        required: false
+        default: ''
+        type: string
   push:
     branches: [main]
     paths:
@@ -15,6 +21,7 @@ on:
       - 'index.html'
       - 'assets/**'
       - 'output/data.json'
+      - 'output/art/**'
       - 'cache/telemetry_cache.json'
 
 permissions:
@@ -50,13 +57,15 @@ jobs:
       - name: Refresh the complete public dataset
         env:
           EXOPHASE_PLAYER_ID: '5143228'
+          EXOPHASE_ACCEPT_REMOVALS: ${{ github.event_name == 'workflow_dispatch' && inputs.accept_removals || '' }}
         run: python -B headless_exporter.py
       - name: Prepare the public dashboard bundle
         run: python -B build_site.py --destination "$RUNNER_TEMP/telemetry-site"
       - name: Commit the verified state
         run: |
-          git add -- cache/telemetry_cache.json output/data.json
-          if ! git diff --cached --quiet -- cache/telemetry_cache.json output/data.json; then
+          mkdir -p output/art
+          git add -A -- cache/telemetry_cache.json output/data.json output/art
+          if ! git diff --cached --quiet -- cache/telemetry_cache.json output/data.json output/art; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git commit -m 'Refresh Exophase telemetry'

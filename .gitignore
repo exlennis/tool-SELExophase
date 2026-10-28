@@ -19,3 +19,4 @@ dist/
 # Retain only the dashboard dataset, not local CSV/Excel reports or archives.
 /output/*
 !/output/data.json
+!/output/art/

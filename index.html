@@ -8,6 +8,7 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; base-uri 'self'; object-src 'none'">
   <title>Exophase hub / exlennis</title>
   <link rel="stylesheet" href="assets/dashboard.css">
+  <script src="assets/logic.js" defer></script>
   <script src="assets/dashboard.js" defer></script>
 </head>
 <body>
@@ -18,25 +19,37 @@
       <div class="sync-block"><span id="sync-indicator" class="indicator"></span><p id="sync-time">Reading last successful download…</p></div>
     </header>
     <p class="intro">Your games, across services and platforms. An activity record, with the gaps kept visible.</p>
+    <noscript><p class="message">This dashboard needs JavaScript to read and filter the activity data. The unprocessed dataset is still available as <a href="output/data.json" download="exophase-data.json">JSON</a>.</p></noscript>
     <div id="load-error" class="message error" role="alert" hidden><p id="error-text">The activity data could not be loaded.</p><button id="retry" type="button">Try again</button></div>
     <p id="freshness-note" class="message" role="status" hidden></p>
     <section class="stats" aria-label="Activity summary">
       <article><h2>Known playtime</h2><p class="stat"><span id="stat-hours">—</span><span class="unit"> h</span></p><p id="hours-note" class="stat-note">Unknown playtime stays unknown</p></article>
-      <article><h2>Tracked games</h2><p class="stat" id="stat-count">—</p><p id="services-note" class="stat-note">Separate source records</p></article>
-      <article><h2>100% achievements</h2><p class="stat accent" id="stat-achievements">—</p><p class="stat-note">Achievement progress, not game completion</p></article>
+      <article><h2>Source records</h2><p class="stat" id="stat-count">—</p><p id="services-note" class="stat-note">Not unique games, and not a claim of ownership</p></article>
+      <article><h2>Completed achievement sets</h2><p class="stat accent" id="stat-achievements">—</p><p id="sets-note" class="stat-note">Achievement progress, not game completion</p></article>
     </section>
     <section id="library" aria-labelledby="library-heading">
       <div class="library-heading"><div><p class="eyebrow">Source records</p><h2 id="library-heading">Activity library</h2></div><a class="text-link" href="output/data.json" download="exophase-data.json">Download JSON <span aria-hidden="true">↗</span></a></div>
       <div class="filters">
         <label class="search-label" for="search">Search games<input type="search" id="search" placeholder="Title or platform" autocomplete="off"></label>
         <label for="service">Service<select id="service"><option value="">All services</option></select></label>
-        <label for="sort">Sort<select id="sort"><option value="hours">Known playtime</option><option value="title">Title A–Z</option><option value="achievements">Achievement progress</option></select></label>
+        <label for="sort">Sort<select id="sort">
+          <option value="hours">Known playtime</option>
+          <option value="recent">Last played, most recent</option>
+          <option value="oldest">Last played, longest ago</option>
+          <option value="achievements">Achievement progress</option>
+          <option value="title">Title A to Z</option>
+        </select></label>
       </div>
-      <div class="result-line"><p id="result-count" role="status" aria-live="polite">Loading records…</p><span class="table-hint">Scroll sideways on smaller screens</span></div>
+      <div class="result-line"><p id="result-count" role="status" aria-live="polite">Loading records…</p><button type="button" id="clear" class="clear" hidden>Clear filters</button><span class="table-hint" id="table-hint" hidden>Scroll sideways to see all columns</span></div>
       <div class="table-scroll" role="region" aria-label="Game activity table" tabindex="0">
-        <table><caption class="sr-only">Source service, release platforms, known playtime and achievement progress for each game</caption><thead><tr><th scope="col">Game</th><th scope="col">Service</th><th scope="col">Platforms</th><th scope="col" class="number">Playtime</th><th scope="col" class="number">Achievements</th></tr></thead><tbody id="library-stream"></tbody></table>
+        <table id="library-table" aria-busy="true"><caption class="sr-only">Source service, release platforms, known playtime, last played time and achievement progress for each source record</caption><thead><tr><th scope="col">Game</th><th scope="col" class="col-service">Service</th><th scope="col" class="col-platforms">Released on</th><th scope="col" class="number">Playtime</th><th scope="col" class="number col-played">Last played</th><th scope="col" class="number">Achievements</th></tr></thead><tbody id="library-stream"></tbody></table>
       </div>
-      <p id="empty" class="empty" hidden>No games match these filters.</p>
+      <div id="empty" class="empty" hidden><p>No records match these filters.</p><button type="button" id="clear-empty" class="clear">Clear filters</button></div>
+      <div class="notes">
+        <p><strong>Released on</strong> lists the platforms the source gives for the game, not where it was played.</p>
+        <p><strong>Achievements:</strong> “No set” means the source lists none for that record. “Unknown” means no counts were supplied. “0 / 48” is a real zero. The percentage is the source’s own and may weight achievements differently from the count.</p>
+        <p id="last-played-note"><strong>Last played</strong> is the time the source reports; records without one show Unknown.</p>
+      </div>
     </section>
     <footer><p>Exophase activity does not establish ownership. Missing playtime is shown as unknown.</p><p id="generated-time">Source: public Exophase profile</p></footer>
   </main>

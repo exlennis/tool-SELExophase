@@ -59,11 +59,27 @@ To compile the existing downloaded games without a network request:
 Files produced:
 
 - `cache/telemetry_cache.json`: the complete raw snapshot, source profile and retrieval metadata. It is separate from the terminal application's game and achievement cache files.
-- `output/data.json`: the versioned `selfexophase-telemetry/v1` dashboard dataset, containing stable source IDs, original titles, source service, release platforms, known playtime, earned achievements and achievement completion percentages.
+- `output/data.json`: the versioned `selfexophase-telemetry/v1` dashboard dataset, containing stable source IDs, original titles, source service, release platforms, known playtime, earned and total achievements, the source's achievement completion percentage, a normalised last-played time and a local artwork path.
 
 Default directories resolve beside `headless_exporter.py`, even when launched from another working directory. Override them with `EXOPHASE_CACHE_DIR` / `EXOPHASE_OUTPUT_DIR` or `--cache-dir` / `--output-dir`. Explicit relative overrides and `--input` resolve from the caller's working directory. Keep cache and output as separate, non-nested directories on the same filesystem for atomic report publication.
 
 `metadata.last_updated` is the UTC report generation time. `source_retrieved_at` is the UTC live download time; offline imports explicitly leave it unknown and use `source_mode: "offline"`. `total_known_hours` excludes unknown playtime, and `unknown_playtime_count` reports that gap. Activity status is `played` only when positive playtime or earned achievements provide evidence; otherwise it is `unknown`. Achievement completion does not establish game completion, backlog status or ownership. Service and release platforms remain separate.
+
+`total_awards` separates a record with no achievement set (`0`) from a set with nothing earned (`earned_awards: 0` with a positive total); a missing total stays `null` (unknown). The source percentage is kept as given, because it can round to zero for real progress and can weight achievements differently from the count. `last_played` is the source's `lastplayed_utc` as UTC ISO text. A missing, zero or implausibly future value becomes `null` (unknown); a malformed value fails the run. In the 27 and 28 October 2026 snapshots these values did not change between runs unless a record's activity changed, but they were not checked against real play history, and coverage differs by service (for example, none for GOG). The dashboard labels them as reported by Exophase.
+
+### Artwork
+
+Each record's `resource_tile` thumbnail is downloaded during a live run and stored in `output/art/` (served as `output/art/<name>` on the site), so visitors make no third-party requests and the page keeps `img-src 'self'`. Names derive from the source image path and version, so an image is downloaded only when it is not already cached; an unchanged image is never fetched again, and a changed version replaces the old file. Only HTTPS images from `m.exophase.com`, in recognised formats and under 256 KiB, are accepted. A failed image never blocks publication: the record keeps its previous cached version or has no artwork, and the page shows a placeholder. After several consecutive failures, remaining downloads are skipped for that run. Files no longer referenced are removed after a successful publication. Offline imports (`--input`) use cached images only; add `--download-artwork` to fetch missing ones, and `--art-dir` to change the cache location.
+
+### Accepting reviewed source removals
+
+If a record cached from an earlier run is missing from a live download, the run stops and keeps the last good files. The error lists the missing IDs and titles. Check on Exophase that the removal is genuine, then accept exactly those IDs:
+
+```bash
+EXOPHASE_PLAYER_ID=5143228 .venv/bin/python -B headless_exporter.py --accept-removals "5315278:714604,5315278:714192"
+```
+
+The list must match the missing records exactly: an ID that is not missing, or a missing record left out, still stops the run. Nothing is accepted automatically, and scheduled workflow runs never accept removals. To accept removals in the cloud, start **Synchronise Exophase telemetry** manually and enter the reviewed IDs in its `accept_removals` field; leave it empty otherwise. Run it once, then clear the field.
 
 The exporter fetches every page and rejects HTTP failures, unconfirmed responses, malformed records, repeated IDs and non-terminating pagination. The endpoint normally returns 50 games per page; a successful short or empty page ends the download. An ambiguous `success: false` response after a full page is held as a failure rather than assumed complete. Empty datasets and missing previously cached games are held for review rather than silently replacing the last good snapshot. Failed runs return a non-zero exit code.
 
@@ -79,7 +95,7 @@ The exporter itself does not create repositories or enable schedules. The cloud 
 
 ## Cloud workflow and dashboard
 
-`index.html` and `assets/` provide a buildless dashboard for `output/data.json`. There is no CDN dependency, JavaScript framework or server-side application. Search, source-service filtering and sorting work in the browser. Unknown playtime remains unknown, achievement percentages do not imply game completion, and download time is separate from report generation time. Dates display in Melbourne time. Source titles use text nodes, and source links are restricted to HTTPS Exophase URLs.
+`index.html` and `assets/` provide a buildless dashboard for `output/data.json`. There is no CDN dependency, JavaScript framework or server-side application. Search (ignoring case, accents and curly versus straight quotes), source-service filtering with counts, and sorting work in the browser. Thumbnails are lazy-loaded and fixed-size so rows do not shift. Display rules for achievement states and sorting live in `assets/logic.js`, which is tested with Node. Unknown playtime remains unknown, achievement percentages do not imply game completion, and download time is separate from report generation time. Dates display in Melbourne time. Source titles use text nodes, and source links are restricted to HTTPS Exophase URLs.
 
 ### Local preview
 
@@ -94,15 +110,15 @@ Open `http://127.0.0.1:8786/`. Stop the preview with Ctrl+C. Do not open `index.
 
 ### Tracked state and published files
 
-`.gitignore` keeps `.venv/`, bytecode, local reports, dated archives, achievement JSON, scratch files and environment files out of Git. Its only cache/output exceptions are `cache/telemetry_cache.json` and `output/data.json`, providing a durable raw snapshot and dashboard dataset for ephemeral runners. These files contain profile activity and are intentionally public in the repository, following approval on 2026-10-27. Untracked local files remain excluded.
+`.gitignore` keeps `.venv/`, bytecode, local reports, dated archives, achievement JSON, scratch files and environment files out of Git. Its only cache/output exceptions are `cache/telemetry_cache.json`, `output/data.json` and the `output/art/` thumbnails, providing a durable raw snapshot and dashboard dataset for ephemeral runners. These files contain profile activity and are intentionally public in the repository, following approval on 2026-10-27. Untracked local files remain excluded.
 
-`build_site.py` copies only `index.html`, the two dashboard assets and `output/data.json`, plus an empty `.nojekyll` file. The raw cache, Python sources and local reports are not included in the Pages deployment artifact. The script refuses non-empty destinations rather than deleting existing files.
+`build_site.py` copies only `index.html`, the dashboard assets, `output/data.json` and the thumbnails that dataset references, plus an empty `.nojekyll` file. The raw cache, Python sources and local reports are not included in the Pages deployment artifact. The script refuses non-empty destinations rather than deleting existing files.
 
 ### GitHub Actions
 
 `.github/workflows/sync.yml` is prepared for the `main` branch. It runs at `00:00` and `12:00` UTC, on relevant pushes, and on manual dispatch. GitHub schedules are best effort; delays, inactivity disabling and remote API restrictions remain possible. Timestamp updates and bot commits are not an indefinite availability guarantee.
 
-The collection job uses Python 3.13 and installs only `requests==2.34.2`. Official action releases are pinned to verified commit SHAs. Tests run before downloading; all validation and static build checks must pass before the job stages exactly the two snapshot files. Git configuration is repository-local. Push rejection stops deployment; there is no force push. Workflow concurrency prevents overlapping runs from this workflow. Failures preserve the last committed snapshot and previously deployed site.
+The collection job uses Python 3.13 and installs only `requests==2.34.2`. Official action releases are pinned to verified commit SHAs. Tests run before downloading; all validation and static build checks must pass before the job stages exactly the two snapshot files and the `output/art/` thumbnails. Git configuration is repository-local. Push rejection stops deployment; there is no force push. Workflow concurrency prevents overlapping runs from this workflow. Failures preserve the last committed snapshot and previously deployed site.
 
 No personal access token is required. The collection job receives `contents: write` through the repository's `GITHUB_TOKEN`. The deployment job receives only `contents: read`, `pages: write` and `id-token: write`. Repository branch protections or organisation policy can require additional configuration and may block bot pushes; protections are not disabled by this setup.
 
