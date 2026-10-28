@@ -2,10 +2,10 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-10-28T04:49:40+00:00",
-    "source_retrieved_at": "2026-10-28T04:49:40+00:00",
+    "last_updated": "2026-10-28T13:30:15+00:00",
+    "source_retrieved_at": "2026-10-28T13:29:35+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "a26244081727012d80e621dedac74f0556768228c46e824d998eb95286ae27a6",
+    "snapshot_sha256": "7e2b03ecf2b945f9b6c78d18e38cbbfbba6084145314a15866ae5784aef962ff",
     "total_games": 310,
     "total_known_hours": 3171.4,
     "unknown_playtime_count": 235,
@@ -25,9 +25,12 @@
       "playtime_minutes": 29083,
       "hours": 484.717,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2024-08-25T10:32:55+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-legend-of-zelda-tears-of-the-kingdom-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/the-legend-of-zelda-tears-of-the-kingdom-nintendo/#5315298",
+      "artwork": "output/art/nintendo-b8bjj38-e7bfcc01a77f4bddb6ed8b34.png"
     },
     {
       "id": "5315273:699413",
@@ -41,9 +44,12 @@
       "playtime_minutes": 26663,
       "hours": 444.383,
       "earned_awards": 36,
+      "total_awards": 36,
       "achievement_completion_percent": 100.0,
+      "last_played": "2026-10-22T07:53:32+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/black-myth-wukong-psn/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/black-myth-wukong-psn/trophies/#5315273",
+      "artwork": "output/art/psn-40d4bj5-c860fb395e15b9c7c6b1c70a.png"
     },
     {
       "id": "5315298:555789",
@@ -57,9 +63,12 @@
       "playtime_minutes": 25864,
       "hours": 431.067,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-19T16:15:50+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-violet-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/pokemon-violet-nintendo/#5315298",
+      "artwork": "output/art/nintendo-8je4d81-0f709f8547fab44792677524.png"
     },
     {
       "id": "5315298:522737",
@@ -74,9 +83,12 @@
       "playtime_minutes": 21321,
       "hours": 355.35,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-03-11T10:59:59+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/animal-crossing-new-horizons-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/animal-crossing-new-horizons-nintendo/#5315298",
+      "artwork": "output/art/nintendo-8j46djb-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315298:522774",
@@ -91,9 +103,12 @@
       "playtime_minutes": 14086,
       "hours": 234.767,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-09-27T05:53:57+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-legend-of-zelda-breath-of-the-wild-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/the-legend-of-zelda-breath-of-the-wild-nintendo/#5315298",
+      "artwork": "output/art/nintendo-55b30gb-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315298:522956",
@@ -107,9 +122,12 @@
       "playtime_minutes": 11242,
       "hours": 187.367,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2024-07-15T14:29:48+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-shield-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/pokemon-shield-nintendo/#5315298",
+      "artwork": "output/art/nintendo-dg8bj88-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5143229:451502",
@@ -123,9 +141,12 @@
       "playtime_minutes": 7740,
       "hours": 129.0,
       "earned_awards": 115,
+      "total_awards": 158,
       "achievement_completion_percent": 72.0,
+      "last_played": "2026-10-04T07:00:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/nuan-xue-warm-snow-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/nuan-xue-warm-snow-steam/achievements/#5143229",
+      "artwork": "output/art/steam-b8g5ebd-8d2d748d645d95414d962823.png"
     },
     {
       "id": "5315298:855626",
@@ -140,9 +161,12 @@
       "playtime_minutes": 7042,
       "hours": 117.367,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-03-16T12:01:18+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hades-ii-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/hades-ii-nintendo/#5315298",
+      "artwork": "output/art/nintendo-4e176d6-390623380db0d1909dcccc14.png"
     },
     {
       "id": "5315298:522964",
@@ -156,9 +180,12 @@
       "playtime_minutes": 6714,
       "hours": 111.9,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-09-27T12:08:24+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hades-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/hades-nintendo/#5315298",
+      "artwork": "output/art/nintendo-ee8gd6d-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5143229:473315",
@@ -172,9 +199,12 @@
       "playtime_minutes": 5511,
       "hours": 91.85,
       "earned_awards": 28,
+      "total_awards": 45,
       "achievement_completion_percent": 62.0,
+      "last_played": "2026-05-04T07:00:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hogwarts-legacy-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/hogwarts-legacy-steam/achievements/#5143229",
+      "artwork": "output/art/steam-b86b301-2db80f92db17656a8b58268f.png"
     },
     {
       "id": "5315298:522896",
@@ -188,9 +218,12 @@
       "playtime_minutes": 5440,
       "hours": 90.667,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-19T15:50:29+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-legends-arceus-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/pokemon-legends-arceus-nintendo/#5315298",
+      "artwork": "output/art/nintendo-j01ebb3-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315298:522755",
@@ -204,9 +237,12 @@
       "playtime_minutes": 4722,
       "hours": 78.7,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-19T15:38:27+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-home-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/pokemon-home-nintendo/#5315298",
+      "artwork": "output/art/nintendo-gj73b1b-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5143229:472880",
@@ -220,9 +256,12 @@
       "playtime_minutes": 4246,
       "hours": 70.767,
       "earned_awards": 50,
+      "total_awards": 50,
       "achievement_completion_percent": 100.0,
+      "last_played": "2026-09-10T07:00:03+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hades-ii-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/hades-ii-steam/achievements/#5143229",
+      "artwork": "output/art/steam-b86b683-585931920547b24a21e96aae.png"
     },
     {
       "id": "5143229:333015",
@@ -236,9 +275,12 @@
       "playtime_minutes": 2850,
       "hours": 47.5,
       "earned_awards": 14,
+      "total_awards": 37,
       "achievement_completion_percent": 37.0,
+      "last_played": "2026-10-26T03:35:04+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229",
+      "artwork": "output/art/steam-b10beb-038d9aab92b7c7b3cf3d8c1d.png"
     },
     {
       "id": "5315273:590194",
@@ -252,9 +294,12 @@
       "playtime_minutes": 2512,
       "hours": 41.867,
       "earned_awards": 24,
+      "total_awards": 54,
       "achievement_completion_percent": 41.0,
+      "last_played": "2026-09-29T11:25:41+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/star-wars-jedi-survivor-psn/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/star-wars-jedi-survivor-psn/trophies/#5315273",
+      "artwork": "output/art/psn-gj8ee38-6785c76a386019bbcf6cc99e.png"
     },
     {
       "id": "5315298:522857",
@@ -268,9 +313,12 @@
       "playtime_minutes": 2221,
       "hours": 37.017,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-20T01:22:06+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/super-smash-bros-ultimate-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/super-smash-bros-ultimate-nintendo/#5315298",
+      "artwork": "output/art/nintendo-j015733-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5143229:337650",
@@ -284,9 +332,12 @@
       "playtime_minutes": 1818,
       "hours": 30.3,
       "earned_awards": 46,
+      "total_awards": 49,
       "achievement_completion_percent": 93.0,
+      "last_played": "2026-10-20T01:17:22+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hades-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/hades-steam/achievements/#5143229",
+      "artwork": "output/art/steam-873gdj-5915d440e0008a6a597a60e1.png"
     },
     {
       "id": "5315298:522771",
@@ -300,9 +351,12 @@
       "playtime_minutes": 1596,
       "hours": 26.6,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-03-31T12:50:37+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-legend-of-zelda-link-s-awakening-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/the-legend-of-zelda-link-s-awakening-nintendo/#5315298",
+      "artwork": "output/art/nintendo-1310bj7-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315273:490129",
@@ -317,9 +371,12 @@
       "playtime_minutes": 1536,
       "hours": 25.6,
       "earned_awards": 16,
+      "total_awards": 54,
       "achievement_completion_percent": 23.0,
+      "last_played": "2026-02-08T05:24:41+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/gran-turismo-7-psn/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/gran-turismo-7-psn/trophies/#5315273",
+      "artwork": "output/art/psn-gj51j13-0a7769b2cb2d7983e1916cd3.png"
     },
     {
       "id": "5315298:522751",
@@ -333,9 +390,12 @@
       "playtime_minutes": 1114,
       "hours": 18.567,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-03-31T12:59:11+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/super-mario-odyssey-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/super-mario-odyssey-nintendo/#5315298",
+      "artwork": "output/art/nintendo-ee81034-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315298:522748",
@@ -349,9 +409,12 @@
       "playtime_minutes": 667,
       "hours": 11.117,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2024-06-29T05:46:11+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-let-s-go-eevee-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/pokemon-let-s-go-eevee-nintendo/#5315298",
+      "artwork": "output/art/nintendo-55b307b-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5143229:485392",
@@ -365,9 +428,12 @@
       "playtime_minutes": 666,
       "hours": 11.1,
       "earned_awards": 6,
+      "total_awards": 55,
       "achievement_completion_percent": 10.0,
+      "last_played": "2026-10-21T07:00:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/clair-obscur-expedition-33-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/clair-obscur-expedition-33-steam/achievements/#5143229",
+      "artwork": "output/art/steam-6d544d1-b7074ec001b386d57384c5a2.png"
     },
     {
       "id": "5315298:554719",
@@ -381,9 +447,12 @@
       "playtime_minutes": 658,
       "hours": 10.967,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-03-11T10:44:49+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/a-little-to-the-left-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/a-little-to-the-left-nintendo/#5315298",
+      "artwork": "output/art/nintendo-13g1gj8-55273fd8929402da2c3ee926.png"
     },
     {
       "id": "5315273:16508",
@@ -397,9 +466,12 @@
       "playtime_minutes": 597,
       "hours": 9.95,
       "earned_awards": 6,
+      "total_awards": 79,
       "achievement_completion_percent": 6.0,
+      "last_played": "2024-08-16T03:23:43+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/horizon-zero-dawn-ps4/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/horizon-zero-dawn-ps4/trophies/#5315273",
+      "artwork": "output/art/psn-76ge3-35f011d874ea3feedb6f291b.png"
     },
     {
       "id": "5315273:417814",
@@ -413,9 +485,12 @@
       "playtime_minutes": 578,
       "hours": 9.633,
       "earned_awards": 0,
+      "total_awards": 39,
       "achievement_completion_percent": 0,
+      "last_played": "2025-12-27T03:23:28+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/planet-coaster-psn-2/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/planet-coaster-psn-2/trophies/#5315273",
+      "artwork": "output/art/psn-6dd675e-eaddfa219cf1cc703f8bcd0f.png"
     },
     {
       "id": "5143229:41101",
@@ -429,9 +504,12 @@
       "playtime_minutes": 532,
       "hours": 8.867,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "played",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/steam-6dg876-74dda27e40bd7aa740431542.png"
     },
     {
       "id": "5315298:523027",
@@ -445,9 +523,12 @@
       "playtime_minutes": 496,
       "hours": 8.267,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-09-24T14:46:33+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/clubhouse-games-51-worldwide-classics-nintendo-2/#5315298"
+      "source_url": "https://www.exophase.com/game/clubhouse-games-51-worldwide-classics-nintendo-2/#5315298",
+      "artwork": "output/art/nintendo-6dg30j1-2cea87b6f2760dcbd0664130.png"
     },
     {
       "id": "5315273:876164",
@@ -461,9 +542,12 @@
       "playtime_minutes": 486,
       "hours": 8.1,
       "earned_awards": 0,
+      "total_awards": 67,
       "achievement_completion_percent": 0,
+      "last_played": "2026-09-22T07:15:19+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/where-winds-meet-psn/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/where-winds-meet-psn/trophies/#5315273",
+      "artwork": "output/art/psn-e3g4b81-3b769376b6184ea015ddd14a.png"
     },
     {
       "id": "5315273:417778",
@@ -477,9 +561,12 @@
       "playtime_minutes": 352,
       "hours": 5.867,
       "earned_awards": 7,
+      "total_awards": 51,
       "achievement_completion_percent": 8.0,
+      "last_played": "2026-02-09T01:07:13+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/astros-playroom-psn/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/astros-playroom-psn/trophies/#5315273",
+      "artwork": "output/art/psn-4003e5g-ccbe770eddffecb9eb64f409.png"
     },
     {
       "id": "5315298:526957",
@@ -493,9 +580,12 @@
       "playtime_minutes": 316,
       "hours": 5.267,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-20T05:30:31+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/inside-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/inside-nintendo/#5315298",
+      "artwork": "output/art/nintendo-j011g06-4f6095aaf07bfa9d43905eab.png"
     },
     {
       "id": "5315298:522744",
@@ -509,9 +599,12 @@
       "playtime_minutes": 262,
       "hours": 4.367,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-19T15:43:50+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/mario-kart-8-deluxe-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/mario-kart-8-deluxe-nintendo/#5315298",
+      "artwork": "output/art/nintendo-j015760-3075f08a5d5c7b7be56834db.png"
     },
     {
       "id": "5143229:16384",
@@ -525,9 +618,12 @@
       "playtime_minutes": 253,
       "hours": 4.217,
       "earned_awards": 1,
+      "total_awards": 34,
       "achievement_completion_percent": 2.0,
+      "last_played": "2023-09-10T12:11:20+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/parkitect-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/parkitect-steam/achievements/#5143229",
+      "artwork": "output/art/steam-1e1bj-9b8a0c3b4ee857d44c0613ba.png"
     },
     {
       "id": "5315273:487113",
@@ -541,9 +637,12 @@
       "playtime_minutes": 252,
       "hours": 4.2,
       "earned_awards": 2,
+      "total_awards": 58,
       "achievement_completion_percent": 2.0,
+      "last_played": "2026-09-29T17:24:45+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/cyberpunk-2077-psn-2/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/cyberpunk-2077-psn-2/trophies/#5315273",
+      "artwork": "output/art/psn-40b58b1-c3c40564b8234d7cd5c802a8.png"
     },
     {
       "id": "5315273:442267",
@@ -557,9 +656,12 @@
       "playtime_minutes": 196,
       "hours": 3.267,
       "earned_awards": 2,
+      "total_awards": 40,
       "achievement_completion_percent": 3.0,
+      "last_played": "2024-08-24T12:11:09+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/star-wars-jedi-fallen-order-psn-3/trophies/#5315273"
+      "source_url": "https://www.exophase.com/game/star-wars-jedi-fallen-order-psn-3/trophies/#5315273",
+      "artwork": "output/art/psn-b8ge6db-4086d72455533143b2b01490.png"
     },
     {
       "id": "5143229:433810",
@@ -573,9 +675,12 @@
       "playtime_minutes": 175,
       "hours": 2.917,
       "earned_awards": 0,
+      "total_awards": 24,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/death-s-door-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/death-s-door-steam/achievements/#5143229",
+      "artwork": "output/art/steam-0033147-cee3f3fbefa79593e58fc42e.png"
     },
     {
       "id": "5143229:434855",
@@ -589,9 +694,12 @@
       "playtime_minutes": 109,
       "hours": 1.817,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-10T07:00:02+00:00",
       "activity_status": "played",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/steam-gj11bj7-eeba944270998cefc89b142e.png"
     },
     {
       "id": "5143229:630342",
@@ -605,9 +713,12 @@
       "playtime_minutes": 79,
       "hours": 1.317,
       "earned_awards": 0,
+      "total_awards": 36,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-18T07:00:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/planet-coaster-2-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/planet-coaster-2-steam/achievements/#5143229",
+      "artwork": "output/art/steam-gj604d4-e803c2dc538d180cb90d8a7a.png"
     },
     {
       "id": "5315275:136225",
@@ -621,9 +732,12 @@
       "playtime_minutes": 65,
       "hours": 1.083,
       "earned_awards": 1,
+      "total_awards": 105,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-24T06:41:29+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/castlevania-symphony-of-the-night-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/castlevania-symphony-of-the-night-retro/achievements/#5315275",
+      "artwork": "output/art/retro-egbdd5-6429850dbf68780e993e9e0f.png"
     },
     {
       "id": "5315275:22626",
@@ -637,9 +751,12 @@
       "playtime_minutes": 55,
       "hours": 0.917,
       "earned_awards": 0,
+      "total_awards": 197,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-24T07:54:35+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-emerald-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-emerald-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-4g1d4-89c194cc64296dfb0ddd2b62.png"
     },
     {
       "id": "5143229:600778",
@@ -653,9 +770,12 @@
       "playtime_minutes": 45,
       "hours": 0.75,
       "earned_awards": 2,
+      "total_awards": 52,
       "achievement_completion_percent": 3.0,
+      "last_played": "2026-10-14T07:00:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/cairn-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/cairn-steam/achievements/#5143229",
+      "artwork": "output/art/steam-40356d8-4192a14895f42deec37a2c40.png"
     },
     {
       "id": "5315298:522931",
@@ -669,9 +789,12 @@
       "playtime_minutes": 37,
       "hours": 0.617,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-09T05:54:37+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/tetris-99-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/tetris-99-nintendo/#5315298",
+      "artwork": "output/art/nintendo-j01eb54-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315274:13421",
@@ -685,9 +808,12 @@
       "playtime_minutes": 16,
       "hours": 0.267,
       "earned_awards": 0,
+      "total_awards": 133,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-17T13:38:57+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/minecraft-pe-ios-xbox/achievements/#5315274"
+      "source_url": "https://www.exophase.com/game/minecraft-pe-ios-xbox/achievements/#5315274",
+      "artwork": "output/art/xbox-7g7dd-31c459ccf589a2d06535c9d5.png"
     },
     {
       "id": "5315275:546497",
@@ -701,9 +827,12 @@
       "playtime_minutes": 13,
       "hours": 0.217,
       "earned_awards": 0,
+      "total_awards": 60,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-25T19:23:09+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/metal-slug-3-retro-2/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/metal-slug-3-retro-2/achievements/#5315275",
+      "artwork": "output/art/retro-13g3880-106f5560e8d66887426f6b34.png"
     },
     {
       "id": "5315275:21968",
@@ -717,9 +846,12 @@
       "playtime_minutes": 10,
       "hours": 0.167,
       "earned_awards": 0,
+      "total_awards": 97,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-14T21:05:32+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/legend-of-zelda-ocarina-of-time-the-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/legend-of-zelda-ocarina-of-time-the-retro/achievements/#5315275",
+      "artwork": "output/art/retro-g6bb4-0475e2d6ea87322f80366910.png"
     },
     {
       "id": "5315298:527816",
@@ -733,9 +865,12 @@
       "playtime_minutes": 6,
       "hours": 0.1,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-10T03:04:14+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/sky-children-of-the-light-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/sky-children-of-the-light-nintendo/#5315298",
+      "artwork": "output/art/nintendo-gj7g313-4f6095aaf07bfa9d43905eab.png"
     },
     {
       "id": "5315275:22421",
@@ -749,9 +884,12 @@
       "playtime_minutes": 4,
       "hours": 0.067,
       "earned_awards": 0,
+      "total_awards": 35,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T14:15:23+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/kirbys-dream-land-ue-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/kirbys-dream-land-ue-retro/achievements/#5315275",
+      "artwork": "output/art/retro-710e8-980efbf7eeb1c7384fa9850a.png"
     },
     {
       "id": "5315275:390721",
@@ -765,9 +903,12 @@
       "playtime_minutes": 4,
       "hours": 0.067,
       "earned_awards": 0,
+      "total_awards": 73,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-14T22:28:48+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-white-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-white-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-77je1bg-051514924b6d8c254512acff.png"
     },
     {
       "id": "5315275:22727",
@@ -781,9 +922,12 @@
       "playtime_minutes": 4,
       "hours": 0.067,
       "earned_awards": 0,
+      "total_awards": 110,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-24T10:13:44+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/legend-of-zelda-links-awakening-dx-the-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/legend-of-zelda-links-awakening-dx-the-retro/achievements/#5315275",
+      "artwork": "output/art/retro-6j3b5-91af1100e9e8ec28176bbad3.png"
     },
     {
       "id": "5143229:996215",
@@ -797,9 +941,12 @@
       "playtime_minutes": 4,
       "hours": 0.067,
       "earned_awards": 0,
+      "total_awards": 61,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/qun-xia-chuan-xing-cun-zhe-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/qun-xia-chuan-xing-cun-zhe-steam/achievements/#5143229",
+      "artwork": "output/art/steam-bg013jd-f4dfde4fdbf8dff2b81fdc77.png"
     },
     {
       "id": "5315275:22765",
@@ -813,9 +960,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 42,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-21T16:35:38+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/adventure-island-iii-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/adventure-island-iii-retro/achievements/#5315275",
+      "artwork": "output/art/retro-4gb8e-01fd966cd5eb63f09518e442.png"
     },
     {
       "id": "5315275:152642",
@@ -829,9 +979,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-20T00:15:55+00:00",
       "activity_status": "played",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/retro-g75g16-e591f68beeda7c1f379b22ae.png"
     },
     {
       "id": "5315275:149835",
@@ -845,9 +998,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 82,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-23T10:28:48+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/command-conquer-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/command-conquer-retro/achievements/#5315275",
+      "artwork": "output/art/retro-5b371d-e9ccddf57433483dd90b9a7a.png"
     },
     {
       "id": "5315275:139560",
@@ -861,9 +1017,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 101,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-25T11:40:14+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/command-conquer-red-alert-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/command-conquer-red-alert-retro/achievements/#5315275",
+      "artwork": "output/art/retro-753g1d-b898afafa387641667106324.png"
     },
     {
       "id": "5315275:549247",
@@ -877,9 +1036,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-26T05:29:40+00:00",
       "activity_status": "played",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/retro-77g0bb1-49728cd2aab8ed5d58a2e5b3.png"
     },
     {
       "id": "5315275:144472",
@@ -893,9 +1055,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 76,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T13:42:00+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/fire-emblem-genealogy-of-the-holy-war-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/fire-emblem-genealogy-of-the-holy-war-retro/achievements/#5315275",
+      "artwork": "output/art/retro-3438g0-91d3cc68d5de7778bb81be5b.png"
     },
     {
       "id": "5143229:51383",
@@ -909,9 +1074,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "played",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/steam-j031b8-076c31f4c097a5afc3e60c7f.png"
     },
     {
       "id": "5315275:184904",
@@ -925,9 +1093,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 20,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-26T07:33:01+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/golf-retro-3/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/golf-retro-3/achievements/#5315275",
+      "artwork": "output/art/retro-d440g8-cf7c4087c69bd378cc99f150.png"
     },
     {
       "id": "5315275:139613",
@@ -941,9 +1112,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 13,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-26T07:10:39+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/kaboom-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/kaboom-retro/achievements/#5315275",
+      "artwork": "output/art/retro-4bdj04-80ffb1bac81669514a5afc76.png"
     },
     {
       "id": "5315275:22596",
@@ -957,9 +1131,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 85,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-14T20:53:39+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/mario-luigi-superstar-saga-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/mario-luigi-superstar-saga-retro/achievements/#5315275",
+      "artwork": "output/art/retro-j35d6-ea427104e4b9569192396bfb.png"
     },
     {
       "id": "5315275:156467",
@@ -973,9 +1150,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 39,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-26T07:08:04+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/metal-slug-5-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/metal-slug-5-retro/achievements/#5315275",
+      "artwork": "output/art/retro-b3eg5d-648432c58ec25dd0dd585780.png"
     },
     {
       "id": "5315275:22738",
@@ -989,9 +1169,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 113,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T11:32:43+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-crystal-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-crystal-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-ebgje-0d50d71dabcecf74bf818b04.png"
     },
     {
       "id": "5315275:22627",
@@ -1005,9 +1188,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 61,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T13:57:10+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-firered-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-firered-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-6j51e-10c89f08b38b55e2fe946586.png"
     },
     {
       "id": "5315275:22628",
@@ -1021,9 +1207,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 128,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T13:18:18+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-leafgreen-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-leafgreen-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-b5610-60e8f8510b0061eb67aa380f.png"
     },
     {
       "id": "5315275:22630",
@@ -1037,9 +1226,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 49,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-14T20:53:06+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-sapphire-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-sapphire-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-d61e6-ffd92d2b56d653f9a6238ead.png"
     },
     {
       "id": "5315275:152095",
@@ -1053,9 +1245,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 187,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T11:34:15+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-black-version-2-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-black-version-2-retro/achievements/#5315275",
+      "artwork": "output/art/retro-d8b075-1d969fbd959d35fcd77dc2a9.png"
     },
     {
       "id": "5315298:522988",
@@ -1069,9 +1264,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-09T04:58:19+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-cafe-mix-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/pokemon-cafe-mix-nintendo/#5315298",
+      "artwork": "output/art/nintendo-001j76e-030b27e2596462b39d8c3695.png"
     },
     {
       "id": "5315275:152658",
@@ -1085,9 +1283,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 121,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T10:18:48+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-diamond-version-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/pokemon-diamond-version-retro/achievements/#5315275",
+      "artwork": "output/art/retro-11jg0b-a52627dc4c8af07acca59b7c.png"
     },
     {
       "id": "5315275:150718",
@@ -1101,9 +1302,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 47,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-26T05:42:39+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/prince-of-persia-the-sands-of-time-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/prince-of-persia-the-sands-of-time-retro/achievements/#5315275",
+      "artwork": "output/art/retro-j1583d-bba5b8a43732a1d9389eb7a3.png"
     },
     {
       "id": "5315275:21886",
@@ -1117,9 +1321,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 53,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-22T10:21:39+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/sonic-3-knuckles-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/sonic-3-knuckles-retro/achievements/#5315275",
+      "artwork": "output/art/retro-78bg6-fedc8171d339a649ae53d2a9.png"
     },
     {
       "id": "5315275:23054",
@@ -1133,9 +1340,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 76,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T00:06:31+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/super-mario-bros-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/super-mario-bros-retro/achievements/#5315275",
+      "artwork": "output/art/retro-b5e33-a2cfff147311bcadaf51a18c.png"
     },
     {
       "id": "5315298:522897",
@@ -1149,9 +1359,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-10-09T05:55:38+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/super-mario-bros-35-nintendo/#5315298"
+      "source_url": "https://www.exophase.com/game/super-mario-bros-35-nintendo/#5315298",
+      "artwork": "output/art/nintendo-131j556-f5e87661a3399b5e22064dca.png"
     },
     {
       "id": "5315275:151071",
@@ -1165,9 +1378,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 102,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-14T20:52:35+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/tetris-ds-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/tetris-ds-retro/achievements/#5315275",
+      "artwork": "output/art/retro-110866-6dd16fb63a040960a2627be9.png"
     },
     {
       "id": "5315275:22591",
@@ -1181,9 +1397,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 62,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-21T19:56:51+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/legend-of-zelda-a-link-to-the-past-four-swords-the-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/legend-of-zelda-a-link-to-the-past-four-swords-the-retro/achievements/#5315275",
+      "artwork": "output/art/retro-4g13g-e57985bc3e66a5b7f03cd796.png"
     },
     {
       "id": "5315275:22427",
@@ -1197,9 +1416,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 55,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-14T21:58:42+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/legend-of-zelda-oracle-of-ages-the-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/legend-of-zelda-oracle-of-ages-the-retro/achievements/#5315275",
+      "artwork": "output/art/retro-6j787-12a4a099bd4aa996b7c7be6c.png"
     },
     {
       "id": "5315275:434060",
@@ -1213,9 +1435,12 @@
       "playtime_minutes": 1,
       "hours": 0.017,
       "earned_awards": 0,
+      "total_awards": 129,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-20T14:00:22+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hack-pokemon-unbound-retro/achievements/#5315275"
+      "source_url": "https://www.exophase.com/game/hack-pokemon-unbound-retro/achievements/#5315275",
+      "artwork": "output/art/retro-77006d4-6bf3ba86cdce36504b413693.png"
     },
     {
       "id": "5315278:713501",
@@ -1230,9 +1455,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 22,
       "achievement_completion_percent": 13.0,
+      "last_played": "2015-01-03T05:40:25+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/2048-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/2048-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d14818-a897908773096e2d73aed0cf.png"
     },
     {
       "id": "5315278:715585",
@@ -1247,9 +1475,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 9,
       "achievement_completion_percent": 22.0,
+      "last_played": "2020-11-13T07:54:06+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/a-monster-s-expedition-aa-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/a-monster-s-expedition-aa-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3513803-73bf756e1eb8cc2db8162cad.png"
     },
     {
       "id": "5315278:713965",
@@ -1263,9 +1494,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 15,
+      "total_awards": 60,
       "achievement_completion_percent": 25.0,
+      "last_played": "2013-06-17T00:06:49+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/ab-classic-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/ab-classic-apple/achievements/#5315278",
+      "artwork": "output/art/apple-40d7736-39d7614cf03119576337c8bc.png"
     },
     {
       "id": "5315278:714679",
@@ -1280,9 +1514,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 26,
       "achievement_completion_percent": 0.0,
+      "last_played": "2012-08-18T03:19:52+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/agent-dash-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/agent-dash-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d40513-627391a4f9021368b54aa89c.png"
     },
     {
       "id": "5315278:714616",
@@ -1296,9 +1533,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 27,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-03-07T16:02:31+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/agent-intercept-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/agent-intercept-apple/achievements/#5315278",
+      "artwork": "output/art/apple-gjb03gg-55999304074918ad2e5e5ad6.png"
     },
     {
       "id": "5315278:715603",
@@ -1312,9 +1552,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 7,
+      "total_awards": 9,
       "achievement_completion_percent": 77.0,
+      "last_played": "2021-04-16T08:50:04+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/alba-a-wildlife-adventure-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/alba-a-wildlife-adventure-apple/achievements/#5315278",
+      "artwork": "output/art/apple-gjb0657-0b2268f29b1a8b28b5c3b726.png"
     },
     {
       "id": "5315278:714454",
@@ -1329,9 +1572,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 26,
       "achievement_completion_percent": 3.0,
+      "last_played": "2021-07-22T04:35:31+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/alto-s-odyssey-remastered-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/alto-s-odyssey-remastered-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d7gb7-e2f1c3d3b031523356ae187a.png"
     },
     {
       "id": "5315278:713446",
@@ -1345,9 +1591,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 33,
       "achievement_completion_percent": 12.0,
+      "last_played": "2021-12-04T12:41:41+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/among-us-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/among-us-apple/achievements/#5315278",
+      "artwork": "output/art/apple-35g18dj-ebb1c5ce1f0a8c1d59ed0b95.png"
     },
     {
       "id": "5315278:714458",
@@ -1362,9 +1611,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 39,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-02-13T15:10:54+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/angry-birds-reloaded-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/angry-birds-reloaded-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13b57ej-fc54556803c2994e67865ebf.png"
     },
     {
       "id": "5315278:713876",
@@ -1378,9 +1630,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 6,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-08-07T06:59:20+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/animal-crossing-pocket-camp-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/animal-crossing-pocket-camp-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8j7ddjb-286a559ac4ba032b25e114fc.png"
     },
     {
       "id": "5315278:713487",
@@ -1394,9 +1649,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 14,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-08-24T14:05:37+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/assemble-with-care-aa-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/assemble-with-care-aa-apple/achievements/#5315278",
+      "artwork": "output/art/apple-55j08d4-0ad3ea8018e0de77ea09076f.png"
     },
     {
       "id": "5315278:716779",
@@ -1410,9 +1668,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2014-08-22T11:01:05+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-6d4d551-13a5c1de4e2874faf5838868.png"
     },
     {
       "id": "5315278:726582",
@@ -1426,9 +1687,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 63,
       "achievement_completion_percent": 0.0,
+      "last_played": "2020-11-21T21:41:40+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/atone-heart-of-the-elder-tree-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/atone-heart-of-the-elder-tree-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg78317-f34f03c323f3ce34af3cb8f5.png"
     },
     {
       "id": "5315278:714040",
@@ -1443,9 +1707,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 18,
       "achievement_completion_percent": 5.0,
+      "last_played": "2023-12-23T13:30:38+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/automatoys-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/automatoys-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d400d7-7645bbf68006197610a3248f.png"
     },
     {
       "id": "5315278:714753",
@@ -1460,9 +1727,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 13,
+      "total_awards": 31,
       "achievement_completion_percent": 41.0,
+      "last_played": "2026-09-05T23:41:25+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/balatro-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/balatro-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d40330-e2fa28549d0163bb317adf60.png"
     },
     {
       "id": "5315278:716101",
@@ -1476,9 +1746,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 18,
       "achievement_completion_percent": 0.0,
+      "last_played": "2020-11-11T06:54:03+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/ballistic-baseball-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/ballistic-baseball-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d40458-60c29cb57ba1a8d243507861.png"
     },
     {
       "id": "5315278:714346",
@@ -1493,9 +1766,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 53,
       "achievement_completion_percent": 5.0,
+      "last_played": "2014-02-06T10:55:27+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/banana-kong-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/banana-kong-apple/achievements/#5315278",
+      "artwork": "output/art/apple-35135g8-0bd6eb3de65b4567649616a1.png"
     },
     {
       "id": "5315278:714910",
@@ -1509,9 +1785,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2013-09-29T13:10:43+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-00471d0-1f9eb6072e5a60a5d00dec6e.png"
     },
     {
       "id": "5315278:729857",
@@ -1525,9 +1804,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 10,
       "achievement_completion_percent": 0.0,
+      "last_played": "2013-04-28T22:22:49+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/bee-leader-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/bee-leader-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j0786jg-db919e211f51f6d0e804c4a4.png"
     },
     {
       "id": "5143229:372969",
@@ -1541,9 +1823,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 11,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/before-your-eyes-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/before-your-eyes-steam/achievements/#5143229",
+      "artwork": "output/art/steam-dgjj3e7-b0a06ff1d0ddf4b29560f2a5.png"
     },
     {
       "id": "5315278:713444",
@@ -1557,9 +1842,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 32,
       "achievement_completion_percent": 3.0,
+      "last_played": "2020-12-18T12:55:37+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/beyond-a-steel-sky-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/beyond-a-steel-sky-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j0g7d8e-58a5f3761144c4eba7eef788.png"
     },
     {
       "id": "5315278:715574",
@@ -1573,9 +1861,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 30,
       "achievement_completion_percent": 3.0,
+      "last_played": "2021-06-02T18:00:39+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/beyond-blue-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/beyond-blue-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550e877-54d54425fa209c9a5cdd90b4.png"
     },
     {
       "id": "5315278:714095",
@@ -1589,9 +1880,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 21,
       "achievement_completion_percent": 4.0,
+      "last_played": "2014-12-14T08:29:03+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/bitcoin-billionaire-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/bitcoin-billionaire-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7jj88-add3b51299880e0f07faa4bf.png"
     },
     {
       "id": "5315278:715806",
@@ -1605,9 +1899,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 25,
       "achievement_completion_percent": 16.0,
+      "last_played": "2021-09-23T15:01:04+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/blek-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/blek-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-13b54e5-d407cb6a57a02ab894784f9f.png"
     },
     {
       "id": "5315278:714537",
@@ -1622,9 +1919,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 20,
+      "total_awards": 52,
       "achievement_completion_percent": 38.0,
+      "last_played": "2012-04-28T05:46:41+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/blueprint-3d-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/blueprint-3d-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jd1614-43cf10e594bac7ca885a685e.png"
     },
     {
       "id": "5315276:162057",
@@ -1638,9 +1938,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-j1jdg7-2913b11cd3fc0fc7388a2ad0.png"
     },
     {
       "id": "5315278:714444",
@@ -1655,9 +1958,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 58,
       "achievement_completion_percent": 6.0,
+      "last_played": "2022-05-12T22:04:17+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/bridge-constructor-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/bridge-constructor-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07b645-cee6b4d0a6f8669092a0ab1b.png"
     },
     {
       "id": "5315278:714423",
@@ -1671,9 +1977,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 14,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-01-23T01:47:34+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/card-of-darkness-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/card-of-darkness-apple/achievements/#5315278",
+      "artwork": "output/art/apple-00473jg-b47226f658555b233cbc1a18.png"
     },
     {
       "id": "5315278:717615",
@@ -1688,9 +1997,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 55,
       "achievement_completion_percent": 3.0,
+      "last_played": "2012-07-31T10:37:59+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/catapult-king-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/catapult-king-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d806g-3b6cc69620ac49164c5cea40.png"
     },
     {
       "id": "5315278:847855",
@@ -1704,9 +2016,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 12,
+      "total_awards": 25,
       "achievement_completion_percent": 48.0,
+      "last_played": "2026-02-25T15:14:13+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/chants-of-sennaar-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/chants-of-sennaar-apple/achievements/#5315278",
+      "artwork": "output/art/apple-g13e44e-2b4fe3689c64c9cf48dc0326.png"
     },
     {
       "id": "5315278:713502",
@@ -1720,9 +2035,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 5,
+      "total_awards": 19,
       "achievement_completion_percent": 26.0,
+      "last_played": "2026-09-29T20:40:42+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/chess-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/chess-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b81dj15-01ea2e2ef0386048191456fb.png"
     },
     {
       "id": "5315278:724538",
@@ -1736,9 +2054,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-11-14T12:34:29+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-ee0gb37-d343ae660569a4feccd1b00d.png"
     },
     {
       "id": "5315278:724268",
@@ -1752,9 +2073,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-09-24T03:47:05+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-gjb5e8b-009b8e52ff6e41d26006d733.png"
     },
     {
       "id": "5315278:714428",
@@ -1769,9 +2093,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 61,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-12-16T10:02:36+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/cityscapes-sim-builder-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/cityscapes-sim-builder-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d7g37-2e5f913b5d865a57e2ae3bc8.png"
     },
     {
       "id": "5315278:713838",
@@ -1785,9 +2112,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 91,
       "achievement_completion_percent": 1.0,
+      "last_played": "2014-08-23T10:27:57+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/clash-of-clans-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/clash-of-clans-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee50554-556eaa1b3b953794f2a1e89a.png"
     },
     {
       "id": "5315278:716831",
@@ -1801,9 +2131,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 20,
       "achievement_completion_percent": 5.0,
+      "last_played": "2013-11-22T22:34:25+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/clumsy-ninja-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/clumsy-ninja-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07058g-f987df7bdd9e6e18545aaa69.png"
     },
     {
       "id": "5315276:162225",
@@ -1817,9 +2150,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-e84b55-fd6b9c888d9a16420d9f2b3c.png"
     },
     {
       "id": "5315278:895548",
@@ -1834,9 +2170,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 30,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-01-21T04:56:27+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/cozy-caravan-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/cozy-caravan-apple/achievements/#5315278",
+      "artwork": "output/art/apple-57bg45g-027bf21cbda44e3073c222c3.png"
     },
     {
       "id": "5315278:716482",
@@ -1851,9 +2190,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 71,
       "achievement_completion_percent": 2.0,
+      "last_played": "2023-09-29T08:53:15+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/cozy-grove-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/cozy-grove-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7ggdj-fd1e00e16c13e7f0a91fac44.png"
     },
     {
       "id": "5315278:991637",
@@ -1868,9 +2210,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 38,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-09-09T17:29:39+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/creatures-of-the-deep-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/creatures-of-the-deep-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-85g80g3-0def58231eee8f0e286f6574.png"
     },
     {
       "id": "5315278:713430",
@@ -1884,9 +2229,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 8,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-11T12:16:31+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/crossy-road-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/crossy-road-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-dge7341-e005e0f78defd7b10fa60958.png"
     },
     {
       "id": "5315278:714222",
@@ -1900,9 +2248,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 1,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-10-12T05:18:24+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/crossy-road-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/crossy-road-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550e577-e3b84d9741acb2f93d1f0070.png"
     },
     {
       "id": "5315278:882144",
@@ -1917,9 +2268,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 9,
+      "total_awards": 48,
       "achievement_completion_percent": 18.0,
+      "last_played": "2026-10-27T19:09:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/cult-of-the-lamb-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/cult-of-the-lamb-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j6eg435-b38653c3ddc3acce71dd0a7e.png"
     },
     {
       "id": "5315278:714560",
@@ -1934,9 +2288,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 25,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-12-18T10:49:22+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/cut-the-rope-3-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/cut-the-rope-3-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77bj400-d0e470ce910248cf754cc396.png"
     },
     {
       "id": "5315278:714438",
@@ -1951,9 +2308,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 30,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-06-02T18:12:48+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/cut-the-rope-remastered-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/cut-the-rope-remastered-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee0d38b-854c8a139fed3401aefcc951.png"
     },
     {
       "id": "5143229:478181",
@@ -1967,9 +2327,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 56,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/dave-the-diver-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/dave-the-diver-steam/achievements/#5143229",
+      "artwork": "output/art/steam-gj36eg1-0c3f0ce2efccb6be014033d4.png"
     },
     {
       "id": "5315278:716118",
@@ -1983,9 +2346,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 33,
+      "total_awards": 53,
       "achievement_completion_percent": 62.0,
+      "last_played": "2026-10-20T07:00:31+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/dead-cells-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/dead-cells-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07b71b-95331a0dbaeea44aae69e7c6.png"
     },
     {
       "id": "5315278:713450",
@@ -1999,9 +2365,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 29,
       "achievement_completion_percent": 0.0,
+      "last_played": "2022-01-03T11:42:30+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/dear-reader-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/dear-reader-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8j7d8b3-80db335a0e002ea291518cd8.png"
     },
     {
       "id": "5315278:713864",
@@ -2016,9 +2385,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 53,
       "achievement_completion_percent": 0.0,
+      "last_played": "2024-01-14T23:16:50+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/disney-spellstruck-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/disney-spellstruck-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee500d4-83ac982ab61504b031a31a13.png"
     },
     {
       "id": "5315278:714139",
@@ -2033,9 +2405,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 12,
+      "total_awards": 52,
       "achievement_completion_percent": 23.0,
+      "last_played": "2015-08-14T11:23:57+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/don-t-touch-the-spikes-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/don-t-touch-the-spikes-apple/achievements/#5315278",
+      "artwork": "output/art/apple-407553g-a0f7bb085b41b0119d351749.png"
     },
     {
       "id": "5315278:717498",
@@ -2050,9 +2425,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 55,
       "achievement_completion_percent": 3.0,
+      "last_played": "2022-01-27T18:13:34+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/doodle-god-universe-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/doodle-god-universe-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3515dd7-930b26794347807b33adfe5b.png"
     },
     {
       "id": "5315276:800617",
@@ -2066,9 +2444,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 31,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/doom-2016-gog/achievements/#5315276"
+      "source_url": "https://www.exophase.com/game/doom-2016-gog/achievements/#5315276",
+      "artwork": "output/art/gog-d00j8b7-edf4cb789a676acfa1ed1e84.png"
     },
     {
       "id": "5315276:696657",
@@ -2082,9 +2463,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 33,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/doom-doom-ii-gog/achievements/#5315276"
+      "source_url": "https://www.exophase.com/game/doom-doom-ii-gog/achievements/#5315276",
+      "artwork": "output/art/gog-j0g105b-64f5abe497d233ce3faf9837.png"
     },
     {
       "id": "5315276:526393",
@@ -2098,9 +2482,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-b833bj5-f42883d6dd13427d252ae433.png"
     },
     {
       "id": "5315276:163070",
@@ -2114,9 +2501,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-j1d6gg-e4dd1dab1fdbe43764ee60e2.png"
     },
     {
       "id": "5315276:526406",
@@ -2130,9 +2520,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-1311e44-558ff3cb61b9633e4a26f985.png"
     },
     {
       "id": "5315278:726589",
@@ -2146,9 +2539,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 68,
       "achievement_completion_percent": 5.0,
+      "last_played": "2021-04-17T00:09:14+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/doomsday-vault-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/doomsday-vault-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jd480e-bc65073fffef962a530ef3ff.png"
     },
     {
       "id": "5315278:940058",
@@ -2163,9 +2559,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 18,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-03-16T18:27:57+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/doraemon-dorayaki-shop-story-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/doraemon-dorayaki-shop-story-apple/achievements/#5315278",
+      "artwork": "output/art/apple-17g66g7-c6c0eb666bbe6efe397bde79.png"
     },
     {
       "id": "5315278:715566",
@@ -2179,9 +2578,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 25,
       "achievement_completion_percent": 16.0,
+      "last_played": "2022-08-14T07:35:10+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/down-in-bermuda-aa-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/down-in-bermuda-aa-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d408de-c969d86a53859ed6237990c7.png"
     },
     {
       "id": "5315278:713877",
@@ -2195,9 +2597,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 19,
       "achievement_completion_percent": 0.0,
+      "last_played": "2019-08-26T13:05:02+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/dr-mario-world-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/dr-mario-world-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee500e4-39e55a2fc79b1a637d582a21.png"
     },
     {
       "id": "5315278:951066",
@@ -2212,9 +2617,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 60,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-09-29T12:05:57+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/dredge-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/dredge-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-67e51e4-e4e01f8dc0944f10ef7c6ce6.png"
     },
     {
       "id": "5315278:714851",
@@ -2228,9 +2636,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2013-05-19T22:11:43+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-ee0dg5j-6c69990b473c33e6ba8c9a2a.png"
     },
     {
       "id": "5315278:713434",
@@ -2245,9 +2656,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 20,
       "achievement_completion_percent": 5.0,
+      "last_played": "2021-04-11T08:58:28+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/fantasian-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/fantasian-apple/achievements/#5315278",
+      "artwork": "output/art/apple-773b8g6-0d9cc2bb9aba6bb292736402.png"
     },
     {
       "id": "5315278:716100",
@@ -2262,9 +2676,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 10,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-02-19T10:58:31+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/farmside-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/farmside-apple/achievements/#5315278",
+      "artwork": "output/art/apple-4075713-fa7d55d7d84624dc44203844.png"
     },
     {
       "id": "5315276:163076",
@@ -2278,9 +2695,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-8485d0-558ff3cb61b9633e4a26f985.png"
     },
     {
       "id": "5143229:489760",
@@ -2294,9 +2714,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 63,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/final-fantasy-vii-remake-intergrade-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/final-fantasy-vii-remake-intergrade-steam/achievements/#5143229",
+      "artwork": "output/art/steam-77573b3-989c1206c70fbe6fd820d107.png"
     },
     {
       "id": "5143229:674395",
@@ -2310,9 +2733,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 34,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/fireside-feelings-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/fireside-feelings-steam/achievements/#5143229",
+      "artwork": "output/art/steam-dg6d74d-4e636f9d9fd49d6fb8755080.png"
     },
     {
       "id": "5315278:714455",
@@ -2326,9 +2752,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 15,
       "achievement_completion_percent": 6.0,
+      "last_played": "2021-01-27T12:36:36+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/frogger-in-toy-town-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/frogger-in-toy-town-apple/achievements/#5315278",
+      "artwork": "output/art/apple-gjb018j-db067fe3f296278f8899faea.png"
     },
     {
       "id": "5315278:713966",
@@ -2342,9 +2771,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 9,
+      "total_awards": 30,
       "achievement_completion_percent": 30.0,
+      "last_played": "2013-04-18T12:27:17+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/fruit-ninja-classic-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/fruit-ninja-classic-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d1446b-bbec6a0e2ad66b0329a16f66.png"
     },
     {
       "id": "5315278:714563",
@@ -2358,9 +2790,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 39,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-07-29T22:27:04+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/game-room-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/game-room-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jd1654-b01c07ce0f3f291697a128cf.png"
     },
     {
       "id": "5315278:713448",
@@ -2374,9 +2809,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-03-01T07:21:28+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-55j0814-370f3346db9ece15c47b89ad.png"
     },
     {
       "id": "5315278:717492",
@@ -2391,9 +2829,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 99,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-03-10T01:39:53+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/geometry-dash-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/geometry-dash-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d4deb8-f38401f5b40afd7da4bf9c56.png"
     },
     {
       "id": "5315278:714885",
@@ -2408,9 +2849,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 18,
       "achievement_completion_percent": 16.0,
+      "last_played": "2013-09-08T11:57:52+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/giant-boulder-of-death-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/giant-boulder-of-death-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3513457-ce2e553e0b90203b1c0868ed.png"
     },
     {
       "id": "5315278:724299",
@@ -2425,9 +2869,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 27,
       "achievement_completion_percent": 0.0,
+      "last_played": "2022-02-25T13:38:39+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/gibbon-beyond-the-trees-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/gibbon-beyond-the-trees-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77b5e15-21aa2d89d817c67acdcea7ec.png"
     },
     {
       "id": "5315278:726562",
@@ -2442,9 +2889,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 41,
       "achievement_completion_percent": 0.0,
+      "last_played": "2014-12-06T08:59:17+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/god-of-light-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/god-of-light-apple/achievements/#5315278",
+      "artwork": "output/art/apple-0041831-3956298a2e0671a9a6222db6.png"
     },
     {
       "id": "5315278:715554",
@@ -2458,9 +2908,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 20,
       "achievement_completion_percent": 0.0,
+      "last_played": "2015-12-29T04:13:10+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/gods-of-rome-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/gods-of-rome-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d7j70-6d2ddf437f278b741df2bb10.png"
     },
     {
       "id": "5315278:713896",
@@ -2474,9 +2927,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 16,
+      "total_awards": 16,
       "achievement_completion_percent": 100.0,
+      "last_played": "2025-11-04T16:00:51+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/godus-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/godus-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j0g7750-bde632dcdd06c5eb3aa37903.png"
     },
     {
       "id": "5315278:717486",
@@ -2490,9 +2946,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2023-11-04T13:29:39+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-77b76g4-563b686a514732ff6a9d4a0f.png"
     },
     {
       "id": "5315278:714422",
@@ -2506,9 +2965,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 10,
       "achievement_completion_percent": 40.0,
+      "last_played": "2022-09-04T04:32:30+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/grindstone-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/grindstone-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550e7g1-b47226f658555b233cbc1a18.png"
     },
     {
       "id": "5315278:714467",
@@ -2522,9 +2984,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 10,
       "achievement_completion_percent": 40.0,
+      "last_played": "2020-11-23T07:27:11+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/grindstone-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/grindstone-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-b8d7g07-6582fd2ab94864f789c83c8b.png"
     },
     {
       "id": "5315278:724011",
@@ -2539,9 +3004,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 17,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-10-27T12:09:10+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/gris-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/gris-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jd0bj5-4a5a8940a987cc19f79160d6.png"
     },
     {
       "id": "5315278:716187",
@@ -2555,9 +3023,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2025-09-21T07:44:28+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-550e0dg-a16263bddaad13afe79a0895.png"
     },
     {
       "id": "5315278:714437",
@@ -2571,9 +3042,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 99,
       "achievement_completion_percent": 0.0,
+      "last_played": "2014-08-20T08:17:46+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/hay-day-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/hay-day-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jd1548-c72525fb1cf3fa35406acb88.png"
     },
     {
       "id": "5315278:895279",
@@ -2588,9 +3062,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-09T17:50:54+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-67g3bb6-ebbe6b4713fe2b2dcc52077e.png"
     },
     {
       "id": "5315278:713289",
@@ -2605,9 +3082,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 11,
       "achievement_completion_percent": 9.0,
+      "last_played": "2026-01-09T18:24:03+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hello-kitty-island-adventure-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/hello-kitty-island-adventure-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8j7dgg4-b509731130a6d2efa1369934.png"
     },
     {
       "id": "5315278:732331",
@@ -2622,9 +3102,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2013-03-18T10:37:35+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-j07jee6-7572eda7e855729ca0844413.png"
     },
     {
       "id": "5315278:717603",
@@ -2639,9 +3122,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2012-12-31T11:13:24+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-gjbje13-759aa5dfb78b58c42f753343.png"
     },
     {
       "id": "5315278:713996",
@@ -2655,9 +3141,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 39,
       "achievement_completion_percent": 5.0,
+      "last_played": "2013-05-04T11:59:39+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/injustice-gods-among-us-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/injustice-gods-among-us-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j0g7733-98b586f3525bf27fdfa5886e.png"
     },
     {
       "id": "5315278:714417",
@@ -2672,9 +3161,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 8,
       "achievement_completion_percent": 12.0,
+      "last_played": "2023-09-24T13:02:32+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/japanese-rural-life-adventure-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/japanese-rural-life-adventure-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7j0b0-a9cd19863a62082e078202e8.png"
     },
     {
       "id": "5315278:794607",
@@ -2689,9 +3181,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 11,
       "achievement_completion_percent": 0.0,
+      "last_played": "2025-04-27T06:59:49+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/katamari-damacy-rolling-live-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/katamari-damacy-rolling-live-apple/achievements/#5315278",
+      "artwork": "output/art/apple-375bebe-00e1dd71eecd7050f4254bb7.png"
     },
     {
       "id": "5315278:829425",
@@ -2706,9 +3201,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 91,
       "achievement_completion_percent": 0.0,
+      "last_played": "2025-09-14T11:47:07+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/kingdom-rush-5-alliance-td-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/kingdom-rush-5-alliance-td-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-e31d6b0-dacef67a415c17de1d5ff62f.png"
     },
     {
       "id": "5315278:714460",
@@ -2723,9 +3221,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 85,
       "achievement_completion_percent": 4.0,
+      "last_played": "2021-11-21T12:36:38+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/kingdom-rush-frontiers-td-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/kingdom-rush-frontiers-td-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77bj06g-8c84d223bce41a6252f72c99.png"
     },
     {
       "id": "5315278:724273",
@@ -2739,9 +3240,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 46,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-27T19:02:08+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/kingdom-two-crowns-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/kingdom-two-crowns-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77b5ee5-a1e02945768856c6f5dd9aae.png"
     },
     {
       "id": "5315278:715570",
@@ -2755,9 +3259,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 5,
+      "total_awards": 18,
       "achievement_completion_percent": 27.0,
+      "last_played": "2025-12-01T06:01:23+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/lego-brawls-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/lego-brawls-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07bd0g-efd47dcc00d70a215831bc1c.png"
     },
     {
       "id": "5315278:715586",
@@ -2771,9 +3278,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 22,
       "achievement_completion_percent": 9.0,
+      "last_played": "2025-11-04T00:13:01+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/lego-builder-s-journey-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/lego-builder-s-journey-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77bj847-28bb5aa18baec5e96d0803ef.png"
     },
     {
       "id": "5315278:715592",
@@ -2788,9 +3298,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 1,
       "achievement_completion_percent": 0.0,
+      "last_played": "2022-01-22T14:54:46+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/lego-star-wars-battles-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/lego-star-wars-battles-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d4085e-5b47104c63a332ca7f89f93c.png"
     },
     {
       "id": "5315278:725365",
@@ -2804,9 +3317,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 2,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-01-07T12:11:43+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/lifelike-chapter-one-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/lifelike-chapter-one-apple/achievements/#5315278",
+      "artwork": "output/art/apple-4076e0b-c34284fb7bc2ff419a23f2bb.png"
     },
     {
       "id": "5315278:724274",
@@ -2821,9 +3337,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 13,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-01-21T20:50:47+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/limbo-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/limbo-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550g44b-37ca9ab1e82e296f1710db2b.png"
     },
     {
       "id": "5315278:716484",
@@ -2838,9 +3357,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 22,
       "achievement_completion_percent": 0.0,
+      "last_played": "2024-01-21T01:27:09+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/little-orpheus-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/little-orpheus-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13b33e7-944b67574aa000406468bff1.png"
     },
     {
       "id": "5315278:714717",
@@ -2855,9 +3377,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 13,
+      "total_awards": 57,
       "achievement_completion_percent": 22.0,
+      "last_played": "2012-05-26T15:56:32+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/logos-quiz-guess-the-logos-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/logos-quiz-guess-the-logos-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7jbg1-44654414f2a71dd9a54a1101.png"
     },
     {
       "id": "5315278:724383",
@@ -2871,9 +3396,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 17,
       "achievement_completion_percent": 0.0,
+      "last_played": "2015-01-09T09:46:57+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/looney-tunes-dash-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/looney-tunes-dash-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07ed53-d36b9f52d49886e238da94ff.png"
     },
     {
       "id": "5315278:716541",
@@ -2888,9 +3416,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 16,
       "achievement_completion_percent": 6.0,
+      "last_played": "2012-11-19T11:19:51+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/lostwinds2-winter-of-the-melodias-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/lostwinds2-winter-of-the-melodias-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d881b-33e1b602bf10e668ef6a1295.png"
     },
     {
       "id": "5315278:715783",
@@ -2904,9 +3435,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 25,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-07-26T13:44:39+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/manifold-garden-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/manifold-garden-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07b315-be3c07b758f8f71312d95580.png"
     },
     {
       "id": "5315278:714062",
@@ -2920,9 +3454,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 100,
       "achievement_completion_percent": 1.0,
+      "last_played": "2021-09-18T13:43:13+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/marble-it-up-mayhem-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/marble-it-up-mayhem-apple/achievements/#5315278",
+      "artwork": "output/art/apple-004773e-95c6ad49148808e6fe876b26.png"
     },
     {
       "id": "5315278:713306",
@@ -2936,9 +3473,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 5,
       "achievement_completion_percent": 0.0,
+      "last_played": "2019-10-06T01:03:42+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/mario-kart-tour-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/mario-kart-tour-apple/achievements/#5315278",
+      "artwork": "output/art/apple-136bd88-20c8ce85a2584ac122ad88e3.png"
     },
     {
       "id": "5315278:716116",
@@ -2953,9 +3493,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 61,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-09-03T07:37:44+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/masterchef-learn-to-cook-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/masterchef-learn-to-cook-apple/achievements/#5315278",
+      "artwork": "output/art/apple-gjb0b54-01eb9becb85ceb02a9407dcb.png"
     },
     {
       "id": "5315278:814807",
@@ -2969,9 +3512,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2017-08-24T12:23:16+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-377jg6j-77e09bde95b250e45444d9dc.png"
     },
     {
       "id": "5315278:726585",
@@ -2985,9 +3531,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 14,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-05-31T14:25:33+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/mind-symphony-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/mind-symphony-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3514867-acbec9637d445e2c1f04960d.png"
     },
     {
       "id": "5315278:714463",
@@ -3002,9 +3551,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 73,
       "achievement_completion_percent": 1.0,
+      "last_played": "2025-11-04T16:00:25+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/mini-metro-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/mini-metro-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-8jd15b8-ebd6df9f38894c85e65c03f5.png"
     },
     {
       "id": "5315278:714472",
@@ -3018,9 +3570,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 17,
+      "total_awards": 83,
       "achievement_completion_percent": 20.0,
+      "last_played": "2025-11-13T14:06:34+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/mini-motorways-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/mini-motorways-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-35137e4-14f8d1ac96e8654997332abb.png"
     },
     {
       "id": "5315278:714136",
@@ -3034,9 +3589,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 36,
       "achievement_completion_percent": 0.0,
+      "last_played": "2015-03-26T11:41:39+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/mr-jump-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/mr-jump-apple/achievements/#5315278",
+      "artwork": "output/art/apple-00477g6-5461c40fae8e3031e8080322.png"
     },
     {
       "id": "5315278:777040",
@@ -3050,9 +3608,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 25,
       "achievement_completion_percent": 0.0,
+      "last_played": "2025-09-07T06:32:58+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/my-dear-farm-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/my-dear-farm-apple/achievements/#5315278",
+      "artwork": "output/art/apple-67d7613-2029930603537f664666fb36.png"
     },
     {
       "id": "5315278:882142",
@@ -3067,9 +3628,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 47,
       "achievement_completion_percent": 2.0,
+      "last_played": "2026-01-03T01:22:40+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/naruto-ultimate-ninja-storm-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/naruto-ultimate-ninja-storm-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-g154gdj-60d436137999dc0307f5e028.png"
     },
     {
       "id": "5315278:715599",
@@ -3084,9 +3648,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-04-10T10:46:59+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-77bj857-a79f1cb4a2773412ff00d513.png"
     },
     {
       "id": "5315278:716817",
@@ -3101,9 +3668,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 10,
       "achievement_completion_percent": 0.0,
+      "last_played": "2014-07-19T11:58:45+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/ninja-up-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/ninja-up-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7g146-b60cbb854ed8569f184083a2.png"
     },
     {
       "id": "5315278:714604",
@@ -3117,9 +3687,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 89,
       "achievement_completion_percent": 1.0,
+      "last_played": "2023-05-28T04:37:49+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/oceanhorn-2-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/oceanhorn-2-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7j18d-0cbdadc9f2d60534608df9fe.png"
     },
     {
       "id": "5315278:939444",
@@ -3134,9 +3707,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 75,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-05T07:25:38+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/oceanhorn-3-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/oceanhorn-3-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j64g837-c7b818bb3ff963bb3894c8ad.png"
     },
     {
       "id": "5315278:724303",
@@ -3150,9 +3726,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 34,
       "achievement_completion_percent": 0.0,
+      "last_played": "2022-01-22T14:55:54+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/oddmar-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/oddmar-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-gjb5ede-b7138db80e7e1bd27cc4e3d3.png"
     },
     {
       "id": "5315278:724284",
@@ -3166,9 +3745,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 12,
       "achievement_completion_percent": 0.0,
+      "last_played": "2025-11-14T15:38:07+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/old-man-s-journey-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/old-man-s-journey-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13bjd87-426b014dfafa07afec7fd018.png"
     },
     {
       "id": "5315278:713872",
@@ -3182,9 +3764,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 100,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-08-18T10:50:00+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/outlanders-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/outlanders-apple/achievements/#5315278",
+      "artwork": "output/art/apple-35g1150-119cfca83e87bbe4fc74530d.png"
     },
     {
       "id": "5315278:715058",
@@ -3199,9 +3784,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 31,
       "achievement_completion_percent": 3.0,
+      "last_played": "2026-01-29T19:27:19+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/outlanders-2-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/outlanders-2-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13b5g3g-2816f570f7e85c951078b1e7.png"
     },
     {
       "id": "5315278:714567",
@@ -3215,9 +3803,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 84,
       "achievement_completion_percent": 4.0,
+      "last_played": "2020-11-16T16:07:53+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pac-man-party-royale-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/pac-man-party-royale-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d76gj-968a85f7b866ee0935647c72.png"
     },
     {
       "id": "5315278:714820",
@@ -3232,9 +3823,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 3,
       "achievement_completion_percent": 0.0,
+      "last_played": "2014-07-21T01:09:30+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/piano-tiles-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/piano-tiles-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3513687-85e63c0ff346c80333802232.png"
     },
     {
       "id": "5315278:786129",
@@ -3248,9 +3842,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 22,
       "achievement_completion_percent": 9.0,
+      "last_played": "2025-12-23T07:44:18+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/piano-tiles-2-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/piano-tiles-2-apple/achievements/#5315278",
+      "artwork": "output/art/apple-g1jgdeg-bae6babc28676d70ddf56951.png"
     },
     {
       "id": "5315278:861579",
@@ -3265,9 +3862,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 96,
       "achievement_completion_percent": 0.0,
+      "last_played": "2025-11-06T00:28:26+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/piffle-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/piffle-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-67377d3-550dae3bf98b90b258d24899.png"
     },
     {
       "id": "5315278:744685",
@@ -3282,9 +3882,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-08-10T11:55:31+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-373314j-df3fef48204964b038ce482c.png"
     },
     {
       "id": "5315278:714541",
@@ -3298,9 +3901,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 47,
       "achievement_completion_percent": 4.0,
+      "last_played": "2011-08-13T18:07:16+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/plants-vs-zombies-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/plants-vs-zombies-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d767j-c9299611dc7d136de3022a95.png"
     },
     {
       "id": "5315278:714448",
@@ -3314,9 +3920,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 75,
       "achievement_completion_percent": 0.0,
+      "last_played": "2013-07-13T03:00:55+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/plants-vs-zombies-2-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/plants-vs-zombies-2-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550e761-ee73c22c32d2d4b578411806.png"
     },
     {
       "id": "5315278:715433",
@@ -3330,9 +3939,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 14,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-17T05:13:49+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/playdead-s-inside-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/playdead-s-inside-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3513e66-03ca72f7727c0b6ef3619fcc.png"
     },
     {
       "id": "5315278:714450",
@@ -3346,9 +3958,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2022-05-22T04:29:47+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-8jd15e8-dacefacdb4fa072b7d097ea9.png"
     },
     {
       "id": "5315278:713953",
@@ -3362,9 +3977,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2020-09-11T02:17:19+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-6d144eb-bb5c2b2831b8e592257f48f6.png"
     },
     {
       "id": "5315278:714473",
@@ -3378,9 +3996,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 10,
       "achievement_completion_percent": 10.0,
+      "last_played": "2019-12-09T20:58:11+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/pokemon-masters-ex-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/pokemon-masters-ex-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77bj0eg-148b87e3ce362a9866919e8e.png"
     },
     {
       "id": "5143229:4018",
@@ -3394,9 +4015,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 51,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/portal-2-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/portal-2-steam/achievements/#5143229",
+      "artwork": "output/art/steam-j0330-70d802097a549de2bd6e2c22.png"
     },
     {
       "id": "5315278:717505",
@@ -3410,9 +4034,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 9,
       "achievement_completion_percent": 11.0,
+      "last_played": "2022-01-27T18:25:50+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/possessions-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/possessions-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07088d-8d13107b6fcd893dcb4602a3.png"
     },
     {
       "id": "5315278:882140",
@@ -3427,9 +4054,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 69,
       "achievement_completion_percent": 1.0,
+      "last_played": "2026-01-03T01:46:50+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/powerwash-simulator-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/powerwash-simulator-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6731b84-be2f609a3320a1e6a493f103.png"
     },
     {
       "id": "5315278:794614",
@@ -3444,9 +4074,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 12,
+      "total_awards": 68,
       "achievement_completion_percent": 17.0,
+      "last_played": "2025-04-30T18:28:38+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/puffies-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/puffies-apple/achievements/#5315278",
+      "artwork": "output/art/apple-67dj617-477577bf4e22065990a2aa35.png"
     },
     {
       "id": "5315278:715092",
@@ -3461,9 +4094,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 46,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-01-22T09:09:56+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/rabbids-multiverse-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/rabbids-multiverse-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d40b3d-c69250ab7d9d2081a6698caf.png"
     },
     {
       "id": "5315278:714852",
@@ -3477,9 +4113,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2013-02-08T10:59:30+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-4075bd3-6c69990b473c33e6ba8c9a2a.png"
     },
     {
       "id": "5315278:714356",
@@ -3493,9 +4132,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 7,
+      "total_awards": 17,
       "achievement_completion_percent": 41.0,
+      "last_played": "2013-01-25T07:54:31+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/rayman-jungle-run-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/rayman-jungle-run-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7jg74-ae78add648bbe181430acde4.png"
     },
     {
       "id": "5315278:713451",
@@ -3509,9 +4151,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 47,
       "achievement_completion_percent": 0.0,
+      "last_played": "2024-11-05T05:03:02+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/rayman-mini-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/rayman-mini-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee507j5-d97560e7ae7d5c09757e57d8.png"
     },
     {
       "id": "5315278:724313",
@@ -3525,9 +4170,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 52,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-09-23T02:10:42+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/really-bad-chess-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/really-bad-chess-apple/achievements/#5315278",
+      "artwork": "output/art/apple-407b3d6-e2897cc39323ee7a986ec70c.png"
     },
     {
       "id": "5315278:716763",
@@ -3542,9 +4190,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 20,
       "achievement_completion_percent": 0.0,
+      "last_played": "2014-10-26T08:18:33+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/rgb-express-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/rgb-express-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jdj65g-e942084aa2656cc7f9f6d3e8.png"
     },
     {
       "id": "5315276:160737",
@@ -3558,9 +4209,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-84g5j4-b9df374bfceaa7b34528c487.png"
     },
     {
       "id": "5315278:715731",
@@ -3574,9 +4228,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2014-07-01T04:12:05+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-j07b305-83bf53ccd2885f164ae065b0.png"
     },
     {
       "id": "5315278:714420",
@@ -3590,9 +4247,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 11,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-01-21T15:13:47+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/rollercoaster-tycoon-classic-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/rollercoaster-tycoon-classic-apple/achievements/#5315278",
+      "artwork": "output/art/apple-3513764-088da3d8d471f1aabbfcff4f.png"
     },
     {
       "id": "5315278:794900",
@@ -3607,9 +4267,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 11,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-01-22T09:10:04+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/rollercoaster-tycoon-classic-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/rollercoaster-tycoon-classic-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-4e0ggje-74e38599599740e747179640.png"
     },
     {
       "id": "5315278:714916",
@@ -3623,9 +4286,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-01-05T12:49:43+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-gjb0738-819199271a4b531d8f37d140.png"
     },
     {
       "id": "5315276:160726",
@@ -3639,9 +4305,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-463e5j-e71d8eb6549defd3c7cefd25.png"
     },
     {
       "id": "5315278:714987",
@@ -3655,9 +4324,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2015-10-31T09:18:02+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-550eb8e-7faf12b06aa4a6a4530a2cf9.png"
     },
     {
       "id": "5315278:730587",
@@ -3672,9 +4344,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2019-09-22T02:15:26+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-55011ee-834136f3ab4f40f388ff0cce.png"
     },
     {
       "id": "5315278:713479",
@@ -3688,9 +4363,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 25,
       "achievement_completion_percent": 4.0,
+      "last_played": "2021-10-07T17:48:46+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/sayonara-wild-hearts-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sayonara-wild-hearts-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d148j0-8327fbff27fde7ee30a43bfa.png"
     },
     {
       "id": "5143229:159156",
@@ -3704,9 +4382,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 34,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sekiro-shadows-die-twice-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/sekiro-shadows-die-twice-steam/achievements/#5143229",
+      "artwork": "output/art/steam-d8d836-0b4c1ff8906c2920168c3d03.png"
     },
     {
       "id": "5315278:716774",
@@ -3720,9 +4401,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2014-02-10T06:30:33+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-5505336-543c82ebf2660addcfd6d9a0.png"
     },
     {
       "id": "5315278:906086",
@@ -3737,9 +4421,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 33,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-02-07T09:21:52+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sid-meier-s-civilization-vii-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sid-meier-s-civilization-vii-apple/achievements/#5315278",
+      "artwork": "output/art/apple-70d8ddb-1a65ae552b4a827fdc503196.png"
     },
     {
       "id": "5315278:714061",
@@ -3754,9 +4441,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 93,
       "achievement_completion_percent": 3.0,
+      "last_played": "2023-06-23T10:16:33+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/simon-s-cat-story-time-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/simon-s-cat-story-time-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550ee7d-e64ae8bf7deb05869fa254a7.png"
     },
     {
       "id": "5315278:715582",
@@ -3770,9 +4460,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 16,
       "achievement_completion_percent": 6.0,
+      "last_played": "2020-11-03T15:02:27+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/skate-city-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/skate-city-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7j306-67a6921d7f5076cc7abd6180.png"
     },
     {
       "id": "5315278:727341",
@@ -3787,9 +4480,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 31,
       "achievement_completion_percent": 3.0,
+      "last_played": "2020-11-18T13:21:02+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/slash-quest-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/slash-quest-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8de754-336e8c5072f703b44d8bfe1b.png"
     },
     {
       "id": "5315278:714427",
@@ -3803,9 +4499,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-03-25T17:18:37+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-6d40734-99a22f30808aca29b916d64c.png"
     },
     {
       "id": "5315278:725869",
@@ -3819,9 +4518,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 30,
       "achievement_completion_percent": 0.0,
+      "last_played": "2015-11-02T07:54:43+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sling-kong-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sling-kong-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg788gg-74a08d6961cd4f490aec105f.png"
     },
     {
       "id": "5315278:716139",
@@ -3835,9 +4537,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 16,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-01-21T18:53:20+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/smash-hit-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/smash-hit-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-4075743-e2f2414e5fe1e4d507aba4a6.png"
     },
     {
       "id": "5315278:715917",
@@ -3851,9 +4556,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2015-04-29T12:37:53+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-dg7je0d-a06fe053a00cdbd861dc9ab4.png"
     },
     {
       "id": "5315278:714204",
@@ -3868,9 +4576,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 7,
+      "total_awards": 46,
       "achievement_completion_percent": 15.0,
+      "last_played": "2025-11-15T04:04:14+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/snake-io-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/snake-io-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7jgj6-eb6066b78d3ea2efa5a8dfda.png"
     },
     {
       "id": "5315278:714607",
@@ -3884,9 +4595,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 80,
       "achievement_completion_percent": 1.0,
+      "last_played": "2025-11-01T17:41:43+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/sneaky-sasquatch-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sneaky-sasquatch-apple/achievements/#5315278",
+      "artwork": "output/art/apple-351304b-a3192c5f9f6552e811a83896.png"
     },
     {
       "id": "5315278:713860",
@@ -3901,9 +4615,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 38,
+      "total_awards": 85,
       "achievement_completion_percent": 44.0,
+      "last_played": "2023-06-24T10:11:42+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/solitaire-stories-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/solitaire-stories-apple/achievements/#5315278",
+      "artwork": "output/art/apple-773bbj5-71d12de7ebf030279f169c16.png"
     },
     {
       "id": "5315278:715778",
@@ -3918,9 +4635,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 25,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-06-02T00:01:24+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/songpop-party-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/songpop-party-apple/achievements/#5315278",
+      "artwork": "output/art/apple-4075gbd-3967031eb6079b62118aa1c9.png"
     },
     {
       "id": "5315278:714684",
@@ -3934,9 +4654,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 12,
       "achievement_completion_percent": 0.0,
+      "last_played": "2016-11-02T08:52:40+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sonic-cd-classic-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sonic-cd-classic-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13b5068-687dbaaacff8a79aa5bdfa6a.png"
     },
     {
       "id": "5315278:713997",
@@ -3950,9 +4673,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 41,
       "achievement_completion_percent": 4.0,
+      "last_played": "2019-09-25T21:03:29+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/sonic-dash-fun-endless-runner-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sonic-dash-fun-endless-runner-apple/achievements/#5315278",
+      "artwork": "output/art/apple-136bb46-3e22d5a4b278c576aeff4305.png"
     },
     {
       "id": "5315278:713432",
@@ -3967,9 +4693,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 46,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-12-22T05:38:34+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sonic-dream-team-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sonic-dream-team-apple/achievements/#5315278",
+      "artwork": "output/art/apple-136b8g1-18f7a274b7307d560a619a93.png"
     },
     {
       "id": "5315278:714846",
@@ -3983,9 +4712,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 15,
       "achievement_completion_percent": 13.0,
+      "last_played": "2013-01-02T07:30:19+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/sonic-jump-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sonic-jump-apple/achievements/#5315278",
+      "artwork": "output/art/apple-35136g7-69ed1f568f37d879dd5d9b1b.png"
     },
     {
       "id": "5315278:716137",
@@ -4000,9 +4732,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 48,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-08-18T10:46:53+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sp-ng-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sp-ng-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jd1dee-59fb62c39adc2f2a256bc2d4.png"
     },
     {
       "id": "5315278:733103",
@@ -4017,9 +4752,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2023-06-30T03:08:41+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-gjbee48-2ba0b426cfad2fe2e6f18c47.png"
     },
     {
       "id": "5315278:715784",
@@ -4033,9 +4771,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 6,
       "achievement_completion_percent": 16.0,
+      "last_played": "2022-01-03T11:41:28+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/spek-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/spek-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13b541j-be3c07b758f8f71312d95580.png"
     },
     {
       "id": "5315278:714441",
@@ -4050,9 +4791,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 26,
       "achievement_completion_percent": 11.0,
+      "last_played": "2021-01-26T03:42:17+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/spire-blast-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/spire-blast-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d7ge7-f36abe03f575ca906265f2df.png"
     },
     {
       "id": "5315278:723480",
@@ -4066,9 +4810,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 34,
       "achievement_completion_percent": 8.0,
+      "last_played": "2021-04-13T12:03:12+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/spyder-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/spyder-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d46d4-a6231e58b299727e15bb1969.png"
     },
     {
       "id": "5315278:715639",
@@ -4082,9 +4829,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2023-06-14T12:18:49+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-40758je-4d1b0fa3ec5c351d0f762e95.png"
     },
     {
       "id": "5315278:714421",
@@ -4099,9 +4849,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 11,
+      "total_awards": 49,
       "achievement_completion_percent": 22.0,
+      "last_played": "2023-06-28T13:30:41+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/stitch-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/stitch-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77bj05g-eeea269f744560bba8d10d2d.png"
     },
     {
       "id": "5315278:714612",
@@ -4115,9 +4868,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 27,
       "achievement_completion_percent": 0.0,
+      "last_played": "2016-08-14T00:15:16+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/subway-surfers-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/subway-surfers-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee0d163-38b04c4ce8c12fa12c39c8f2.png"
     },
     {
       "id": "5315278:829480",
@@ -4131,9 +4887,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-09T17:27:24+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-bg67bgg-a0e0b51bdb3a30b9ab579822.png"
     },
     {
       "id": "5315278:806234",
@@ -4147,9 +4906,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2025-05-31T17:09:53+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-7000bej-d7e6568ced19a383dc65abf7.png"
     },
     {
       "id": "5315278:725536",
@@ -4164,9 +4926,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 19,
       "achievement_completion_percent": 0.0,
+      "last_played": "2020-06-20T06:47:52+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sunday-lawn-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/sunday-lawn-apple/achievements/#5315278",
+      "artwork": "output/art/apple-0041d0b-1621dd66cc942cada6b976b2.png"
     },
     {
       "id": "5315278:713283",
@@ -4180,9 +4945,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 14,
       "achievement_completion_percent": 7.0,
+      "last_played": "2019-12-12T08:44:08+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/super-mario-run-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/super-mario-run-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j0g7j87-489b58fb72f2ac37ad4598c7.png"
     },
     {
       "id": "5315278:723470",
@@ -4196,9 +4964,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 85,
       "achievement_completion_percent": 1.0,
+      "last_played": "2021-07-27T16:51:58+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/super-mega-mini-party-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/super-mega-mini-party-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07e5g8-71a8509c7fd4e494435d692b.png"
     },
     {
       "id": "5315278:714948",
@@ -4213,9 +4984,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 10,
       "achievement_completion_percent": 0.0,
+      "last_played": "2016-01-08T10:10:59+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/surfingers-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/surfingers-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550eb6e-a1f46f9a321e03e4c1e9338f.png"
     },
     {
       "id": "5315278:716768",
@@ -4230,9 +5004,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2014-08-21T11:30:54+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-gjbj330-a9695e7ef8a28778e67c9921.png"
     },
     {
       "id": "5315278:714443",
@@ -4247,9 +5024,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 1,
       "achievement_completion_percent": 100.0,
+      "last_played": "2024-01-14T23:17:20+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/taiko-no-tatsujin-pop-tap-beat-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/taiko-no-tatsujin-pop-tap-beat-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7j040-f29438db2412049ce12353c5.png"
     },
     {
       "id": "5315278:713862",
@@ -4264,9 +5044,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 22,
       "achievement_completion_percent": 4.0,
+      "last_played": "2024-01-12T10:52:25+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/tamagotchi-adventure-kingdom-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/tamagotchi-adventure-kingdom-apple/achievements/#5315278",
+      "artwork": "output/art/apple-00e447b-76f0e761306687c18c634b56.png"
     },
     {
       "id": "5315278:714168",
@@ -4280,9 +5063,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2011-08-08T14:47:19+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-gjb0040-c14cb833856e365ade47e546.png"
     },
     {
       "id": "5315278:735079",
@@ -4296,9 +5082,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 6,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-11-21T21:40:06+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/tappy-self-care-fidgeter-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/tappy-self-care-fidgeter-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d48eee-dac4cf2345c1d184ca21fee3.png"
     },
     {
       "id": "5315278:740023",
@@ -4313,9 +5102,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 47,
       "achievement_completion_percent": 2.0,
+      "last_played": "2026-02-04T15:14:10+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/teeny-tiny-trains-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/teeny-tiny-trains-apple/achievements/#5315278",
+      "artwork": "output/art/apple-004e55e-a9dd8dfe72e0716dabe6c73f.png"
     },
     {
       "id": "5315278:714177",
@@ -4329,9 +5121,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 8,
+      "total_awards": 58,
       "achievement_completion_percent": 13.0,
+      "last_played": "2012-07-31T10:51:35+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/temple-run-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/temple-run-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee0dd57-60d43a489b720c1b95ab09d2.png"
     },
     {
       "id": "5315278:713455",
@@ -4345,9 +5140,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 11,
+      "total_awards": 90,
       "achievement_completion_percent": 12.0,
+      "last_played": "2013-01-25T08:42:10+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/temple-run-2-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/temple-run-2-apple/achievements/#5315278",
+      "artwork": "output/art/apple-gj4b6e1-373fd855bc1d0811797af450.png"
     },
     {
       "id": "5315278:714179",
@@ -4361,9 +5159,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 41,
       "achievement_completion_percent": 0.0,
+      "last_played": "2012-09-19T08:40:07+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/temple-run-brave-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/temple-run-brave-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d40011-b641945ccc63e788d55e9702.png"
     },
     {
       "id": "5143229:441947",
@@ -4377,9 +5178,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 37,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/terra-nil-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/terra-nil-steam/achievements/#5143229",
+      "artwork": "output/art/steam-770g0jb-052257efe6441f12cb2855dc.png"
     },
     {
       "id": "5315278:1017424",
@@ -4394,9 +5198,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 12,
       "achievement_completion_percent": 0.0,
+      "last_played": "2026-10-06T20:11:51+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/terraria-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/terraria-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-858gj64-b82ab3689b46ca8a0a145359.png"
     },
     {
       "id": "5315278:714069",
@@ -4410,9 +5217,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 18,
       "achievement_completion_percent": 0.0,
+      "last_played": "2020-11-16T16:24:45+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/tetris-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/tetris-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7jj18-199c4ff7ff8204f559d648c7.png"
     },
     {
       "id": "5315278:714570",
@@ -4427,9 +5237,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 33,
       "achievement_completion_percent": 3.0,
+      "last_played": "2021-11-14T12:14:20+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/tetris-beat-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/tetris-beat-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j07b567-72ede4b74aa8da3e41790778.png"
     },
     {
       "id": "5315278:726565",
@@ -4444,9 +5257,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 23,
       "achievement_completion_percent": 4.0,
+      "last_played": "2021-07-27T16:50:26+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-collage-atlas-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-collage-atlas-apple/achievements/#5315278",
+      "artwork": "output/art/apple-40768e3-bbfb86071c93209fbef53c37.png"
     },
     {
       "id": "5315278:725471",
@@ -4460,9 +5276,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 2,
+      "total_awards": 15,
       "achievement_completion_percent": 13.0,
+      "last_played": "2021-04-15T08:50:12+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-enchanted-worldaa-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-enchanted-worldaa-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13b178g-44507d650b0980abc15c065b.png"
     },
     {
       "id": "5315278:1020906",
@@ -4477,9 +5296,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2015-03-26T21:53:49+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": null
     },
     {
       "id": "5315278:795078",
@@ -4493,9 +5315,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2026-01-09T18:30:33+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-4e0gdjd-1f63c59dff8507e27b297df1.png"
     },
     {
       "id": "5315278:713869",
@@ -4509,9 +5334,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 17,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-03-03T13:30:07+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/the-gardens-between-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-gardens-between-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dge77gj-f63dc250688fe7efb472f4c5.png"
     },
     {
       "id": "5315278:716715",
@@ -4525,9 +5353,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 7,
+      "total_awards": 19,
       "achievement_completion_percent": 36.0,
+      "last_played": "2012-08-18T02:24:52+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-heist-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-heist-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d8g1d-6b75ffe794adfd1067692ce3.png"
     },
     {
       "id": "5315278:716483",
@@ -4542,9 +5373,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 8,
+      "total_awards": 22,
       "achievement_completion_percent": 36.0,
+      "last_played": "2026-10-28T12:37:34+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-last-campfire-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-last-campfire-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j070080-2cb49b061bfc38f67c61ee96.png"
     },
     {
       "id": "5315278:715577",
@@ -4559,9 +5393,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 42,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-07-16T09:38:10+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/the-pathlessaa-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-pathlessaa-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee0d738-b5dbb92a8ebc4bdf94826620.png"
     },
     {
       "id": "5315278:716478",
@@ -4575,9 +5412,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 7,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-08-14T12:20:00+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/the-room-two-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-room-two-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-4070048-949bab07d0fd007bab97b8ca.png"
     },
     {
       "id": "5315278:715926",
@@ -4591,9 +5431,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 9,
+      "total_awards": 51,
       "achievement_completion_percent": 17.0,
+      "last_played": "2015-01-27T04:55:27+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/the-sims-freeplay-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/the-sims-freeplay-apple/achievements/#5315278",
+      "artwork": "output/art/apple-4075d11-938ce0fbe1bc20dd5d198851.png"
     },
     {
       "id": "5315278:723491",
@@ -4608,9 +5451,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 6,
+      "total_awards": 19,
       "achievement_completion_percent": 31.0,
+      "last_played": "2025-11-15T16:44:20+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/threes-freeplay-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/threes-freeplay-apple/achievements/#5315278",
+      "artwork": "output/art/apple-407bb5e-628dc4da2cc4f3404f582662.png"
     },
     {
       "id": "5315278:713871",
@@ -4624,9 +5470,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 6,
+      "total_awards": 19,
       "achievement_completion_percent": 31.0,
+      "last_played": "2025-11-19T23:06:41+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/threes-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/threes-apple/achievements/#5315278",
+      "artwork": "output/art/apple-136bb37-d268644f97bdc94326d41788.png"
     },
     {
       "id": "5143229:558565",
@@ -4640,9 +5489,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 57,
       "achievement_completion_percent": 0.0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/thronefall-steam/achievements/#5143229"
+      "source_url": "https://www.exophase.com/game/thronefall-steam/achievements/#5143229",
+      "artwork": "output/art/steam-404j10j-7ac25798962241099fea6a90.png"
     },
     {
       "id": "5315278:811870",
@@ -4657,9 +5509,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 34,
       "achievement_completion_percent": 2.0,
+      "last_played": "2025-11-24T23:55:51+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/thronefall-a-little-kingdom-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/thronefall-a-little-kingdom-apple/achievements/#5315278",
+      "artwork": "output/art/apple-j661478-2722be77130c570d3da4f085.png"
     },
     {
       "id": "5315278:716480",
@@ -4673,9 +5528,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 19,
       "achievement_completion_percent": 0.0,
+      "last_played": "2022-01-24T12:07:00+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/thumper-pocket-edition-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/thumper-pocket-edition-apple/achievements/#5315278",
+      "artwork": "output/art/apple-b8d88e1-dcfd748d5e5b9b8c476026b9.png"
     },
     {
       "id": "5315278:714192",
@@ -4689,9 +5547,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 14,
+      "total_awards": 31,
       "achievement_completion_percent": 45.0,
+      "last_played": "2013-01-07T04:37:30+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/tiny-wings-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/tiny-wings-apple/achievements/#5315278",
+      "artwork": "output/art/apple-6d40041-8669f2440f7e8dfcd116615a.png"
     },
     {
       "id": "5315278:725783",
@@ -4706,9 +5567,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-08-01T15:00:57+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-j071e84-604b87d3dad46e62162ed488.png"
     },
     {
       "id": "5315278:748024",
@@ -4722,9 +5586,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 63,
       "achievement_completion_percent": 0.0,
+      "last_played": "2024-04-24T13:41:28+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/triple-match-3d-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/triple-match-3d-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8515e50-49c33734b1634010604ff7cf.png"
     },
     {
       "id": "5315276:163082",
@@ -4738,9 +5605,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/gog-d83076-f42883d6dd13427d252ae433.png"
     },
     {
       "id": "5315278:951031",
@@ -4755,9 +5625,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 25,
       "achievement_completion_percent": 16.0,
+      "last_played": "2026-04-27T19:03:09+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/unpacking-apple-2/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/unpacking-apple-2/achievements/#5315278",
+      "artwork": "output/art/apple-j685g15-93423cb54a6252a43565472b.png"
     },
     {
       "id": "5315278:724277",
@@ -4771,9 +5644,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 14,
       "achievement_completion_percent": 0.0,
+      "last_played": "2025-04-26T15:19:34+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/very-little-nightmares-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/very-little-nightmares-apple/achievements/#5315278",
+      "artwork": "output/art/apple-ee0g444-6424ebcbe194e1d7ba2483b0.png"
     },
     {
       "id": "5315278:724458",
@@ -4788,9 +5664,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 1,
+      "total_awards": 33,
       "achievement_completion_percent": 3.0,
+      "last_played": "2020-12-18T13:44:44+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/warp-drive-teleport-racing-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/warp-drive-teleport-racing-apple/achievements/#5315278",
+      "artwork": "output/art/apple-13bj88e-c455b689c3447de9f076239d.png"
     },
     {
       "id": "5315276:901879",
@@ -4804,9 +5683,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 21,
       "achievement_completion_percent": 0,
+      "last_played": null,
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/weakless-gog/achievements/#5315276"
+      "source_url": "https://www.exophase.com/game/weakless-gog/achievements/#5315276",
+      "artwork": "output/art/gog-67gebe3-3ebee70d2fe5fde5dc516393.png"
     },
     {
       "id": "5315278:715782",
@@ -4821,9 +5703,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 37,
       "achievement_completion_percent": 0.0,
+      "last_played": "2023-06-23T07:32:28+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/what-the-car-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/what-the-car-apple/achievements/#5315278",
+      "artwork": "output/art/apple-dg7j680-fa005ba1d0bdfe999429b30b.png"
     },
     {
       "id": "5315278:805495",
@@ -4838,9 +5723,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 6,
+      "total_awards": 32,
       "achievement_completion_percent": 18.0,
+      "last_played": "2025-11-24T16:45:33+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/what-the-clash-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/what-the-clash-apple/achievements/#5315278",
+      "artwork": "output/art/apple-d000510-40c29ef7424dd369a9ff35c0.png"
     },
     {
       "id": "5315278:713449",
@@ -4854,9 +5742,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 7,
+      "total_awards": 76,
       "achievement_completion_percent": 9.0,
+      "last_played": "2025-11-23T16:29:17+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/what-the-golf-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/what-the-golf-apple/achievements/#5315278",
+      "artwork": "output/art/apple-00e4868-2df2493ec013b7a648640f7d.png"
     },
     {
       "id": "5315278:715596",
@@ -4870,9 +5761,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2021-04-21T16:31:02+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-j07bd5g-4ffcb0ea853b8a7906468ac6.png"
     },
     {
       "id": "5315278:716520",
@@ -4887,9 +5781,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2014-12-26T05:53:21+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-3515581-5fa24cd11869744c7542cf23.png"
     },
     {
       "id": "5315278:747160",
@@ -4903,9 +5800,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2023-05-31T15:24:21+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-70j07j3-e54d83d824a84ce15b8b405a.png"
     },
     {
       "id": "5315278:724626",
@@ -4920,9 +5820,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 48,
       "achievement_completion_percent": 8.0,
+      "last_played": "2021-03-29T11:14:08+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/wonderbox-the-adventure-maker-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/wonderbox-the-adventure-maker-apple/achievements/#5315278",
+      "artwork": "output/art/apple-407bg84-2b7b56be52c051faea53b782.png"
     },
     {
       "id": "5315278:713439",
@@ -4937,9 +5840,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 16,
       "achievement_completion_percent": 0.0,
+      "last_played": "2022-01-02T18:04:02+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/wurdweb-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/wurdweb-apple/achievements/#5315278",
+      "artwork": "output/art/apple-40d7847-ce7bbd4165519358a5b67025.png"
     },
     {
       "id": "5315278:714574",
@@ -4953,9 +5859,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 10,
       "achievement_completion_percent": 0.0,
+      "last_played": "2021-09-03T11:08:23+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/zen-pinball-party-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/zen-pinball-party-apple/achievements/#5315278",
+      "artwork": "output/art/apple-550e333-faff206af2de256ae6e1177b.png"
     },
     {
       "id": "5315278:714634",
@@ -4970,9 +5879,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 5,
       "achievement_completion_percent": 0.0,
+      "last_played": "2015-02-09T23:53:37+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/zigzag-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/zigzag-apple/achievements/#5315278",
+      "artwork": "output/art/apple-77bj463-21102dee6c46bd6e8f9d1941.png"
     },
     {
       "id": "5315278:728076",
@@ -4987,9 +5899,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 51,
       "achievement_completion_percent": 0.0,
+      "last_played": "2020-12-05T19:46:53+00:00",
       "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/zombie-rollerz-pinball-heroes-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/zombie-rollerz-pinball-heroes-apple/achievements/#5315278",
+      "artwork": "output/art/apple-8jde4j7-d61493e65eeb53ffeff7cdb4.png"
     },
     {
       "id": "5315278:739788",
@@ -5004,9 +5919,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 4,
+      "total_awards": 54,
       "achievement_completion_percent": 7.0,
+      "last_played": "2014-07-30T12:53:08+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/zookeeper-battle-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/zookeeper-battle-apple/achievements/#5315278",
+      "artwork": "output/art/apple-004e815-227e7fe8055d50f5c9e8ef99.png"
     },
     {
       "id": "5315278:714544",
@@ -5021,9 +5939,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2012-11-20T00:21:52+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-j07b5b7-65fcb126b9e0d47b5f9f2de7.png"
     },
     {
       "id": "5315278:714442",
@@ -5038,9 +5959,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 9,
+      "total_awards": 18,
       "achievement_completion_percent": 50.0,
+      "last_played": "2025-12-21T08:41:30+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/zookeeper-world-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/zookeeper-world-apple/achievements/#5315278",
+      "artwork": "output/art/apple-gjb01gj-fa06369489361bc439300154.png"
     },
     {
       "id": "5315278:774474",
@@ -5055,9 +5979,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 3,
+      "total_awards": 42,
       "achievement_completion_percent": 7.0,
+      "last_played": "2013-09-08T11:07:15+00:00",
       "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/ge-sheng-zi-wan-chuan-yuehd-apple/achievements/#5315278"
+      "source_url": "https://www.exophase.com/game/ge-sheng-zi-wan-chuan-yuehd-apple/achievements/#5315278",
+      "artwork": "output/art/apple-5755640-c65aea6473fd799cfb2bd2a2.png"
     },
     {
       "id": "5315278:946935",
@@ -5071,9 +5998,12 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
+      "total_awards": 0,
       "achievement_completion_percent": 0,
+      "last_played": "2013-08-25T12:30:42+00:00",
       "activity_status": "unknown",
-      "source_url": null
+      "source_url": null,
+      "artwork": "output/art/apple-5717e77-e3e124cf39bb7885c26ce590.png"
     }
   ]
 }
