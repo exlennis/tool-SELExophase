@@ -2,13 +2,13 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-10-27T17:43:40+00:00",
-    "source_retrieved_at": "2026-10-27T17:43:40+00:00",
+    "last_updated": "2026-10-28T04:49:40+00:00",
+    "source_retrieved_at": "2026-10-28T04:49:40+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "35aac12c138450c20a0b49ff4eac0f9aeac31d1aafa530f93b6f329625a521e0",
-    "total_games": 309,
+    "snapshot_sha256": "a26244081727012d80e621dedac74f0556768228c46e824d998eb95286ae27a6",
+    "total_games": 310,
     "total_known_hours": 3171.4,
-    "unknown_playtime_count": 234,
+    "unknown_playtime_count": 235,
     "played_evidence_count": 169
   },
   "games": [
@@ -2726,6 +2726,22 @@
       "achievement_completion_percent": 4.0,
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/kingdom-rush-frontiers-td-apple/achievements/#5315278"
+    },
+    {
+      "id": "5315278:724273",
+      "source_player_id": "5315278",
+      "source_game_id": "724273",
+      "title": "Kingdom Two Crowns+",
+      "service": "apple",
+      "platforms": [
+        "iOS"
+      ],
+      "playtime_minutes": null,
+      "hours": null,
+      "earned_awards": 0,
+      "achievement_completion_percent": 0.0,
+      "activity_status": "unknown",
+      "source_url": "https://www.exophase.com/game/kingdom-two-crowns-apple/achievements/#5315278"
     },
     {
       "id": "5315278:715570",
