@@ -2,8 +2,8 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-10-28T14:30:03+00:00",
-    "source_retrieved_at": "2026-10-28T14:30:02+00:00",
+    "last_updated": "2026-10-28T18:06:52+00:00",
+    "source_retrieved_at": "2026-10-28T18:06:52+00:00",
     "source_mode": "live",
     "snapshot_sha256": "7e2b03ecf2b945f9b6c78d18e38cbbfbba6084145314a15866ae5784aef962ff",
     "total_games": 310,
