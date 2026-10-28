@@ -48,7 +48,7 @@ function buildRow(game) {
   let url=null;try{const candidate=new URL(game.source_url);if(candidate.protocol==='https:'&&(candidate.hostname==='exophase.com'||candidate.hostname.endsWith('.exophase.com')))url=candidate.href;}catch{}
   if(url){const link=element('a',game.title);link.href=url;link.target='_blank';link.rel='noreferrer noopener';name.append(link,element('span',' (opens Exophase)','sr-only'));}else name.append(game.title);
   const played=game.last_played?dayFormat.format(new Date(game.last_played)):null;
-  name.append(element('span',`${serviceName(game.service)} · Released on ${game.platforms.join(', ')||'unknown platforms'}`,'meta'),element('span',`Last played ${played||'unknown'}`,'meta meta-played'));
+  name.append(element('span',`${serviceName(game.service)} · ${game.platforms.join(', ')||'Unknown platform'}`,'meta'),element('span',`Last played ${played||'unknown'}`,'meta meta-played'));
   holder.append(cover(game),name);title.append(holder);
   const serviceCell=element('td',undefined,'col-service');serviceCell.append(element('span',serviceName(game.service),'service-tag'));
   const platforms=element('td',game.platforms.join(', ')||'Unknown','source-platforms col-platforms');

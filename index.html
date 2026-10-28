@@ -42,11 +42,11 @@
       </div>
       <div class="result-line"><p id="result-count" role="status" aria-live="polite">Loading records…</p><button type="button" id="clear" class="clear" hidden>Clear filters</button><span class="table-hint" id="table-hint" hidden>Scroll sideways to see all columns</span></div>
       <div class="table-scroll" role="region" aria-label="Game activity table" tabindex="0">
-        <table id="library-table" aria-busy="true"><caption class="sr-only">Source service, release platforms, known playtime, last played time and achievement progress for each source record</caption><thead><tr><th scope="col">Game</th><th scope="col" class="col-service">Service</th><th scope="col" class="col-platforms">Released on</th><th scope="col" class="number">Playtime</th><th scope="col" class="number col-played">Last played</th><th scope="col" class="number">Achievements</th></tr></thead><tbody id="library-stream"></tbody></table>
+        <table id="library-table" aria-busy="true"><caption class="sr-only">Source service, platforms listed on the source record, known playtime, last played time and achievement progress for each source record</caption><thead><tr><th scope="col">Game</th><th scope="col" class="col-service">Service</th><th scope="col" class="col-platforms">Platform</th><th scope="col" class="number">Playtime</th><th scope="col" class="number col-played">Last played</th><th scope="col" class="number">Achievements</th></tr></thead><tbody id="library-stream"></tbody></table>
       </div>
       <div id="empty" class="empty" hidden><p>No records match these filters.</p><button type="button" id="clear-empty" class="clear">Clear filters</button></div>
       <div class="notes">
-        <p><strong>Released on</strong> lists the platforms the source gives for the game, not where it was played.</p>
+        <p><strong>Platform</strong> is what Exophase lists on this service's record of the game. It is not a full list of the platforms the game has been released on, and not where it was played.</p>
         <p><strong>Achievements:</strong> “No set” means the source lists none for that record. “Unknown” means no counts were supplied. “0 / 48” is a real zero. The percentage is the source’s own and may weight achievements differently from the count.</p>
         <p id="last-played-note"><strong>Last played</strong> is the time the source reports; records without one show Unknown.</p>
       </div>
