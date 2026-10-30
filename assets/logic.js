@@ -5,6 +5,7 @@
   const serviceName = value => services[value] || value || 'Unknown';
   const collator = new Intl.Collator('en-AU', {sensitivity:'base', numeric:true});
   const artworkPattern = /^output\/art\/[A-Za-z0-9_-]+\.(?:png|jpg|webp)$/;
+  const igdbPattern = /^https:\/\/www\.igdb\.com\/games\/[a-z0-9][a-z0-9_-]{0,127}$/;
 
   // Searching ignores case, accents, curly versus straight quotes and the different dash characters.
   function fold(value) {
@@ -27,6 +28,8 @@
       if ((earned !== null && !validCount(earned)) || (total !== null && !validCount(total)) || (earned !== null && total !== null && earned > total)) throw new Error('Achievement counts are invalid.');
       if (played !== null && !validTime(played)) throw new Error('A last-played time is invalid.');
       if (artwork !== null && !(typeof artwork === 'string' && artworkPattern.test(artwork))) throw new Error('An artwork path is invalid.');
+      const igdb = game.igdb_url ?? null;
+      if (igdb !== null && !(typeof igdb === 'string' && igdbPattern.test(igdb))) throw new Error('An IGDB link is invalid.');
       ids.add(game.id);
     }
     if (!validNumber(data.metadata.total_known_hours) || !validNumber(data.metadata.unknown_playtime_count)) throw new Error('The activity summary could not be read.');
@@ -42,6 +45,7 @@
       total_awards: game.total_awards ?? null,
       last_played: game.last_played ?? null,
       artwork: game.artwork ?? null,
+      igdb_url: game.igdb_url ?? null,
       search: fold([game.title, serviceName(game.service), ...game.platforms].join(' '))
     }));
   }
@@ -118,7 +122,18 @@
     };
   }
 
-  const api = {serviceName, fold, validate, prepare, achievementState, achievementView, filterAndSort, serviceCounts, summarise, collator};
+  // The title links to IGDB when a reviewed match exists, otherwise to the Exophase record. Only these two
+  // hosts are ever linked, and only over HTTPS.
+  function titleLink(game) {
+    if (typeof game.igdb_url === 'string' && igdbPattern.test(game.igdb_url)) return {url: game.igdb_url, label: 'IGDB'};
+    try {
+      const candidate = new URL(game.source_url);
+      if (candidate.protocol === 'https:' && (candidate.hostname === 'exophase.com' || candidate.hostname.endsWith('.exophase.com'))) return {url: candidate.href, label: 'Exophase'};
+    } catch {}
+    return null;
+  }
+
+  const api = {titleLink, serviceName, fold, validate, prepare, achievementState, achievementView, filterAndSort, serviceCounts, summarise, collator};
   root.ExophaseLogic = api;
   if (typeof module === 'object' && module.exports) module.exports = api;
 })(globalThis);

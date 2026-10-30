@@ -1,5 +1,5 @@
 'use strict';
-const {serviceName, validate, prepare, achievementView, filterAndSort, serviceCounts, summarise} = ExophaseLogic;
+const {titleLink, serviceName, validate, prepare, achievementView, filterAndSort, serviceCounts, summarise} = ExophaseLogic;
 const byId = id => document.getElementById(id);
 const number = (value, digits=0) => new Intl.NumberFormat('en-AU',{maximumFractionDigits:digits}).format(value);
 const zone = 'Australia/Melbourne';
@@ -45,8 +45,8 @@ function achievementCell(game) {
 }
 function buildRow(game) {
   const row=element('tr'),title=element('td',undefined,'game-title'),holder=element('div',undefined,'game-cell'),name=element('div',undefined,'game-name');
-  let url=null;try{const candidate=new URL(game.source_url);if(candidate.protocol==='https:'&&(candidate.hostname==='exophase.com'||candidate.hostname.endsWith('.exophase.com')))url=candidate.href;}catch{}
-  if(url){const link=element('a',game.title);link.href=url;link.target='_blank';link.rel='noreferrer noopener';name.append(link,element('span',' (opens Exophase)','sr-only'));}else name.append(game.title);
+  const target=titleLink(game);
+  if(target){const link=element('a',game.title);link.href=target.url;link.target='_blank';link.rel='noreferrer noopener';name.append(link,element('span',` (opens ${target.label})`,'sr-only'));}else name.append(game.title);
   const played=game.last_played?dayFormat.format(new Date(game.last_played)):null;
   name.append(element('span',`${serviceName(game.service)} · ${game.platforms.join(', ')||'Unknown platform'}`,'meta'),element('span',`Last played ${played||'unknown'}`,'meta meta-played'));
   holder.append(cover(game),name);title.append(holder);

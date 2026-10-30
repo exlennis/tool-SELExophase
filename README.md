@@ -71,6 +71,36 @@ Default directories resolve beside `headless_exporter.py`, even when launched fr
 
 Each record's `resource_tile` thumbnail is downloaded during a live run and stored in `output/art/` (served as `output/art/<name>` on the site), so visitors make no third-party requests and the page keeps `img-src 'self'`. Names derive from the source image path and version, so an image is downloaded only when it is not already cached; an unchanged image is never fetched again, and a changed version replaces the old file. Only HTTPS images from `m.exophase.com`, in recognised formats and under 256 KiB, are accepted. A failed image never blocks publication: the record keeps its previous cached version or has no artwork, and the page shows a placeholder. After several consecutive failures, remaining downloads are skipped for that run. Files no longer referenced are removed after a successful publication. Offline imports (`--input`) use cached images only; add `--download-artwork` to fetch missing ones, and `--art-dir` to change the cache location.
 
+### IGDB links
+
+`data/igdb.json` (format `selfexophase-igdb/v1`) is a hand-managed mapping from Exophase source IDs (`player:game`) to IGDB entries. Each entry has a `status` of `confirmed`, `auto` or `none`; linked entries need an IGDB `slug` and `name`, and may carry `igdb_id` and IGDB's `platforms` list. `none` records a reviewed decision not to link, with an optional `reason`. The exporter turns linked entries into `igdb_url` (always `https://www.igdb.com/games/<slug>`); every other record keeps its Exophase link. The exporter makes no IGDB requests and needs no credentials. A missing file means no IGDB links. An invalid file stops the run and keeps the last good output. Entries for records no longer in the source are ignored. Take slugs from the IGDB page itself: guessed slugs can be a different game (`hades` is the 1995 game; the 2020 game is `hades--1`).
+
+#### Maintaining the mapping with `tools/igdb_match.py`
+
+The script runs by hand on a laptop, not in CI, and is the only part that talks to IGDB. It needs a Twitch application's client ID and secret. Give it a JSON file **outside this repository** with `id` and `secret` keys (other keys are ignored; the script refuses a file inside the repository), or set `IGDB_CLIENT_ID` and `IGDB_CLIENT_SECRET`. The secret is sent in the request body, never printed, and the token is kept in memory only. Each command reads `output/data.json` and edits `data/igdb.json`.
+
+```bash
+.venv/bin/python -B tools/igdb_match.py match --credentials /path/outside/repo/credentials.json
+.venv/bin/python -B tools/igdb_match.py report --list auto
+.venv/bin/python -B tools/igdb_match.py review
+.venv/bin/python -B tools/igdb_match.py confirm-auto
+.venv/bin/python -B tools/igdb_match.py verify --credentials /path/outside/repo/credentials.json --fix
+.venv/bin/python -B tools/igdb_match.py replay --cache /path/outside/repo/igdb-cache.json
+```
+
+- `match` searches IGDB for records without a reviewed entry (about 4 requests a second). Titles are cleaned first (the `~Hack~` marker, the Apple Arcade `AA` suffix, `, The`, trailing tags). If the search finds no entry with the same title, it retries with a shorter form (the text before a dash or colon, trailing `HD`, `DX` and similar words) and then an exact-name query. An entry becomes `auto` only when the name matches closely and the platform does not contradict it (iOS and Mac, PS4 and PS5, Switch and Switch 2, Xbox One and Series count as one family). Add-ons such as DLC are never accepted. Mods, ports and remakes are treated like any other game. Each automatic entry records how it was reached in `via`:
+  - `exact`, `article`, `arcade-plus` (`Terraria+` for `Terraria`), `compact` (spacing and punctuation ignored) and `derived` (a tagline or marketing suffix removed) are same-title matches.
+  - When several entries share a name, the first rule that separates them is used: `tiebreak-year` (a `(2016)` tag in the title), `tiebreak-sibling` (the same title is already linked for another service), `tiebreak-type` (a main game beats a bundle), `tiebreak-popularity` (at least 10 ratings and five times the runner-up) and last `tiebreak-platform` (exactly one entry fits and every other contradicts). IGDB platform lists are often incomplete, so platform comes last.
+  - `edition-platform` (an edition entry fits the platform when the plain entry does not), `subtitle`, `prefix-word`, `fuzzy` and `derived-noise` are accepted only when they are the single plausible candidate.
+  - Everything else goes to a `pending` list with up to five candidates. Use `--only ID,ID` or `--limit N` for a trial; reruns skip records already decided, and `--retry-pending` or `--rematch-auto` search again.
+- `report` shows counts; `--list auto` prints each automatic match and how it was made.
+- `review` steps through pending records: choose a candidate, paste an IGDB URL, mark a record as having no entry, skip, or quit. Records with no candidates show an IGDB search link. Progress is saved after every decision.
+- `confirm-auto` promotes the automatic matches you have checked to `confirmed`.
+- `verify` checks that every linked slug still exists on IGDB and reports renamed entries. With `--fix` it fills in `igdb_id`, name and platforms for entries that lack them (for example ones you pasted by URL).
+- `replay` tests the matching rules against the decisions you made by hand, without changing any file. It reports how many of your decisions the rules would now reach automatically, any that conflict, and which pending records would resolve. Use it before trusting a rule change. `--cache FILE` stores raw IGDB responses; with a cache and no credentials, replay runs offline.
+
+`confirmed` and `none` entries are never overwritten, and every save is checked by the exporter's own validation before it replaces the file. Names such as "Hades" exist more than once on IGDB (1995 and 2020), which is why ties are resolved by the ordered rules above, and otherwise go to review rather than guessing.
+
 ### Accepting reviewed source removals
 
 If a record cached from an earlier run is missing from a live download, the run stops and keeps the last good files. The error lists the missing IDs and titles. Check on Exophase that the removal is genuine, then accept exactly those IDs:

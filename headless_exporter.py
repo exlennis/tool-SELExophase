@@ -25,6 +25,9 @@ ART_MAX_CONSECUTIVE_FAILURES = 8
 ART_NAME = re.compile(r'[a-z0-9_-]{1,32}-[A-Za-z0-9_-]{1,64}-[A-Za-z0-9]{1,64}\.(?:png|jpg|webp)')
 ART_MAGIC = {'png': (b'\x89PNG\r\n\x1a\n',), 'jpg': (b'\xff\xd8\xff',), 'webp': (b'RIFF',)}
 ACCEPT_ID = re.compile(r'[0-9]+:[0-9]+')
+IGDB_SCHEMA = 'selfexophase-igdb/v1'
+IGDB_STATUSES = ('confirmed', 'auto', 'none')
+IGDB_SLUG = re.compile(r'[a-z0-9][a-z0-9_-]{0,127}')
 HEADERS = {'Accept': 'application/json, text/plain, */*', 'Referer': 'https://www.exophase.com/',
            'Accept-Language': 'en-US,en;q=0.9',
            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
@@ -245,9 +248,41 @@ def check_removals(old_games, games, accepted):
     return sorted(missing)
 
 
-def compile_datastore(games, player_id, source_mode, source_retrieved_at=None, artwork=None):
+def load_igdb(path):
+    """Read the hand-managed IGDB mapping and return {source id: IGDB URL} for linked records.
+
+    A missing file simply means no IGDB links. A present but invalid file raises, so a bad edit holds
+    publication and keeps the last good output instead of silently dropping links.
+    """
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding='utf-8'))
+    except (OSError, ValueError) as exc:
+        raise ValueError(f'IGDB mapping file could not be read: {exc}')
+    if not isinstance(data, dict) or data.get('schema') != IGDB_SCHEMA or not isinstance(data.get('entries'), dict):
+        raise ValueError('IGDB mapping file has an unsupported format')
+    links = {}
+    for key, entry in data['entries'].items():
+        if not ACCEPT_ID.fullmatch(key) or not isinstance(entry, dict) or entry.get('status') not in IGDB_STATUSES:
+            raise ValueError(f'IGDB mapping entry {key!r} is invalid')
+        if entry['status'] == 'none':
+            continue
+        slug, name = entry.get('slug'), entry.get('name')
+        if not isinstance(slug, str) or not IGDB_SLUG.fullmatch(slug) or not isinstance(name, str) or not name.strip():
+            raise ValueError(f'IGDB mapping entry {key!r} needs a valid slug and name')
+        if entry.get('igdb_id') is not None and (isinstance(entry['igdb_id'], bool) or not isinstance(entry['igdb_id'], int) or entry['igdb_id'] <= 0):
+            raise ValueError(f'IGDB mapping entry {key!r} has an invalid igdb_id')
+        if entry.get('platforms') is not None and (not isinstance(entry['platforms'], list) or any(not isinstance(p, str) for p in entry['platforms'])):
+            raise ValueError(f'IGDB mapping entry {key!r} has invalid platforms')
+        links[key] = 'https://www.igdb.com/games/' + slug
+    return links
+
+
+def compile_datastore(games, player_id, source_mode, source_retrieved_at=None, artwork=None, igdb=None):
     validate_games(games)
     artwork = artwork or {}
+    igdb = igdb or {}
     rows = []
     for game in games:
         pid, gid = identity(game)
@@ -282,6 +317,7 @@ def compile_datastore(games, player_id, source_mode, source_retrieved_at=None, a
                      'last_played': last_played(game),
                      'activity_status': 'played' if (minutes or 0) > 0 or (earned or 0) > 0 else 'unknown',
                      'source_url': meta.get('endpoint_awards'),
+                     'igdb_url': igdb.get(pid + ':' + gid),
                      'artwork': ART_WEB_PREFIX + artwork[pid + ':' + gid] if (pid + ':' + gid) in artwork else None})
     rows.sort(key=lambda g: (-(g['playtime_minutes'] or 0), g['title'].casefold(), g['id']))
     fingerprint = hashlib.sha256(json.dumps(games, sort_keys=True, ensure_ascii=False, allow_nan=False).encode()).hexdigest()
@@ -327,6 +363,7 @@ def main(argv=None):
     parser.add_argument('--cache-dir', type=Path, default=Path(os.environ.get('EXOPHASE_CACHE_DIR', ROOT / 'cache')))
     parser.add_argument('--output-dir', type=Path, default=Path(os.environ.get('EXOPHASE_OUTPUT_DIR', ROOT / 'output')))
     parser.add_argument('--input', type=Path, help='Compile a saved all_games JSON array without a network request')
+    parser.add_argument('--igdb-file', type=Path, default=ROOT / 'data' / 'igdb.json', help='Hand-managed mapping of source IDs to IGDB entries')
     parser.add_argument('--art-dir', type=Path, help='Local thumbnail cache served with the site (default: OUTPUT_DIR/art)')
     parser.add_argument('--download-artwork', action='store_true', help='Download missing thumbnails even with --input (live runs always do)')
     parser.add_argument('--accept-removals', default=os.environ.get('EXOPHASE_ACCEPT_REMOVALS', ''),
@@ -335,6 +372,7 @@ def main(argv=None):
     try:
         player_id = positive_id(args.player_id)
         accepted = parse_accepted_removals(args.accept_removals)
+        igdb_links = load_igdb(args.igdb_file)
         previous = args.cache_dir / 'telemetry_cache.json'
         old = json.loads(previous.read_text(encoding='utf-8')) if previous.exists() else None
         if old is not None and (not isinstance(old, dict) or old.get('schema') != 'selfexophase-cache/v1' or old.get('player_id') != player_id):
@@ -350,7 +388,7 @@ def main(argv=None):
             raise ValueError('No previous cache exists, so there are no removals to accept')
         art_dir = args.art_dir or args.output_dir / 'art'
         artwork, art_report = sync_artwork(games, art_dir, fetch=not args.input or args.download_artwork)
-        report = compile_datastore(games, player_id, 'offline' if args.input else 'live', retrieved, artwork)
+        report = compile_datastore(games, player_id, 'offline' if args.input else 'live', retrieved, artwork, igdb_links)
         raw = {'schema': 'selfexophase-cache/v1', 'player_id': player_id, 'retrieved_at': retrieved, 'games': games}
         publish(raw, report, args.cache_dir, args.output_dir)
         removed_art = prune_artwork(art_dir, report)

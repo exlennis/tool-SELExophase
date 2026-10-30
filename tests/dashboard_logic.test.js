@@ -98,3 +98,22 @@ test('validation accepts older data without the new fields and rejects bad new f
     assert.throws(() => L.validate(dataset([record(1, bad)])), /invalid|could not/i, JSON.stringify(bad));
   }
 });
+
+test('title links go to IGDB when matched and fall back to Exophase otherwise', () => {
+  const exophase = 'https://www.exophase.com/game/black-myth-wukong-psn/trophies/#5315273';
+  assert.deepEqual(L.titleLink({igdb_url: 'https://www.igdb.com/games/hades--1', source_url: exophase}), {url: 'https://www.igdb.com/games/hades--1', label: 'IGDB'});
+  assert.deepEqual(L.titleLink({igdb_url: null, source_url: exophase}), {url: exophase, label: 'Exophase'});
+  assert.deepEqual(L.titleLink({source_url: exophase}), {url: exophase, label: 'Exophase'});
+  assert.equal(L.titleLink({igdb_url: null, source_url: null}), null);
+  assert.equal(L.titleLink({igdb_url: null, source_url: 'http://www.exophase.com/x'}), null);
+  assert.equal(L.titleLink({igdb_url: null, source_url: 'https://evil.example/exophase.com'}), null);
+  assert.equal(L.titleLink({igdb_url: 'https://evil.example/games/hades', source_url: null}), null);
+  assert.equal(L.titleLink({igdb_url: 'https://www.igdb.com.evil.example/games/hades', source_url: null}), null);
+});
+
+test('validation accepts IGDB links only on the IGDB games path', () => {
+  assert.doesNotThrow(() => L.validate(dataset([record(1, {igdb_url: 'https://www.igdb.com/games/hades--1'}), record(2, {igdb_url: null})])));
+  for (const bad of ['http://www.igdb.com/games/hades', 'https://www.igdb.com/search?q=x', 'https://www.igdb.com/games/Hades', 'https://evil.example/games/hades', 'javascript:alert(1)', 7]) {
+    assert.throws(() => L.validate(dataset([record(1, {igdb_url: bad})])), /IGDB link/i, String(bad));
+  }
+});

@@ -265,4 +265,57 @@ class RunTests(unittest.TestCase):
         self.assertEqual(self.run_main(self.old, '--accept-removals', '99:2'), 1)
 
 
+def igdb_file(folder, entries, schema='selfexophase-igdb/v1'):
+    path = Path(folder) / 'igdb.json'
+    path.write_text(json.dumps({'schema': schema, 'entries': entries}))
+    return path
+
+
+def entry(slug='hades--1', **fields): return {'status': 'confirmed', 'slug': slug, 'name': 'Hades', **fields}
+
+
+class IgdbMappingTests(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.folder = Path(self.tmp.name)
+    def tearDown(self): self.tmp.cleanup()
+    def test_confirmed_and_auto_entries_become_links_and_none_does_not(self):
+        path = igdb_file(self.folder, {'99:1': entry('black-myth-wukong'), '99:2': entry('hades--1', status='auto', igdb_id=113112, platforms=['Mac']),
+                                       '99:3': {'status': 'none', 'reason': 'Only a Mod'}})
+        self.assertEqual(m.load_igdb(path), {'99:1': 'https://www.igdb.com/games/black-myth-wukong', '99:2': 'https://www.igdb.com/games/hades--1'})
+    def test_a_missing_file_means_no_links(self):
+        self.assertEqual(m.load_igdb(self.folder / 'absent.json'), {})
+    def test_invalid_files_and_entries_are_rejected(self):
+        bad_entries = [{'99:1': entry('Hades')}, {'99:1': entry('../hades')}, {'99:1': entry('hades/1')}, {'99:1': entry('')},
+                       {'99:1': entry('a' * 200)}, {'99:1': {'status': 'confirmed', 'slug': 'hades'}}, {'99:1': entry(name=' ')},
+                       {'99:1': entry(status='maybe')}, {'not-an-id': entry()}, {'99:1': entry(igdb_id=0)}, {'99:1': entry(igdb_id='7')},
+                       {'99:1': entry(platforms='Mac')}, {'99:1': entry(platforms=[1])}, {'99:1': 'text'}]
+        for entries in bad_entries:
+            with self.assertRaises(ValueError, msg=str(entries)): m.load_igdb(igdb_file(self.folder, entries))
+        with self.assertRaises(ValueError): m.load_igdb(igdb_file(self.folder, {}, schema='other/v1'))
+        (self.folder / 'broken.json').write_text('{not json')
+        with self.assertRaises(ValueError): m.load_igdb(self.folder / 'broken.json')
+    def test_rows_link_only_mapped_records_and_ignore_stale_entries(self):
+        links = m.load_igdb(igdb_file(self.folder, {'99:1': entry('hades--1'), '99:404': entry('gone')}))
+        rows = m.compile_datastore([game(1), game(2)], '5143228', 'offline', igdb=links)['games']
+        self.assertEqual({r['id']: r['igdb_url'] for r in rows}, {'99:1': 'https://www.igdb.com/games/hades--1', '99:2': None})
+    def test_a_corrupt_mapping_holds_publication_and_keeps_last_good_files(self):
+        cache, output = self.folder / 'cache', self.folder / 'output'
+        cache.mkdir(); output.mkdir()
+        (cache / 'telemetry_cache.json').write_text(json.dumps({'schema': 'selfexophase-cache/v1', 'player_id': '5143228', 'games': [game(1)]}))
+        (output / 'data.json').write_text('previous report')
+        before = [(p, p.read_bytes()) for p in (cache / 'telemetry_cache.json', output / 'data.json')]
+        bad = igdb_file(self.folder, {'99:1': entry('Not A Slug')})
+        with patch.object(m, 'fetch_telemetry_safely', return_value=[game(1)]), patch.object(m.requests, 'get', side_effect=AssertionError('no downloads before validation')):
+            self.assertEqual(m.main(['--player-id', '5143228', '--cache-dir', str(cache), '--output-dir', str(output), '--igdb-file', str(bad)]), 1)
+        for path, content in before: self.assertEqual(path.read_bytes(), content)
+    def test_the_committed_mapping_is_valid_and_distinguishes_the_hades_games(self):
+        links = m.load_igdb(Path(m.__file__).resolve().parent / 'data' / 'igdb.json')
+        self.assertEqual(links['5315273:699413'], 'https://www.igdb.com/games/black-myth-wukong')
+        self.assertEqual(links['5143229:472880'], 'https://www.igdb.com/games/hades-ii')
+        self.assertEqual(links['5315298:522964'], 'https://www.igdb.com/games/hades--1')
+        self.assertEqual(links['5315275:434060'], 'https://www.igdb.com/games/pokemon-unbound')
+        self.assertNotEqual(links['5315298:522964'], links['5315298:855626'])
+
+
 if __name__ == '__main__': unittest.main(verbosity=2)

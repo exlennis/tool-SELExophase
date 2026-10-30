@@ -1,0 +1,4162 @@
+{
+  "schema": "selfexophase-igdb/v1",
+  "note": "Maps Exophase source IDs (player:game) to IGDB entries. Hand-written for the vertical slice; platforms are IGDB's own list and are not yet displayed. Records not listed here link to Exophase.",
+  "entries": {
+    "5143229:159156": {
+      "status": "confirmed",
+      "igdb_id": 76882,
+      "slug": "sekiro-shadows-die-twice",
+      "name": "Sekiro: Shadows Die Twice",
+      "platforms": [
+        "Google Stadia",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:16384": {
+      "status": "confirmed",
+      "igdb_id": 18871,
+      "slug": "parkitect",
+      "name": "Parkitect",
+      "platforms": [
+        "Linux",
+        "PC (Microsoft Windows)",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:333015": {
+      "status": "confirmed",
+      "igdb_id": 37001,
+      "slug": "ori-and-the-will-of-the-wisps",
+      "name": "Ori and the Will of the Wisps",
+      "platforms": [
+        "Xbox Series X|S",
+        "PC (Microsoft Windows)",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:337650": {
+      "status": "confirmed",
+      "igdb_id": 113112,
+      "slug": "hades--1",
+      "name": "Hades",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5143229:372969": {
+      "status": "confirmed",
+      "igdb_id": 91477,
+      "slug": "before-your-eyes",
+      "name": "Before Your Eyes",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:4018": {
+      "status": "confirmed",
+      "igdb_id": 72,
+      "slug": "portal-2",
+      "name": "Portal 2",
+      "platforms": [
+        "PlayStation 3",
+        "Linux",
+        "PC (Microsoft Windows)",
+        "Mac",
+        "Xbox 360",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:41101": {
+      "status": "confirmed",
+      "igdb_id": 3115,
+      "slug": "godus",
+      "name": "Godus",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:433810": {
+      "status": "confirmed",
+      "igdb_id": 145099,
+      "slug": "deaths-door",
+      "name": "Death's Door",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:434855": {
+      "status": "confirmed",
+      "slug": "the-legend-of-sword-and-fairy",
+      "name": "The Legend of Sword and Fairy",
+      "matched_at": "2026-10-29",
+      "igdb_id": 18928,
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "DOS",
+        "Sega Saturn"
+      ]
+    },
+    "5143229:441947": {
+      "status": "confirmed",
+      "igdb_id": 152424,
+      "slug": "terra-nil--1",
+      "name": "Terra Nil",
+      "platforms": [
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:451502": {
+      "status": "confirmed",
+      "igdb_id": 167432,
+      "slug": "warm-snow",
+      "name": "Warm Snow",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:472880": {
+      "status": "confirmed",
+      "igdb_id": 228525,
+      "slug": "hades-ii",
+      "name": "Hades II",
+      "platforms": [
+        "Mac",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ]
+    },
+    "5143229:473315": {
+      "status": "confirmed",
+      "igdb_id": 136625,
+      "slug": "hogwarts-legacy",
+      "name": "Hogwarts Legacy",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:478181": {
+      "status": "confirmed",
+      "igdb_id": 203722,
+      "slug": "dave-the-diver",
+      "name": "Dave the Diver",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:485392": {
+      "status": "confirmed",
+      "igdb_id": 305152,
+      "slug": "clair-obscur-expedition-33",
+      "name": "Clair Obscur: Expedition 33",
+      "platforms": [
+        "Xbox Series X|S",
+        "PC (Microsoft Windows)",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:489760": {
+      "status": "confirmed",
+      "igdb_id": 144024,
+      "slug": "final-fantasy-vii-remake-intergrade",
+      "name": "Final Fantasy VII Remake Intergrade",
+      "platforms": [
+        "Xbox Series X|S",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:51383": {
+      "status": "confirmed",
+      "igdb_id": 33997,
+      "slug": "godus-wars",
+      "name": "Godus Wars",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:558565": {
+      "status": "confirmed",
+      "igdb_id": 236547,
+      "slug": "thronefall",
+      "name": "Thronefall",
+      "platforms": [
+        "Xbox Series X|S",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:600778": {
+      "status": "confirmed",
+      "igdb_id": 305017,
+      "slug": "cairn--3",
+      "name": "Cairn",
+      "platforms": [
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:630342": {
+      "status": "confirmed",
+      "igdb_id": 308099,
+      "slug": "planet-coaster-2",
+      "name": "Planet Coaster 2",
+      "platforms": [
+        "Xbox Series X|S",
+        "PC (Microsoft Windows)",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:674395": {
+      "status": "confirmed",
+      "igdb_id": 345597,
+      "slug": "fireside-feelings",
+      "name": "Fireside Feelings",
+      "platforms": [
+        "PC (Microsoft Windows)"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5143229:996215": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "https://steamdb.info/app/4957110/ allow fallback to SteamDB or SteamStore"
+    },
+    "5315273:16508": {
+      "status": "confirmed",
+      "igdb_id": 11156,
+      "slug": "horizon-zero-dawn",
+      "name": "Horizon Zero Dawn",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315273:417778": {
+      "status": "confirmed",
+      "igdb_id": 134597,
+      "slug": "astros-playroom",
+      "name": "Astro's Playroom",
+      "platforms": [
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315273:417814": {
+      "status": "confirmed",
+      "igdb_id": 164575,
+      "slug": "planet-coaster-deluxe-edition",
+      "name": "Planet Coaster: Deluxe Edition",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315273:442267": {
+      "status": "confirmed",
+      "igdb_id": 74701,
+      "slug": "star-wars-jedi-fallen-order",
+      "name": "Star Wars Jedi: Fallen Order",
+      "platforms": [
+        "Google Stadia",
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315273:487113": {
+      "status": "confirmed",
+      "igdb_id": 1877,
+      "slug": "cyberpunk-2077",
+      "name": "Cyberpunk 2077",
+      "platforms": [
+        "Google Stadia",
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315273:490129": {
+      "status": "confirmed",
+      "igdb_id": 101006,
+      "slug": "gran-turismo-7",
+      "name": "Gran Turismo 7",
+      "platforms": [
+        "PlayStation VR2",
+        "PlayStation 4",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315273:590194": {
+      "status": "confirmed",
+      "igdb_id": 201156,
+      "slug": "star-wars-jedi-survivor",
+      "name": "Star Wars Jedi: Survivor",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315273:699413": {
+      "status": "confirmed",
+      "igdb_id": 136879,
+      "slug": "black-myth-wukong",
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox Series X|S"
+      ]
+    },
+    "5315273:876164": {
+      "status": "confirmed",
+      "igdb_id": 214414,
+      "slug": "where-winds-meet",
+      "name": "Where Winds Meet",
+      "platforms": [
+        "Xbox Series X|S",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315274:13421": {
+      "status": "confirmed",
+      "igdb_id": 135400,
+      "slug": "minecraft--1",
+      "name": "Minecraft",
+      "platforms": [
+        "Amazon Fire TV",
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Linux",
+        "Nintendo Switch 2",
+        "Gear VR",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:136225": {
+      "status": "confirmed",
+      "igdb_id": 1128,
+      "slug": "castlevania-symphony-of-the-night",
+      "name": "Castlevania: Symphony of the Night",
+      "platforms": [
+        "PlayStation 3",
+        "Sega Saturn",
+        "PlayStation",
+        "PlayStation Portable",
+        "Xbox 360"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:139560": {
+      "status": "confirmed",
+      "igdb_id": 295,
+      "slug": "command-conquer-red-alert",
+      "name": "Command & Conquer: Red Alert",
+      "platforms": [
+        "PlayStation 3",
+        "PC (Microsoft Windows)",
+        "DOS",
+        "PlayStation",
+        "PlayStation Portable"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:139613": {
+      "status": "confirmed",
+      "igdb_id": 12309,
+      "slug": "kaboom",
+      "name": "Kaboom!",
+      "platforms": [
+        "Atari 2600",
+        "Atari 8-bit",
+        "Atari 5200"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:144472": {
+      "status": "confirmed",
+      "slug": "fire-emblem-genealogy-of-the-holy-war",
+      "name": "Fire Emblem: Genealogy of the Holy War",
+      "matched_at": "2026-10-30",
+      "igdb_id": 1436,
+      "platforms": [
+        "Wii",
+        "Wii U",
+        "New Nintendo 3DS",
+        "Nintendo Switch",
+        "Super Famicom"
+      ]
+    },
+    "5315275:149835": {
+      "status": "confirmed",
+      "igdb_id": 647,
+      "slug": "command-conquer",
+      "name": "Command & Conquer",
+      "platforms": [
+        "PlayStation 3",
+        "Nintendo 64",
+        "PC (Microsoft Windows)",
+        "Mac",
+        "DOS",
+        "Sega Saturn",
+        "PlayStation",
+        "PlayStation Portable"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:150718": {
+      "status": "confirmed",
+      "igdb_id": 836,
+      "slug": "prince-of-persia-the-sands-of-time",
+      "name": "Prince of Persia: The Sands of Time",
+      "platforms": [
+        "Xbox",
+        "Nintendo GameCube",
+        "PC (Microsoft Windows)",
+        "PlayStation 2"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:151071": {
+      "status": "confirmed",
+      "igdb_id": 18599,
+      "slug": "tetris-ds",
+      "name": "Tetris DS",
+      "platforms": [
+        "Nintendo DS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315275:152095": {
+      "status": "confirmed",
+      "igdb_id": 8284,
+      "slug": "pokemon-black-version-2",
+      "name": "Pokémon Black Version 2",
+      "platforms": [
+        "Nintendo DS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:152642": {
+      "status": "confirmed",
+      "igdb_id": 61729,
+      "slug": "atari-greatest-hits-volume-2",
+      "name": "Atari Greatest Hits: Volume 2",
+      "platforms": [
+        "Nintendo DS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:152658": {
+      "status": "confirmed",
+      "igdb_id": 1560,
+      "slug": "pokemon-diamond-version",
+      "name": "Pokémon Diamond Version",
+      "platforms": [
+        "Nintendo DS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:156467": {
+      "status": "confirmed",
+      "igdb_id": 1410,
+      "slug": "metal-slug-5",
+      "name": "Metal Slug 5",
+      "platforms": [
+        "Arcade",
+        "Neo Geo AES",
+        "Xbox",
+        "Neo Geo MVS",
+        "PC (Microsoft Windows)",
+        "PlayStation 2"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:167070": {
+      "status": "confirmed",
+      "slug": "asteroids--8",
+      "name": "Asteroids",
+      "matched_at": "2026-10-30",
+      "igdb_id": 232695,
+      "platforms": [
+        "Atari 7800"
+      ]
+    },
+    "5315275:184904": {
+      "status": "confirmed",
+      "igdb_id": 20382,
+      "slug": "golf--2",
+      "name": "Golf",
+      "platforms": [
+        "Virtual Boy"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315275:21886": {
+      "status": "confirmed",
+      "slug": "sonic-the-hedgehog-3-and-knuckles",
+      "name": "Sonic the Hedgehog 3 & Knuckles",
+      "matched_at": "2026-10-29",
+      "igdb_id": 11219,
+      "platforms": [
+        "Sega Mega Drive/Genesis",
+        "PC (Microsoft Windows)"
+      ]
+    },
+    "5315275:21968": {
+      "status": "confirmed",
+      "igdb_id": 1029,
+      "slug": "the-legend-of-zelda-ocarina-of-time",
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "platforms": [
+        "Wii",
+        "Nintendo 64",
+        "64DD",
+        "Wii U"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22421": {
+      "status": "confirmed",
+      "igdb_id": 1063,
+      "slug": "kirby-s-dream-land",
+      "name": "Kirby's Dream Land",
+      "platforms": [
+        "Nintendo 3DS",
+        "Game Boy"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22427": {
+      "status": "confirmed",
+      "igdb_id": 1041,
+      "slug": "the-legend-of-zelda-oracle-of-ages",
+      "name": "The Legend of Zelda: Oracle of Ages",
+      "platforms": [
+        "Game Boy Color",
+        "Nintendo 3DS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22591": {
+      "status": "confirmed",
+      "igdb_id": 77336,
+      "slug": "the-legend-of-zelda-a-link-to-the-past-and-four-swords",
+      "name": "The Legend of Zelda: A Link to the Past & Four Swords",
+      "platforms": [
+        "Game Boy Advance"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22596": {
+      "status": "confirmed",
+      "igdb_id": 3351,
+      "slug": "mario-luigi-superstar-saga",
+      "name": "Mario & Luigi: Superstar Saga",
+      "platforms": [
+        "Wii U",
+        "Game Boy Advance"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22617": {
+      "status": "confirmed",
+      "igdb_id": 1406,
+      "slug": "metal-slug-advance",
+      "name": "Metal Slug Advance",
+      "platforms": [
+        "Game Boy Advance"
+      ],
+      "matched_at": "2026-10-30",
+      "via": "tiebreak-popularity",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22626": {
+      "status": "confirmed",
+      "igdb_id": 1517,
+      "slug": "pokemon-emerald-version",
+      "name": "Pokémon Emerald Version",
+      "platforms": [
+        "Game Boy Advance"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22627": {
+      "status": "confirmed",
+      "igdb_id": 1559,
+      "slug": "pokemon-firered-version",
+      "name": "Pokémon FireRed Version",
+      "platforms": [
+        "Game Boy Advance",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22628": {
+      "status": "confirmed",
+      "igdb_id": 1516,
+      "slug": "pokemon-leafgreen-version",
+      "name": "Pokémon LeafGreen Version",
+      "platforms": [
+        "Game Boy Advance",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22630": {
+      "status": "confirmed",
+      "igdb_id": 1515,
+      "slug": "pokemon-sapphire-version",
+      "name": "Pokémon Sapphire Version",
+      "platforms": [
+        "Game Boy Advance"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22727": {
+      "status": "confirmed",
+      "igdb_id": 1027,
+      "slug": "the-legend-of-zelda-link-s-awakening-dx",
+      "name": "The Legend of Zelda: Link's Awakening DX",
+      "platforms": [
+        "Game Boy Color",
+        "Nintendo 3DS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315275:22738": {
+      "status": "confirmed",
+      "igdb_id": 1514,
+      "slug": "pokemon-crystal-version",
+      "name": "Pokémon Crystal Version",
+      "platforms": [
+        "Game Boy Color",
+        "Nintendo 3DS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22765": {
+      "status": "confirmed",
+      "igdb_id": 8737,
+      "slug": "adventure-island-3",
+      "name": "Adventure Island 3",
+      "platforms": [
+        "Family Computer",
+        "Nintendo Entertainment System"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:22968": {
+      "status": "confirmed",
+      "igdb_id": 1101,
+      "slug": "metroid",
+      "name": "Metroid",
+      "platforms": [
+        "Arcade",
+        "Nintendo 3DS",
+        "Wii",
+        "Wii U",
+        "Nintendo Entertainment System"
+      ],
+      "matched_at": "2026-10-30"
+    },
+    "5315275:23054": {
+      "status": "confirmed",
+      "igdb_id": 358,
+      "slug": "super-mario-bros",
+      "name": "Super Mario Bros.",
+      "platforms": [
+        "Family Computer Disk System",
+        "Arcade",
+        "Nintendo 3DS",
+        "Wii",
+        "Family Computer",
+        "Wii U",
+        "Nintendo Entertainment System"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:390721": {
+      "status": "confirmed",
+      "igdb_id": 1522,
+      "slug": "pokemon-white-version",
+      "name": "Pokémon White Version",
+      "platforms": [
+        "Nintendo DS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315275:434060": {
+      "status": "confirmed",
+      "igdb_id": 141663,
+      "slug": "pokemon-unbound",
+      "name": "Pokémon Unbound",
+      "platforms": [
+        "Game Boy Advance"
+      ]
+    },
+    "5315275:546497": {
+      "status": "confirmed",
+      "igdb_id": 191479,
+      "slug": "metal-slug-3--1",
+      "name": "Metal Slug 3",
+      "platforms": [
+        "Xbox",
+        "PlayStation 2"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315275:549247": {
+      "status": "confirmed",
+      "igdb_id": 653,
+      "slug": "commandos-2-men-of-courage",
+      "name": "Commandos 2: Men of Courage",
+      "platforms": [
+        "Xbox",
+        "PC (Microsoft Windows)",
+        "Mac",
+        "PlayStation 2"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:160726": {
+      "status": "confirmed",
+      "igdb_id": 36444,
+      "slug": "rollercoaster-tycoon-deluxe",
+      "name": "RollerCoaster Tycoon: Deluxe",
+      "platforms": [
+        "PC (Microsoft Windows)"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:160737": {
+      "status": "confirmed",
+      "igdb_id": 36366,
+      "slug": "rollercoaster-tycoon-2-triple-thrill-pack",
+      "name": "RollerCoaster Tycoon 2: Triple Thrill Pack",
+      "platforms": [
+        "PC (Microsoft Windows)"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:162057": {
+      "status": "confirmed",
+      "igdb_id": 11802,
+      "slug": "bounty-train",
+      "name": "Bounty Train",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:162225": {
+      "status": "confirmed",
+      "igdb_id": 24856,
+      "slug": "conarium",
+      "name": "Conarium",
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "PC (Microsoft Windows)",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:163070": {
+      "status": "confirmed",
+      "igdb_id": 129898,
+      "slug": "doom-ii-plus-master-levels",
+      "name": "Doom II + Master Levels",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "Mac",
+        "DOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:163076": {
+      "status": "confirmed",
+      "igdb_id": 8191,
+      "slug": "final-doom",
+      "name": "Final Doom",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "Mac",
+        "DOS",
+        "PlayStation"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315276:163082": {
+      "status": "confirmed",
+      "slug": "the-ultimate-doom",
+      "name": "The Ultimate Doom",
+      "matched_at": "2026-10-29",
+      "igdb_id": 10192,
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "DOS"
+      ]
+    },
+    "5315276:526393": {
+      "status": "confirmed",
+      "igdb_id": 214128,
+      "slug": "doom-i-enhanced",
+      "name": "Doom I Enhanced",
+      "platforms": [
+        "PC (Microsoft Windows)"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:526406": {
+      "status": "confirmed",
+      "igdb_id": 214127,
+      "slug": "doom-ii-enhanced",
+      "name": "Doom II Enhanced",
+      "platforms": [
+        "PC (Microsoft Windows)"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:696657": {
+      "status": "confirmed",
+      "igdb_id": 313126,
+      "slug": "doom-plus-doom-ii",
+      "name": "Doom + Doom II",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315276:800617": {
+      "status": "confirmed",
+      "igdb_id": 7351,
+      "slug": "doom--2",
+      "name": "Doom",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315276:901879": {
+      "status": "confirmed",
+      "igdb_id": 119658,
+      "slug": "weakless",
+      "name": "Weakless",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:1017424": {
+      "status": "confirmed",
+      "igdb_id": 1879,
+      "slug": "terraria",
+      "name": "Terraria",
+      "platforms": [
+        "Google Stadia",
+        "PlayStation 3",
+        "PlayStation 4",
+        "Linux",
+        "Nintendo 3DS",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Wii U",
+        "PlayStation Vita",
+        "Xbox 360",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:1020906": {
+      "status": "none",
+      "matched_at": "2026-10-29"
+    },
+    "5315278:713283": {
+      "status": "confirmed",
+      "igdb_id": 23796,
+      "slug": "super-mario-run",
+      "name": "Super Mario Run",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713289": {
+      "status": "confirmed",
+      "igdb_id": 254871,
+      "slug": "hello-kitty-island-adventure",
+      "name": "Hello Kitty Island Adventure",
+      "platforms": [
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713306": {
+      "status": "confirmed",
+      "igdb_id": 85663,
+      "slug": "mario-kart-tour",
+      "name": "Mario Kart Tour",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713430": {
+      "status": "confirmed",
+      "igdb_id": 10635,
+      "slug": "crossy-road",
+      "name": "Crossy Road",
+      "platforms": [
+        "Amazon Fire TV",
+        "Web browser",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Legacy Mobile Device"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713432": {
+      "status": "confirmed",
+      "igdb_id": 274840,
+      "slug": "sonic-dream-team",
+      "name": "Sonic Dream Team",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713434": {
+      "status": "confirmed",
+      "igdb_id": 116588,
+      "slug": "fantasian",
+      "name": "Fantasian",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713439": {
+      "status": "confirmed",
+      "igdb_id": 165047,
+      "slug": "wurdweb",
+      "name": "Wurdweb",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713444": {
+      "status": "confirmed",
+      "igdb_id": 116634,
+      "slug": "beyond-a-steel-sky",
+      "name": "Beyond a Steel Sky",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Linux",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713446": {
+      "status": "confirmed",
+      "igdb_id": 111469,
+      "slug": "among-us",
+      "name": "Among Us",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:713448": {
+      "status": "confirmed",
+      "slug": "genshin-impact",
+      "name": "Genshin Impact",
+      "matched_at": "2026-10-29",
+      "igdb_id": 119277,
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5"
+      ]
+    },
+    "5315278:713449": {
+      "status": "confirmed",
+      "igdb_id": 87983,
+      "slug": "what-the-golf",
+      "name": "What the Golf?",
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "visionOS",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713450": {
+      "status": "confirmed",
+      "igdb_id": 124034,
+      "slug": "dear-reader",
+      "name": "Dear Reader",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713451": {
+      "status": "confirmed",
+      "igdb_id": 122560,
+      "slug": "rayman-mini",
+      "name": "Rayman Mini",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713455": {
+      "status": "confirmed",
+      "igdb_id": 7436,
+      "slug": "temple-run-2",
+      "name": "Temple Run 2",
+      "platforms": [
+        "Windows Phone",
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713479": {
+      "status": "confirmed",
+      "igdb_id": 113107,
+      "slug": "sayonara-wild-hearts",
+      "name": "Sayonara Wild Hearts",
+      "platforms": [
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713487": {
+      "status": "confirmed",
+      "slug": "assemble-with-care",
+      "name": "Assemble With Care",
+      "matched_at": "2026-10-29",
+      "igdb_id": 117008,
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ]
+    },
+    "5315278:713501": {
+      "status": "confirmed",
+      "igdb_id": 9105,
+      "slug": "2048",
+      "name": "2048",
+      "platforms": [
+        "Web browser",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713502": {
+      "status": "confirmed",
+      "slug": "chess--2",
+      "name": "Chess",
+      "matched_at": "2026-10-29",
+      "igdb_id": 56599,
+      "platforms": [
+        "Linux",
+        "PC (Microsoft Windows)",
+        "Mac"
+      ]
+    },
+    "5315278:713838": {
+      "status": "confirmed",
+      "igdb_id": 5589,
+      "slug": "clash-of-clans",
+      "name": "Clash of Clans",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713860": {
+      "status": "confirmed",
+      "igdb_id": 180280,
+      "slug": "solitaire-stories",
+      "name": "Solitaire Stories",
+      "platforms": [
+        "visionOS",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713862": {
+      "status": "confirmed",
+      "igdb_id": 281825,
+      "slug": "tamagotchi-adventure-kingdom",
+      "name": "Tamagotchi Adventure Kingdom",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713864": {
+      "status": "confirmed",
+      "igdb_id": 248583,
+      "slug": "disney-spellstruck",
+      "name": "Disney SpellStruck",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713869": {
+      "status": "confirmed",
+      "igdb_id": 27324,
+      "slug": "the-gardens-between",
+      "name": "The Gardens Between",
+      "platforms": [
+        "Google Stadia",
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713871": {
+      "status": "confirmed",
+      "igdb_id": 9054,
+      "slug": "threes",
+      "name": "Threes!",
+      "platforms": [
+        "Web browser",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713872": {
+      "status": "confirmed",
+      "igdb_id": 127983,
+      "slug": "outlanders--1",
+      "name": "Outlanders",
+      "platforms": [
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713876": {
+      "status": "confirmed",
+      "igdb_id": 58630,
+      "slug": "animal-crossing-pocket-camp",
+      "name": "Animal Crossing: Pocket Camp",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713877": {
+      "status": "confirmed",
+      "igdb_id": 114767,
+      "slug": "dr-mario-world",
+      "name": "Dr. Mario World",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713896": {
+      "status": "confirmed",
+      "igdb_id": 3115,
+      "slug": "godus",
+      "name": "Godus",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:713953": {
+      "status": "none",
+      "matched_at": "2026-10-29"
+    },
+    "5315278:713965": {
+      "status": "confirmed",
+      "slug": "rovio-classics-angry-birds",
+      "name": "Rovio Classics: Angry Birds",
+      "matched_at": "2026-10-30",
+      "igdb_id": 197792,
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:713966": {
+      "status": "confirmed",
+      "igdb_id": 1684,
+      "slug": "fruit-ninja",
+      "name": "Fruit Ninja",
+      "platforms": [
+        "Web browser",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation Vita",
+        "Xbox 360",
+        "Legacy Mobile Device"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:713996": {
+      "status": "confirmed",
+      "igdb_id": 1918,
+      "slug": "injustice-gods-among-us",
+      "name": "Injustice: Gods Among Us",
+      "platforms": [
+        "PlayStation 3",
+        "Wii U",
+        "Xbox 360"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:713997": {
+      "status": "confirmed",
+      "igdb_id": 19506,
+      "slug": "sonic-dash",
+      "name": "Sonic Dash",
+      "platforms": [
+        "Windows Phone",
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714040": {
+      "status": "confirmed",
+      "igdb_id": 214025,
+      "slug": "automatoys",
+      "name": "Automatoys",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714061": {
+      "status": "confirmed",
+      "igdb_id": 194333,
+      "slug": "simons-cat-story-time",
+      "name": "Simon's Cat: Story Time",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714062": {
+      "status": "confirmed",
+      "igdb_id": 130696,
+      "slug": "marble-it-up-mayhem",
+      "name": "Marble It Up: Mayhem!",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714069": {
+      "status": "confirmed",
+      "igdb_id": 203117,
+      "slug": "tetris--20",
+      "name": "Tetris",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714095": {
+      "status": "confirmed",
+      "igdb_id": 24628,
+      "slug": "bitcoin-billionaire",
+      "name": "Bitcoin Billionaire",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714136": {
+      "status": "confirmed",
+      "igdb_id": 216429,
+      "slug": "mr-jump",
+      "name": "Mr Jump",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714139": {
+      "status": "confirmed",
+      "igdb_id": 225291,
+      "slug": "dont-touch-the-spikes",
+      "name": "Don't Touch the Spikes",
+      "platforms": [
+        "Android"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714168": {
+      "status": "confirmed",
+      "igdb_id": 64779,
+      "slug": "tap-tap-glee",
+      "name": "Tap Tap Glee",
+      "platforms": [],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714177": {
+      "status": "confirmed",
+      "igdb_id": 2475,
+      "slug": "temple-run",
+      "name": "Temple Run",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714179": {
+      "status": "confirmed",
+      "igdb_id": 64080,
+      "slug": "temple-run-brave",
+      "name": "Temple Run: Brave",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Legacy Mobile Device"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714192": {
+      "status": "confirmed",
+      "igdb_id": 7780,
+      "slug": "tiny-wings",
+      "name": "Tiny Wings",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714204": {
+      "status": "confirmed",
+      "igdb_id": 96808,
+      "slug": "snake-dot-io--2",
+      "name": "Snake.io",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714222": {
+      "status": "confirmed",
+      "igdb_id": 257791,
+      "slug": "crossy-road-plus",
+      "name": "Crossy Road+",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714346": {
+      "status": "confirmed",
+      "igdb_id": 63881,
+      "slug": "banana-kong",
+      "name": "Banana Kong",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714356": {
+      "status": "confirmed",
+      "igdb_id": 14533,
+      "slug": "rayman-jungle-run",
+      "name": "Rayman Jungle Run",
+      "platforms": [
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714417": {
+      "status": "confirmed",
+      "igdb_id": 265453,
+      "slug": "japanese-rural-life-adventure",
+      "name": "Japanese Rural Life Adventure",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714420": {
+      "status": "confirmed",
+      "igdb_id": 26589,
+      "slug": "rollercoaster-tycoon-classic",
+      "name": "RollerCoaster Tycoon Classic",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714421": {
+      "status": "confirmed",
+      "igdb_id": 225655,
+      "slug": "stitch",
+      "name": "Stitch.",
+      "platforms": [
+        "visionOS",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714422": {
+      "status": "confirmed",
+      "igdb_id": 124031,
+      "slug": "grindstone",
+      "name": "Grindstone",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714423": {
+      "status": "confirmed",
+      "igdb_id": 122759,
+      "slug": "card-of-darkness",
+      "name": "Card of Darkness",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714427": {
+      "status": "confirmed",
+      "igdb_id": 40477,
+      "slug": "slay-the-spire",
+      "name": "Slay the Spire",
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714428": {
+      "status": "confirmed",
+      "igdb_id": 248581,
+      "slug": "cityscapes-sim-builder",
+      "name": "Cityscapes: Sim Builder",
+      "platforms": [
+        "visionOS",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714437": {
+      "status": "confirmed",
+      "igdb_id": 7434,
+      "slug": "hay-day",
+      "name": "Hay Day",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714438": {
+      "status": "confirmed",
+      "igdb_id": 145634,
+      "slug": "cut-the-rope-remastered",
+      "name": "Cut the Rope Remastered",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714441": {
+      "status": "confirmed",
+      "igdb_id": 194335,
+      "slug": "spire-blast",
+      "name": "Spire Blast",
+      "platforms": [
+        "visionOS",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714442": {
+      "status": "confirmed",
+      "igdb_id": 170542,
+      "slug": "zookeeper-world",
+      "name": "Zookeeper World",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714443": {
+      "status": "confirmed",
+      "igdb_id": 145443,
+      "slug": "taiko-no-tatsujin-pop-tap-beat",
+      "name": "Taiko no Tatsujin: Pop Tap Beat",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714444": {
+      "status": "confirmed",
+      "igdb_id": 9784,
+      "slug": "bridge-constructor",
+      "name": "Bridge Constructor",
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "PlayStation Vita",
+        "Xbox One"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714448": {
+      "status": "confirmed",
+      "igdb_id": 3145,
+      "slug": "plants-vs-zombies-2-it-s-about-time",
+      "name": "Plants vs. Zombies 2: It's About Time",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714450": {
+      "status": "confirmed",
+      "igdb_id": 88881,
+      "slug": "pocket-build",
+      "name": "Pocket Build",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714454": {
+      "status": "confirmed",
+      "slug": "altos-odyssey",
+      "name": "Alto's Odyssey",
+      "matched_at": "2026-10-29",
+      "igdb_id": 26428,
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ]
+    },
+    "5315278:714455": {
+      "status": "confirmed",
+      "igdb_id": 117011,
+      "slug": "frogger-in-toy-town",
+      "name": "Frogger In Toy Town",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714458": {
+      "status": "confirmed",
+      "igdb_id": 159024,
+      "slug": "angry-birds-reloaded",
+      "name": "Angry Birds Reloaded",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714460": {
+      "status": "confirmed",
+      "slug": "kingdom-rush-frontiers",
+      "name": "Kingdom Rush Frontiers",
+      "matched_at": "2026-10-29",
+      "igdb_id": 6006,
+      "platforms": [
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    },
+    "5315278:714463": {
+      "status": "confirmed",
+      "igdb_id": 7767,
+      "slug": "mini-metro",
+      "name": "Mini Metro",
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714467": {
+      "status": "confirmed",
+      "igdb_id": 124031,
+      "slug": "grindstone",
+      "name": "Grindstone",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714472": {
+      "status": "confirmed",
+      "igdb_id": 122559,
+      "slug": "mini-motorways",
+      "name": "Mini Motorways",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714473": {
+      "status": "confirmed",
+      "slug": "pokemon-masters-ex",
+      "name": "Pokémon Masters EX",
+      "matched_at": "2026-10-29",
+      "igdb_id": 144248,
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:714537": {
+      "status": "confirmed",
+      "igdb_id": 243470,
+      "slug": "blueprint-3d",
+      "name": "Blueprint 3D",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714541": {
+      "status": "confirmed",
+      "igdb_id": 1277,
+      "slug": "plants-vs-zombies",
+      "name": "Plants vs. Zombies",
+      "platforms": [
+        "PlayStation 3",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "PlayStation Vita",
+        "Xbox 360",
+        "Nintendo DSi"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714544": {
+      "status": "confirmed",
+      "igdb_id": 104109,
+      "slug": "zookeeper-dx-touch-edition",
+      "name": "Zookeeper DX Touch Edition",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714560": {
+      "status": "confirmed",
+      "igdb_id": 274873,
+      "slug": "cut-the-rope-3",
+      "name": "Cut the Rope 3",
+      "platforms": [
+        "Android",
+        "visionOS",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714563": {
+      "status": "confirmed",
+      "igdb_id": 328212,
+      "slug": "game-room--2",
+      "name": "Game Room",
+      "platforms": [
+        "visionOS",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714567": {
+      "status": "confirmed",
+      "igdb_id": 122320,
+      "slug": "pac-man-party-royale",
+      "name": "Pac-Man: Party Royale",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714570": {
+      "status": "confirmed",
+      "igdb_id": 165353,
+      "slug": "tetris-beat",
+      "name": "Tetris Beat",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714574": {
+      "status": "confirmed",
+      "igdb_id": 174587,
+      "slug": "zen-pinball-party",
+      "name": "Zen Pinball Party",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714604": {
+      "status": "confirmed",
+      "igdb_id": 22800,
+      "slug": "oceanhorn-2-knights-of-the-lost-realm",
+      "name": "Oceanhorn 2: Knights of the Lost Realm",
+      "platforms": [
+        "Xbox Series X|S",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714607": {
+      "status": "confirmed",
+      "igdb_id": 117013,
+      "slug": "sneaky-sasquatch",
+      "name": "Sneaky Sasquatch",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714612": {
+      "status": "confirmed",
+      "igdb_id": 6166,
+      "slug": "subway-surfers-4d6fcdcb-3efb-487f-b301-53027dd10500",
+      "name": "Subway Surfers",
+      "platforms": [
+        "Web browser",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714616": {
+      "status": "confirmed",
+      "igdb_id": 122635,
+      "slug": "agent-intercept",
+      "name": "Agent Intercept",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714634": {
+      "status": "confirmed",
+      "igdb_id": 26920,
+      "slug": "zigzag",
+      "name": "ZigZag",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714679": {
+      "status": "confirmed",
+      "igdb_id": 64565,
+      "slug": "agent-dash",
+      "name": "Agent Dash",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714684": {
+      "status": "confirmed",
+      "igdb_id": 86807,
+      "slug": "sonic-cd--1",
+      "name": "Sonic CD",
+      "platforms": [
+        "Amazon Fire TV",
+        "PlayStation 3",
+        "Ouya",
+        "Linux",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Xbox 360",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714717": {
+      "status": "confirmed",
+      "igdb_id": 254425,
+      "slug": "logos-quiz",
+      "name": "Logos Quiz",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714753": {
+      "status": "confirmed",
+      "igdb_id": 251833,
+      "slug": "balatro",
+      "name": "Balatro",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714756": {
+      "status": "confirmed",
+      "igdb_id": 357404,
+      "slug": "vampire-survivors-plus",
+      "name": "Vampire Survivors+",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-30",
+      "via": "exact",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714820": {
+      "status": "confirmed",
+      "igdb_id": 96587,
+      "slug": "piano-tiles",
+      "name": "Piano Tiles",
+      "platforms": [
+        "Windows Phone",
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714846": {
+      "status": "confirmed",
+      "igdb_id": 64203,
+      "slug": "sonic-jump",
+      "name": "Sonic Jump",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:714851": {
+      "status": "confirmed",
+      "igdb_id": 80659,
+      "slug": "dumb-ways-to-die",
+      "name": "Dumb Ways to Die",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714852": {
+      "status": "confirmed",
+      "igdb_id": 57771,
+      "slug": "rail-rush",
+      "name": "Rail Rush",
+      "platforms": [
+        "Arcade",
+        "Web browser",
+        "Windows Phone",
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714885": {
+      "status": "confirmed",
+      "igdb_id": 22263,
+      "slug": "giant-boulder-of-death",
+      "name": "Giant Boulder of Death",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714910": {
+      "status": "confirmed",
+      "slug": "battle-camp",
+      "name": "Battle Camp",
+      "matched_at": "2026-10-29",
+      "igdb_id": 38887,
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:714916": {
+      "status": "confirmed",
+      "igdb_id": 86494,
+      "slug": "rollercoaster-tycoon-touch",
+      "name": "RollerCoaster Tycoon Touch",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714948": {
+      "status": "confirmed",
+      "igdb_id": 33613,
+      "slug": "surfingers",
+      "name": "Surfingers",
+      "platforms": [
+        "Linux",
+        "PC (Microsoft Windows)",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:714987": {
+      "status": "confirmed",
+      "igdb_id": 79183,
+      "slug": "rop",
+      "name": "Rop",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715058": {
+      "status": "confirmed",
+      "igdb_id": 305131,
+      "slug": "outlanders-2-second-nature",
+      "name": "Outlanders 2: Second Nature",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:715092": {
+      "status": "confirmed",
+      "slug": "rabbids-legends-of-the-multiverse",
+      "name": "Rabbids: Legends of the Multiverse",
+      "matched_at": "2026-10-29",
+      "igdb_id": 300343,
+      "platforms": [
+        "iOS",
+        "Mac"
+      ]
+    },
+    "5315278:715433": {
+      "status": "confirmed",
+      "slug": "inside",
+      "name": "Inside",
+      "matched_at": "2026-10-29",
+      "igdb_id": 7342,
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    },
+    "5315278:715554": {
+      "status": "confirmed",
+      "igdb_id": 56226,
+      "slug": "gods-of-rome",
+      "name": "Gods of Rome",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715566": {
+      "status": "confirmed",
+      "slug": "down-in-bermuda",
+      "name": "Down in Bermuda",
+      "matched_at": "2026-10-29",
+      "igdb_id": 124396,
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    },
+    "5315278:715570": {
+      "status": "confirmed",
+      "igdb_id": 117006,
+      "slug": "lego-brawls",
+      "name": "LEGO Brawls",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715574": {
+      "status": "confirmed",
+      "igdb_id": 103373,
+      "slug": "beyond-blue",
+      "name": "Beyond Blue",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715577": {
+      "status": "confirmed",
+      "slug": "the-pathless",
+      "name": "The Pathless",
+      "matched_at": "2026-10-29",
+      "igdb_id": 113118,
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    },
+    "5315278:715582": {
+      "status": "confirmed",
+      "igdb_id": 26944,
+      "slug": "skate-city",
+      "name": "Skate City",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715585": {
+      "status": "confirmed",
+      "slug": "a-monsters-expedition",
+      "name": "A Monster's Expedition",
+      "matched_at": "2026-10-29",
+      "igdb_id": 131845,
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ]
+    },
+    "5315278:715586": {
+      "status": "confirmed",
+      "igdb_id": 127985,
+      "slug": "lego-builders-journey",
+      "name": "LEGO Builder's Journey",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "visionOS",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715592": {
+      "status": "confirmed",
+      "igdb_id": 122557,
+      "slug": "lego-star-wars-battles",
+      "name": "LEGO Star Wars Battles",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715596": {
+      "status": "confirmed",
+      "igdb_id": 27271,
+      "slug": "where-cards-fall",
+      "name": "Where Cards Fall",
+      "platforms": [
+        "visionOS",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715599": {
+      "status": "confirmed",
+      "igdb_id": 356035,
+      "slug": "nba-2k21-arcade-edition",
+      "name": "NBA 2K21: Arcade Edition",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715603": {
+      "status": "confirmed",
+      "igdb_id": 135919,
+      "slug": "alba-a-wildlife-adventure",
+      "name": "Alba: A Wildlife Adventure",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715639": {
+      "status": "none",
+      "matched_at": "2026-10-30"
+    },
+    "5315278:715731": {
+      "status": "confirmed",
+      "slug": "rollercoaster-tycoon-4-mobile",
+      "name": "RollerCoaster Tycoon 4 Mobile",
+      "matched_at": "2026-10-29",
+      "igdb_id": 6547,
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:715778": {
+      "status": "confirmed",
+      "igdb_id": 194563,
+      "slug": "songpop-party",
+      "name": "SongPop Party",
+      "platforms": [
+        "Xbox Series X|S",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715782": {
+      "status": "confirmed",
+      "igdb_id": 248580,
+      "slug": "what-the-car",
+      "name": "What the Car?",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715783": {
+      "status": "confirmed",
+      "igdb_id": 13621,
+      "slug": "manifold-garden",
+      "name": "Manifold Garden",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715784": {
+      "status": "confirmed",
+      "igdb_id": 123733,
+      "slug": "spek",
+      "name": "Spek",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715806": {
+      "status": "confirmed",
+      "igdb_id": 8597,
+      "slug": "blek",
+      "name": "Blek",
+      "platforms": [
+        "Nintendo 3DS",
+        "Android",
+        "iOS",
+        "Wii U"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715917": {
+      "status": "confirmed",
+      "igdb_id": 89541,
+      "slug": "snake-97-retro-phone-classic",
+      "name": "Snake '97: retro phone classic",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:715926": {
+      "status": "confirmed",
+      "igdb_id": 13151,
+      "slug": "the-sims-freeplay",
+      "name": "The Sims FreePlay",
+      "platforms": [
+        "BlackBerry OS",
+        "Windows Phone",
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716100": {
+      "status": "confirmed",
+      "igdb_id": 239457,
+      "slug": "farmside",
+      "name": "Farmside",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716101": {
+      "status": "confirmed",
+      "igdb_id": 122761,
+      "slug": "ballistic-baseball",
+      "name": "Ballistic Baseball",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716116": {
+      "status": "confirmed",
+      "igdb_id": 299804,
+      "slug": "masterchef-learn-to-cook",
+      "name": "MasterChef: Learn to Cook!",
+      "platforms": [
+        "Arcade",
+        "PlayStation 4",
+        "iOS",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716118": {
+      "status": "confirmed",
+      "igdb_id": 351296,
+      "slug": "dead-cells-plus",
+      "name": "Dead Cells+",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716123": {
+      "status": "confirmed",
+      "igdb_id": 58348,
+      "slug": "tomb-of-the-mask",
+      "name": "Tomb of the Mask",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-30",
+      "via": "arcade-plus",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716137": {
+      "status": "confirmed",
+      "slug": "sping",
+      "name": "Sping",
+      "matched_at": "2026-10-29",
+      "igdb_id": 145442,
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ]
+    },
+    "5315278:716139": {
+      "status": "confirmed",
+      "igdb_id": 39239,
+      "slug": "smash-hit",
+      "name": "Smash Hit",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716187": {
+      "status": "confirmed",
+      "igdb_id": 139134,
+      "slug": "hatsune-miku-colorful-stage",
+      "name": "Hatsune Miku: Colorful Stage!",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716478": {
+      "status": "confirmed",
+      "igdb_id": 11276,
+      "slug": "the-room-two",
+      "name": "The Room Two",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716480": {
+      "status": "confirmed",
+      "igdb_id": 175552,
+      "slug": "thumper-pocket-edition-plus",
+      "name": "Thumper: Pocket Edition+",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716482": {
+      "status": "confirmed",
+      "igdb_id": 144800,
+      "slug": "cozy-grove",
+      "name": "Cozy Grove",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716483": {
+      "status": "confirmed",
+      "igdb_id": 113115,
+      "slug": "the-last-campfire",
+      "name": "The Last Campfire",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716484": {
+      "status": "confirmed",
+      "igdb_id": 55068,
+      "slug": "little-orpheus",
+      "name": "Little Orpheus",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716520": {
+      "status": "confirmed",
+      "igdb_id": 197230,
+      "slug": "wheres-my-geek",
+      "name": "Where's my geek?",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716541": {
+      "status": "confirmed",
+      "slug": "lostwinds-winter-of-the-melodias",
+      "name": "LostWinds: Winter of the Melodias",
+      "matched_at": "2026-10-29",
+      "igdb_id": 21245,
+      "platforms": [
+        "Wii",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ]
+    },
+    "5315278:716715": {
+      "status": "confirmed",
+      "igdb_id": 78503,
+      "slug": "the-heist--1",
+      "name": "The Heist",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:716763": {
+      "status": "confirmed",
+      "igdb_id": 87892,
+      "slug": "rgb-express",
+      "name": "RGB Express",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716768": {
+      "status": "confirmed",
+      "igdb_id": 7672,
+      "slug": "swing-copters",
+      "name": "Swing Copters",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716774": {
+      "status": "confirmed",
+      "igdb_id": 61058,
+      "slug": "shuriken-block",
+      "name": "Shuriken Block",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716779": {
+      "status": "confirmed",
+      "igdb_id": 61123,
+      "slug": "atom-run",
+      "name": "Atom Run",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716817": {
+      "status": "confirmed",
+      "igdb_id": 58914,
+      "slug": "ninja-up",
+      "name": "Ninja Up",
+      "platforms": [],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:716831": {
+      "status": "confirmed",
+      "igdb_id": 89108,
+      "slug": "clumsy-ninja",
+      "name": "Clumsy Ninja",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:717486": {
+      "status": "confirmed",
+      "igdb_id": 112144,
+      "slug": "grand-mountain-adventure",
+      "name": "Grand Mountain Adventure",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:717492": {
+      "status": "confirmed",
+      "igdb_id": 11642,
+      "slug": "geometry-dash",
+      "name": "Geometry Dash",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:717498": {
+      "status": "confirmed",
+      "igdb_id": 159559,
+      "slug": "doodle-god-universe",
+      "name": "Doodle God Universe",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:717505": {
+      "status": "confirmed",
+      "igdb_id": 121932,
+      "slug": "possessions",
+      "name": "Possessions",
+      "platforms": [
+        "Xbox Series X|S",
+        "Linux",
+        "Nintendo Switch 2",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Meta Quest 3",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315278:717603": {
+      "status": "confirmed",
+      "igdb_id": 269351,
+      "slug": "icon-pop-quiz",
+      "name": "Icon Pop Quiz",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:717615": {
+      "status": "confirmed",
+      "igdb_id": 63038,
+      "slug": "catapult-king",
+      "name": "Catapult King",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:723470": {
+      "status": "confirmed",
+      "igdb_id": 143820,
+      "slug": "super-mega-mini-party",
+      "name": "Super Mega Mini Party",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:723480": {
+      "status": "confirmed",
+      "igdb_id": 93470,
+      "slug": "spyder",
+      "name": "Spyder",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:723491": {
+      "status": "confirmed",
+      "slug": "threes",
+      "name": "Threes!",
+      "matched_at": "2026-10-29",
+      "igdb_id": 9054,
+      "platforms": [
+        "Web browser",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One"
+      ]
+    },
+    "5315278:724011": {
+      "status": "confirmed",
+      "igdb_id": 22917,
+      "slug": "gris",
+      "name": "Gris",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724268": {
+      "status": "confirmed",
+      "igdb_id": 357416,
+      "slug": "chess-universe",
+      "name": "Chess Universe",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724273": {
+      "status": "confirmed",
+      "igdb_id": 27436,
+      "slug": "kingdom-two-crowns",
+      "name": "Kingdom Two Crowns",
+      "platforms": [
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724274": {
+      "status": "confirmed",
+      "igdb_id": 1331,
+      "slug": "limbo",
+      "name": "Limbo",
+      "platforms": [
+        "PlayStation 3",
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "PlayStation Vita",
+        "Xbox 360",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724277": {
+      "status": "confirmed",
+      "igdb_id": 117295,
+      "slug": "very-little-nightmares",
+      "name": "Very Little Nightmares",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724284": {
+      "status": "confirmed",
+      "igdb_id": 21604,
+      "slug": "old-mans-journey",
+      "name": "Old Man's Journey",
+      "platforms": [
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724299": {
+      "status": "confirmed",
+      "igdb_id": 190877,
+      "slug": "gibbon-beyond-the-trees",
+      "name": "Gibbon: Beyond the Trees",
+      "platforms": [
+        "PlayStation 4",
+        "visionOS",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724303": {
+      "status": "confirmed",
+      "igdb_id": 95076,
+      "slug": "oddmar",
+      "name": "Oddmar",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724313": {
+      "status": "confirmed",
+      "igdb_id": 56131,
+      "slug": "really-bad-chess",
+      "name": "Really Bad Chess",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724383": {
+      "status": "confirmed",
+      "slug": "looney-tune-dash",
+      "name": "Looney Tune Dash",
+      "matched_at": "2026-10-29",
+      "igdb_id": 101947,
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:724458": {
+      "status": "confirmed",
+      "igdb_id": 143530,
+      "slug": "warp-drive",
+      "name": "Warp Drive",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "via": "derived",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:724538": {
+      "status": "confirmed",
+      "slug": "chess-dot-com",
+      "name": "Chess.com",
+      "matched_at": "2026-10-30",
+      "igdb_id": 121957,
+      "platforms": [
+        "Web browser",
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:724626": {
+      "status": "confirmed",
+      "igdb_id": 142352,
+      "slug": "wonderbox-the-adventure-maker",
+      "name": "Wonderbox: The Adventure Maker",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:725365": {
+      "status": "confirmed",
+      "igdb_id": 117004,
+      "slug": "lifelike-chapter-one",
+      "name": "Lifelike: Chapter One",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:725471": {
+      "status": "confirmed",
+      "igdb_id": 95070,
+      "slug": "the-enchanted-world",
+      "name": "The Enchanted World",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "via": "exact",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:725536": {
+      "status": "confirmed",
+      "igdb_id": 85804,
+      "slug": "sunday-lawn",
+      "name": "Sunday Lawn",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:725783": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "allow fallbacks to other urls: App Store entry https://apps.apple.com/gb/app/train-station-2-railroad-sim/id1427248206"
+    },
+    "5315278:725869": {
+      "status": "confirmed",
+      "igdb_id": 102233,
+      "slug": "sling-kong",
+      "name": "Sling Kong",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:726562": {
+      "status": "confirmed",
+      "igdb_id": 23415,
+      "slug": "god-of-light",
+      "name": "God of Light",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:726565": {
+      "status": "confirmed",
+      "igdb_id": 140068,
+      "slug": "the-collage-atlas",
+      "name": "The Collage Atlas",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:726582": {
+      "status": "confirmed",
+      "igdb_id": 84479,
+      "slug": "atone-heart-of-the-elder-tree",
+      "name": "Atone: Heart of the Elder Tree",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:726585": {
+      "status": "confirmed",
+      "igdb_id": 194342,
+      "slug": "mind-symphony",
+      "name": "Mind Symphony",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:726589": {
+      "status": "confirmed",
+      "igdb_id": 117012,
+      "slug": "doomsday-vault",
+      "name": "Doomsday Vault",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:727341": {
+      "status": "confirmed",
+      "slug": "slash-quest",
+      "name": "Slash Quest!",
+      "matched_at": "2026-10-30",
+      "igdb_id": 171982,
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+      ]
+    },
+    "5315278:728076": {
+      "status": "confirmed",
+      "igdb_id": 187855,
+      "slug": "zombie-rollerz-pinball-heroes",
+      "name": "Zombie Rollerz: Pinball Heroes",
+      "platforms": [
+        "Xbox Series X|S",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:729857": {
+      "status": "confirmed",
+      "igdb_id": 208409,
+      "slug": "bee-leader",
+      "name": "Bee Leader",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:730587": {
+      "status": "confirmed",
+      "igdb_id": 122667,
+      "slug": "saint-seiya-awakening",
+      "name": "Saint Seiya: Awakening",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:732331": {
+      "status": "confirmed",
+      "slug": "icon-pop-quiz",
+      "name": "Icon Pop Quiz",
+      "matched_at": "2026-10-30",
+      "igdb_id": 269351,
+      "platforms": [
+        "Android",
+        "iOS"
+      ]
+    },
+    "5315278:733103": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "apple store fallback: https://apps.apple.com/au/app/speed-typer-wpm-typing-tests/id1420711017"
+    },
+    "5315278:735079": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "apple store fallback: https://apps.apple.com/us/app/tappy-fidget-self-care-pet/id1492017640"
+    },
+    "5315278:739788": {
+      "status": "confirmed",
+      "igdb_id": 22189,
+      "slug": "zookeeper-battle",
+      "name": "Zookeeper Battle",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:740023": {
+      "status": "confirmed",
+      "igdb_id": 297228,
+      "slug": "teeny-tiny-trains",
+      "name": "Teeny Tiny Trains",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:744685": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "apple store fallback: https://apps.apple.com/no/app/color-by-pixel-paint-by-number/id1464643592"
+    },
+    "5315278:747160": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "https://apps.apple.com/au/app/no-wifi-games/id1635792886"
+    },
+    "5315278:748024": {
+      "status": "confirmed",
+      "igdb_id": 216132,
+      "slug": "triple-match-3d",
+      "name": "Triple Match 3D",
+      "platforms": [],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:774474": {
+      "status": "confirmed",
+      "slug": "cut-the-rope",
+      "name": "Cut the Rope",
+      "matched_at": "2026-10-30",
+      "igdb_id": 9761,
+      "platforms": [
+        "Nintendo 3DS",
+        "Windows Phone",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Nintendo DSi"
+      ]
+    },
+    "5315278:777040": {
+      "status": "confirmed",
+      "igdb_id": 199968,
+      "slug": "my-dear-farm",
+      "name": "My Dear Farm",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:786129": {
+      "status": "confirmed",
+      "igdb_id": 341132,
+      "slug": "piano-tiles-2-plus",
+      "name": "Piano Tiles 2+",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:794607": {
+      "status": "confirmed",
+      "igdb_id": 335137,
+      "slug": "katamari-damacy-rolling-live",
+      "name": "Katamari Damacy Rolling Live",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:794614": {
+      "status": "confirmed",
+      "igdb_id": 335141,
+      "slug": "puffies",
+      "name": "Puffies.",
+      "platforms": [
+        "iOS",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:794900": {
+      "status": "confirmed",
+      "igdb_id": 26589,
+      "slug": "rollercoaster-tycoon-classic",
+      "name": "RollerCoaster Tycoon Classic",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:795078": {
+      "status": "confirmed",
+      "igdb_id": 141523,
+      "slug": "the-game-of-life-2",
+      "name": "The Game of Life 2",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:805495": {
+      "status": "confirmed",
+      "igdb_id": 339825,
+      "slug": "what-the-clash",
+      "name": "What the Clash?",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:806234": {
+      "status": "confirmed",
+      "slug": "sumi-sumi",
+      "name": "Sumi Sumi",
+      "matched_at": "2026-10-30",
+      "igdb_id": 108511,
+      "platforms": []
+    },
+    "5315278:811870": {
+      "status": "confirmed",
+      "igdb_id": 236547,
+      "slug": "thronefall",
+      "name": "Thronefall",
+      "platforms": [
+        "Xbox Series X|S",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "via": "derived",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:814807": {
+      "status": "none",
+      "matched_at": "2026-10-30"
+    },
+    "5315278:829425": {
+      "status": "confirmed",
+      "igdb_id": 355895,
+      "slug": "kingdom-rush-5-alliance-td-plus",
+      "name": "Kingdom Rush 5: Alliance TD+",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:829480": {
+      "status": "confirmed",
+      "igdb_id": 221740,
+      "slug": "suika-game",
+      "name": "Suika Game",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:847855": {
+      "status": "confirmed",
+      "igdb_id": 198499,
+      "slug": "chants-of-sennaar",
+      "name": "Chants of Sennaar",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:861579": {
+      "status": "confirmed",
+      "igdb_id": 110423,
+      "slug": "piffle",
+      "name": "Piffle",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:882140": {
+      "status": "confirmed",
+      "igdb_id": 138590,
+      "slug": "powerwash-simulator",
+      "name": "PowerWash Simulator",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "via": "tiebreak-type",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:882142": {
+      "status": "confirmed",
+      "igdb_id": 398845,
+      "slug": "naruto-ultimate-ninja-storm-plus",
+      "name": "Naruto: Ultimate Ninja Storm+",
+      "platforms": [
+        "iOS",
+        "Mac"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:882144": {
+      "status": "confirmed",
+      "igdb_id": 165351,
+      "slug": "cult-of-the-lamb",
+      "name": "Cult of the Lamb",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:895279": {
+      "status": "confirmed",
+      "igdb_id": 340595,
+      "slug": "heartopia",
+      "name": "Heartopia",
+      "platforms": [
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:895548": {
+      "status": "confirmed",
+      "igdb_id": 290500,
+      "slug": "cozy-caravan",
+      "name": "Cozy Caravan",
+      "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:906086": {
+      "status": "confirmed",
+      "igdb_id": 305006,
+      "slug": "sid-meiers-civilization-vii",
+      "name": "Sid Meier's Civilization VII",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Linux",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:939444": {
+      "status": "confirmed",
+      "igdb_id": 391260,
+      "slug": "oceanhorn-3-legend-of-the-shadow-sea",
+      "name": "Oceanhorn 3: Legend of the Shadow Sea",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "via": "subtitle",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:940058": {
+      "status": "confirmed",
+      "igdb_id": 314958,
+      "slug": "doraemon-dorayaki-shop-story",
+      "name": "Doraemon Dorayaki Shop Story",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:946935": {
+      "status": "none",
+      "matched_at": "2026-10-30",
+      "reason": "apple store fallback https://apps.apple.com/cn/app/%E9%9B%B7%E9%9C%86%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98-%E9%AD%94%E6%80%A7%E5%B0%8F%E9%A3%9E%E6%9C%BA%E7%9A%84%E9%80%86%E7%A9%BA%E4%BD%BF%E5%91%BD/id687588540"
+    },
+    "5315278:951031": {
+      "status": "confirmed",
+      "igdb_id": 115843,
+      "slug": "unpacking",
+      "name": "Unpacking",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Linux",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "via": "tiebreak-popularity",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:951066": {
+      "status": "confirmed",
+      "igdb_id": 395816,
+      "slug": "dredge-plus",
+      "name": "Dredge+",
+      "platforms": [
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315278:991637": {
+      "status": "confirmed",
+      "igdb_id": 224418,
+      "slug": "creatures-of-the-deep",
+      "name": "Creatures of the Deep",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522737": {
+      "status": "confirmed",
+      "igdb_id": 109462,
+      "slug": "animal-crossing-new-horizons",
+      "name": "Animal Crossing: New Horizons",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522744": {
+      "status": "confirmed",
+      "igdb_id": 26764,
+      "slug": "mario-kart-8-deluxe",
+      "name": "Mario Kart 8 Deluxe",
+      "platforms": [
+        "Nintendo Switch 2",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522748": {
+      "status": "confirmed",
+      "igdb_id": 102873,
+      "slug": "pokemon-lets-go-eevee",
+      "name": "Pokémon: Let's Go, Eevee!",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522751": {
+      "status": "confirmed",
+      "igdb_id": 26758,
+      "slug": "super-mario-odyssey",
+      "name": "Super Mario Odyssey",
+      "platforms": [
+        "Nintendo Switch 2",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522755": {
+      "status": "confirmed",
+      "igdb_id": 141960,
+      "slug": "pokemon-home",
+      "name": "Pokémon Home",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522771": {
+      "status": "confirmed",
+      "igdb_id": 115284,
+      "slug": "the-legend-of-zelda-links-awakening--1",
+      "name": "The Legend of Zelda: Link's Awakening",
+      "platforms": [
+        "Nintendo Switch 2",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29"
+    },
+    "5315298:522774": {
+      "status": "confirmed",
+      "igdb_id": 7346,
+      "slug": "the-legend-of-zelda-breath-of-the-wild",
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "platforms": [
+        "Wii U",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522857": {
+      "status": "confirmed",
+      "igdb_id": 90101,
+      "slug": "super-smash-bros-ultimate",
+      "name": "Super Smash Bros. Ultimate",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522896": {
+      "status": "confirmed",
+      "igdb_id": 144054,
+      "slug": "pokemon-legends-arceus",
+      "name": "Pokémon Legends: Arceus",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522897": {
+      "status": "confirmed",
+      "igdb_id": 138235,
+      "slug": "super-mario-bros-35",
+      "name": "Super Mario Bros. 35",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522931": {
+      "status": "confirmed",
+      "igdb_id": 115282,
+      "slug": "tetris-99",
+      "name": "Tetris 99",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522956": {
+      "status": "confirmed",
+      "igdb_id": 115653,
+      "slug": "pokemon-shield",
+      "name": "Pokémon Shield",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:522964": {
+      "status": "confirmed",
+      "igdb_id": 113112,
+      "slug": "hades--1",
+      "name": "Hades",
+      "platforms": [
+        "iOS",
+        "Mac",
+        "Nintendo Switch",
+        "PC (Microsoft Windows)",
+        "PlayStation 4",
+        "PlayStation 5",
+        "Xbox One",
+        "Xbox Series X|S"
+      ]
+    },
+    "5315298:522988": {
+      "status": "confirmed",
+      "igdb_id": 135233,
+      "slug": "pokemon-cafe-mix",
+      "name": "Pokémon Café Mix",
+      "platforms": [
+        "Android",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:523027": {
+      "status": "confirmed",
+      "igdb_id": 131961,
+      "slug": "clubhouse-games-51-worldwide-classics",
+      "name": "Clubhouse Games: 51 Worldwide Classics",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:526957": {
+      "status": "confirmed",
+      "igdb_id": 7342,
+      "slug": "inside",
+      "name": "Inside",
+      "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:527816": {
+      "status": "confirmed",
+      "igdb_id": 65503,
+      "slug": "sky-children-of-the-light",
+      "name": "Sky: Children of the Light",
+      "platforms": [
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:554719": {
+      "status": "confirmed",
+      "igdb_id": 152180,
+      "slug": "a-little-to-the-left",
+      "name": "A Little to the Left",
+      "platforms": [
+        "Xbox Series X|S",
+        "PlayStation 4",
+        "Android",
+        "PC (Microsoft Windows)",
+        "iOS",
+        "PlayStation 5",
+        "Mac",
+        "Xbox One",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:555789": {
+      "status": "confirmed",
+      "igdb_id": 191930,
+      "slug": "pokemon-violet",
+      "name": "Pokémon Violet",
+      "platforms": [
+        "Nintendo Switch 2",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:592580": {
+      "status": "confirmed",
+      "igdb_id": 119388,
+      "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    },
+    "5315298:855626": {
+      "status": "confirmed",
+      "igdb_id": 228525,
+      "slug": "hades-ii",
+      "name": "Hades II",
+      "platforms": [
+        "Xbox Series X|S",
+        "Nintendo Switch 2",
+        "PC (Microsoft Windows)",
+        "PlayStation 5",
+        "Mac",
+        "Nintendo Switch"
+      ],
+      "matched_at": "2026-10-29",
+      "confirmed_at": "2026-10-30"
+    }
+  }
+}
