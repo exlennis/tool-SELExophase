@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-10-30T04:59:42+00:00",
+  "retrieved_at": "2026-10-30T06:28:08+00:00",
   "games": [
     {
       "master_id": 847855,
@@ -15764,7 +15764,7 @@
       "firstplayed": 0,
       "completion_date_utc": 0,
       "lastplayed_utc": 0,
-      "total_awards": 57,
+      "total_awards": 34,
       "resource_standard": "https://m.exophase.com/steam/games/m/404j10j.png?7ac25798962241099fea6a90afafd81c",
       "resource_small": "https://m.exophase.com/steam/games/s/404j10j.png?7ac25798962241099fea6a90afafd81c",
       "resource_tile": "https://m.exophase.com/steam/games/t/404j10j.png?7ac25798962241099fea6a90afafd81c",
@@ -15774,7 +15774,7 @@
       },
       "meta": {
         "master_id": 558565,
-        "total_awards": 57,
+        "total_awards": 34,
         "title": "Thronefall",
         "environment_slug": "steam",
         "platforms": [
