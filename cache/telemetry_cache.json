@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-10-29T18:14:10+00:00",
+  "retrieved_at": "2026-10-30T04:59:42+00:00",
   "games": [
     {
       "master_id": 847855,
@@ -465,6 +465,57 @@
       }
     },
     {
+      "master_id": 333015,
+      "master_playerid": 5143229,
+      "earned_awards": 16,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1793236298,
+      "playtime": "50h 55m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 1769,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 43.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1793236298,
+      "total_awards": 37,
+      "resource_standard": "https://m.exophase.com/steam/games/m/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
+      "resource_small": "https://m.exophase.com/steam/games/s/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
+      "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
+      "playtimeUnits": {
+        "hours": 50,
+        "minutes": 55
+      },
+      "meta": {
+        "master_id": 333015,
+        "total_awards": 37,
+        "title": "Ori and the Will of the Wisps",
+        "environment_slug": "steam",
+        "platforms": [
+          {
+            "termTaxonomyId": 12,
+            "termId": 12,
+            "name": "Steam",
+            "slug": "steam"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229"
+      }
+    },
+    {
       "master_id": 716118,
       "master_playerid": 5315278,
       "earned_awards": 33,
@@ -476,7 +527,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 4831,
+      "earned_exp": 4852,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -933,57 +984,6 @@
         ],
         "regions": null,
         "endpoint_awards": null
-      }
-    },
-    {
-      "master_id": 333015,
-      "master_playerid": 5143229,
-      "earned_awards": 14,
-      "completion_date": 0,
-      "beaten": null,
-      "lastplayed": 1792985704,
-      "playtime": "47h 30m",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 1443,
-      "earned_bronze": null,
-      "earned_silver": null,
-      "earned_gold": null,
-      "earned_platinum": null,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "partial",
-      "completion_information": false,
-      "percent": 37.0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 0,
-      "lastplayed_utc": 1792985704,
-      "total_awards": 37,
-      "resource_standard": "https://m.exophase.com/steam/games/m/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
-      "resource_small": "https://m.exophase.com/steam/games/s/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
-      "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
-      "playtimeUnits": {
-        "hours": 47,
-        "minutes": 30
-      },
-      "meta": {
-        "master_id": 333015,
-        "total_awards": 37,
-        "title": "Ori and the Will of the Wisps",
-        "environment_slug": "steam",
-        "platforms": [
-          {
-            "termTaxonomyId": 12,
-            "termId": 12,
-            "name": "Steam",
-            "slug": "steam"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229"
       }
     },
     {
@@ -3000,7 +3000,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 6709,
+      "earned_exp": 6728,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -3051,7 +3051,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 2133,
+      "earned_exp": 2132,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -3575,7 +3575,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 5811,
+      "earned_exp": 5808,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -3683,7 +3683,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 2137,
+      "earned_exp": 2140,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -7966,7 +7966,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 1059,
+      "earned_exp": 1066,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -8570,7 +8570,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 539,
+      "earned_exp": 542,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,

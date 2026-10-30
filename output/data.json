@@ -2,12 +2,12 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-10-29T18:14:12+00:00",
-    "source_retrieved_at": "2026-10-29T18:14:10+00:00",
+    "last_updated": "2026-10-30T04:59:42+00:00",
+    "source_retrieved_at": "2026-10-30T04:59:42+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "e18b842e35760ea85f04473104f90ada2af85e00d375e107709d28053941d9f3",
+    "snapshot_sha256": "81698375b6467141c213a2b6ddacdf79dae8ec4a9d165ab26437251353e8f0b9",
     "total_games": 315,
-    "total_known_hours": 3171.55,
+    "total_known_hours": 3174.967,
     "unknown_playtime_count": 237,
     "played_evidence_count": 173
   },
@@ -272,12 +272,12 @@
       "platforms": [
         "Steam"
       ],
-      "playtime_minutes": 2850,
-      "hours": 47.5,
-      "earned_awards": 14,
+      "playtime_minutes": 3055,
+      "hours": 50.917,
+      "earned_awards": 16,
       "total_awards": 37,
-      "achievement_completion_percent": 37.0,
-      "last_played": "2026-10-26T03:35:04+00:00",
+      "achievement_completion_percent": 43.0,
+      "last_played": "2026-10-29T01:11:38+00:00",
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229",
       "artwork": "output/art/steam-b10beb-038d9aab92b7c7b3cf3d8c1d.png"
