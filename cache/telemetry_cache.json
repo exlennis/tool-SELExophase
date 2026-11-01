@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-01T05:10:33+00:00",
+  "retrieved_at": "2026-11-01T17:46:16+00:00",
   "games": [
     {
       "master_id": 882144,
@@ -528,7 +528,7 @@
       "completion_date": 0,
       "beaten": null,
       "lastplayed": 1793236298,
-      "playtime": "51h 6m",
+      "playtime": "52h 33m",
       "privacy_level": null,
       "m_earned_awards": null,
       "m_possible_awards": null,
@@ -552,8 +552,8 @@
       "resource_small": "https://m.exophase.com/steam/games/s/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
       "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
       "playtimeUnits": {
-        "hours": 51,
-        "minutes": 6
+        "hours": 52,
+        "minutes": 33
       },
       "meta": {
         "master_id": 333015,
@@ -1203,7 +1203,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 3653,
+      "earned_exp": 3652,
       "earned_bronze": 22,
       "earned_silver": 9,
       "earned_gold": 4,

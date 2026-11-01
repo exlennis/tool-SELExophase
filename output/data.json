@@ -2,12 +2,12 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-01T05:10:33+00:00",
-    "source_retrieved_at": "2026-11-01T05:10:33+00:00",
+    "last_updated": "2026-11-01T17:46:16+00:00",
+    "source_retrieved_at": "2026-11-01T17:46:16+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "0182a57d056b0b0aa8c1ee0e3d29c6ca63442979b3fa0a69cff75e7cd3fa32d4",
+    "snapshot_sha256": "e3318f4cbad418f57ac2a7273a95983974c7c94e9ef245c97cf58f5e048dfe67",
     "total_games": 315,
-    "total_known_hours": 3175.15,
+    "total_known_hours": 3176.6,
     "unknown_playtime_count": 237,
     "played_evidence_count": 173
   },
@@ -285,8 +285,8 @@
       "platforms": [
         "Steam"
       ],
-      "playtime_minutes": 3066,
-      "hours": 51.1,
+      "playtime_minutes": 3153,
+      "hours": 52.55,
       "earned_awards": 16,
       "total_awards": 37,
       "achievement_completion_percent": 43.0,
