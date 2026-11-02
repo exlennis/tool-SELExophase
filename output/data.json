@@ -2,13 +2,13 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-02T05:10:28+00:00",
-    "source_retrieved_at": "2026-11-02T05:10:27+00:00",
+    "last_updated": "2026-11-02T21:31:50+00:00",
+    "source_retrieved_at": "2026-11-02T21:31:49+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "06b5bb9b7fb024cdcc05235f581722eb537b18f9cdd5086f79e71daa055a3fcb",
-    "total_games": 315,
-    "total_known_hours": 3176.6,
-    "unknown_playtime_count": 237,
+    "snapshot_sha256": "dac6e0c2fece6939252bed4c7c062f6c0b535cad30db5c06f9b5159fae6a1385",
+    "total_games": 316,
+    "total_known_hours": 3176.617,
+    "unknown_playtime_count": 238,
     "played_evidence_count": 173
   },
   "games": [
@@ -42,12 +42,12 @@
       "platforms": [
         "PS5"
       ],
-      "playtime_minutes": 26663,
-      "hours": 444.383,
+      "playtime_minutes": 26664,
+      "hours": 444.4,
       "earned_awards": 36,
       "total_awards": 36,
       "achievement_completion_percent": 100.0,
-      "last_played": "2026-10-22T07:53:32+00:00",
+      "last_played": "2026-11-02T02:29:41+00:00",
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/black-myth-wukong-psn/trophies/#5315273",
       "igdb_url": "https://www.igdb.com/games/black-myth-wukong",
@@ -2529,7 +2529,7 @@
       "earned_awards": 33,
       "total_awards": 53,
       "achievement_completion_percent": 62.0,
-      "last_played": "2026-10-28T19:49:36+00:00",
+      "last_played": "2026-11-02T16:39:19+00:00",
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/dead-cells-apple/achievements/#5315278",
       "igdb_url": "https://www.igdb.com/games/dead-cells-plus",
@@ -6042,6 +6042,26 @@
       "source_url": "https://www.exophase.com/game/very-little-nightmares-apple/achievements/#5315278",
       "igdb_url": "https://www.igdb.com/games/very-little-nightmares",
       "artwork": "output/art/apple-ee0g444-6424ebcbe194e1d7ba2483b0.png"
+    },
+    {
+      "id": "5315276:600804",
+      "source_player_id": "5315276",
+      "source_game_id": "600804",
+      "title": "Warbreeds",
+      "service": "gog",
+      "platforms": [
+        "GOG"
+      ],
+      "playtime_minutes": null,
+      "hours": null,
+      "earned_awards": 0,
+      "total_awards": 0,
+      "achievement_completion_percent": 0,
+      "last_played": null,
+      "activity_status": "unknown",
+      "source_url": null,
+      "igdb_url": null,
+      "artwork": "output/art/gog-dg5j4j3-1945b189226c8bddf54f3a39.png"
     },
     {
       "id": "5315278:724458",

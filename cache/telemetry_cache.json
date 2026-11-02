@@ -1,8 +1,111 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-02T05:10:27+00:00",
+  "retrieved_at": "2026-11-02T21:31:49+00:00",
   "games": [
+    {
+      "master_id": 716118,
+      "master_playerid": 5315278,
+      "earned_awards": 33,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1793637559,
+      "playtime": "",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 4897,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 62.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1793637559,
+      "total_awards": 53,
+      "resource_standard": "https://m.exophase.com/apple/games/m/j07b71b.png?95331a0dbaeea44aae69e7c6d0b22023",
+      "resource_small": "https://m.exophase.com/apple/games/s/j07b71b.png?95331a0dbaeea44aae69e7c6d0b22023",
+      "resource_tile": "https://m.exophase.com/apple/games/t/j07b71b.png?95331a0dbaeea44aae69e7c6d0b22023",
+      "playtimeUnits": {
+        "hours": 0,
+        "minutes": 0
+      },
+      "meta": {
+        "master_id": 716118,
+        "total_awards": 53,
+        "title": "Dead Cells+",
+        "environment_slug": "apple",
+        "platforms": [
+          {
+            "termTaxonomyId": 182730,
+            "termId": 174863,
+            "name": "iOS",
+            "slug": "apple-ios"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/dead-cells-apple/achievements/#5315278"
+      }
+    },
+    {
+      "master_id": 699413,
+      "master_playerid": 5315273,
+      "earned_awards": 36,
+      "earned_points": 960,
+      "completion_date": 1769868531,
+      "beaten": null,
+      "lastplayed": 1793586581,
+      "playtime": "444h 24m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 3652,
+      "earned_bronze": 22,
+      "earned_silver": 9,
+      "earned_gold": 4,
+      "earned_platinum": 1,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "complete",
+      "completion_information": false,
+      "percent": 100.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 1769868531,
+      "lastplayed_utc": 1793586581,
+      "total_awards": 36,
+      "resource_standard": "https://m.exophase.com/psn/games/m/40d4bj5.png?c860fb395e15b9c7c6b1c70a620aa92c",
+      "resource_small": "https://m.exophase.com/psn/games/s/40d4bj5.png?c860fb395e15b9c7c6b1c70a620aa92c",
+      "resource_tile": "https://m.exophase.com/psn/games/t/40d4bj5.png?c860fb395e15b9c7c6b1c70a620aa92c",
+      "playtimeUnits": {
+        "hours": 444,
+        "minutes": 24
+      },
+      "meta": {
+        "master_id": 699413,
+        "total_awards": 36,
+        "title": "Black Myth: Wukong",
+        "environment_slug": "psn",
+        "platforms": [
+          {
+            "termTaxonomyId": 9,
+            "termId": 9,
+            "name": "PS5",
+            "slug": "ps5"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/black-myth-wukong-psn/trophies/#5315273"
+      }
+    },
     {
       "master_id": 882144,
       "master_playerid": 5315278,
@@ -573,57 +676,6 @@
       }
     },
     {
-      "master_id": 716118,
-      "master_playerid": 5315278,
-      "earned_awards": 33,
-      "completion_date": 0,
-      "beaten": null,
-      "lastplayed": 1793216976,
-      "playtime": "",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 4897,
-      "earned_bronze": null,
-      "earned_silver": null,
-      "earned_gold": null,
-      "earned_platinum": null,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "partial",
-      "completion_information": false,
-      "percent": 62.0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 0,
-      "lastplayed_utc": 1793216976,
-      "total_awards": 53,
-      "resource_standard": "https://m.exophase.com/apple/games/m/j07b71b.png?95331a0dbaeea44aae69e7c6d0b22023",
-      "resource_small": "https://m.exophase.com/apple/games/s/j07b71b.png?95331a0dbaeea44aae69e7c6d0b22023",
-      "resource_tile": "https://m.exophase.com/apple/games/t/j07b71b.png?95331a0dbaeea44aae69e7c6d0b22023",
-      "playtimeUnits": {
-        "hours": 0,
-        "minutes": 0
-      },
-      "meta": {
-        "master_id": 716118,
-        "total_awards": 53,
-        "title": "Dead Cells+",
-        "environment_slug": "apple",
-        "platforms": [
-          {
-            "termTaxonomyId": 182730,
-            "termId": 174863,
-            "name": "iOS",
-            "slug": "apple-ios"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/dead-cells-apple/achievements/#5315278"
-      }
-    },
-    {
       "master_id": 716483,
       "master_playerid": 5315278,
       "earned_awards": 8,
@@ -1188,58 +1240,6 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/sonic-3-knuckles-retro/achievements/#5315275"
-      }
-    },
-    {
-      "master_id": 699413,
-      "master_playerid": 5315273,
-      "earned_awards": 36,
-      "earned_points": 960,
-      "completion_date": 1769868531,
-      "beaten": null,
-      "lastplayed": 1792655612,
-      "playtime": "444h 23m",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 3652,
-      "earned_bronze": 22,
-      "earned_silver": 9,
-      "earned_gold": 4,
-      "earned_platinum": 1,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "complete",
-      "completion_information": false,
-      "percent": 100.0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 1769868531,
-      "lastplayed_utc": 1792655612,
-      "total_awards": 36,
-      "resource_standard": "https://m.exophase.com/psn/games/m/40d4bj5.png?c860fb395e15b9c7c6b1c70a620aa92c",
-      "resource_small": "https://m.exophase.com/psn/games/s/40d4bj5.png?c860fb395e15b9c7c6b1c70a620aa92c",
-      "resource_tile": "https://m.exophase.com/psn/games/t/40d4bj5.png?c860fb395e15b9c7c6b1c70a620aa92c",
-      "playtimeUnits": {
-        "hours": 444,
-        "minutes": 23
-      },
-      "meta": {
-        "master_id": 699413,
-        "total_awards": 36,
-        "title": "Black Myth: Wukong",
-        "environment_slug": "psn",
-        "platforms": [
-          {
-            "termTaxonomyId": 9,
-            "termId": 9,
-            "name": "PS5",
-            "slug": "ps5"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/black-myth-wukong-psn/trophies/#5315273"
       }
     },
     {
@@ -15736,6 +15736,57 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/fireside-feelings-steam/achievements/#5143229"
+      }
+    },
+    {
+      "master_id": 600804,
+      "master_playerid": 5315276,
+      "earned_awards": 0,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 0,
+      "playtime": "",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 0,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 0,
+      "total_awards": 0,
+      "resource_standard": "https://m.exophase.com/gog/games/m/dg5j4j3.png?1945b189226c8bddf54f3a39da88349a",
+      "resource_small": "https://m.exophase.com/gog/games/s/dg5j4j3.png?1945b189226c8bddf54f3a39da88349a",
+      "resource_tile": "https://m.exophase.com/gog/games/t/dg5j4j3.png?1945b189226c8bddf54f3a39da88349a",
+      "playtimeUnits": {
+        "hours": 0,
+        "minutes": 0
+      },
+      "meta": {
+        "master_id": 600804,
+        "total_awards": 0,
+        "title": "Warbreeds",
+        "environment_slug": "gog",
+        "platforms": [
+          {
+            "name": "GOG",
+            "environment_slug": "gog",
+            "alternate_name": "GOG",
+            "slug": "gog"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": null
       }
     },
     {
