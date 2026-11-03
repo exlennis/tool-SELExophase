@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-03T05:54:53+00:00",
+  "retrieved_at": "2026-11-03T19:16:45+00:00",
   "games": [
     {
       "master_id": 716118,
@@ -61,7 +61,7 @@
       "completion_date": 0,
       "beaten": null,
       "lastplayed": 1793636998,
-      "playtime": "48m",
+      "playtime": "1h 45m",
       "privacy_level": null,
       "m_earned_awards": null,
       "m_possible_awards": null,
@@ -85,8 +85,8 @@
       "resource_small": "https://m.exophase.com/steam/games/s/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
       "resource_tile": "https://m.exophase.com/steam/games/t/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
       "playtimeUnits": {
-        "hours": 0,
-        "minutes": 48
+        "hours": 1,
+        "minutes": 45
       },
       "meta": {
         "master_id": 18390,
@@ -682,7 +682,7 @@
       "completion_date": 0,
       "beaten": null,
       "lastplayed": 1793236298,
-      "playtime": "52h 55m",
+      "playtime": "53h 10m",
       "privacy_level": null,
       "m_earned_awards": null,
       "m_possible_awards": null,
@@ -706,8 +706,8 @@
       "resource_small": "https://m.exophase.com/steam/games/s/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
       "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
       "playtimeUnits": {
-        "hours": 52,
-        "minutes": 55
+        "hours": 53,
+        "minutes": 10
       },
       "meta": {
         "master_id": 333015,

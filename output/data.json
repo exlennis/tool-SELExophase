@@ -2,12 +2,12 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-03T05:54:54+00:00",
-    "source_retrieved_at": "2026-11-03T05:54:53+00:00",
+    "last_updated": "2026-11-03T19:16:45+00:00",
+    "source_retrieved_at": "2026-11-03T19:16:45+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "af248e16e7fdc9fa38337625bec212e24f90c4040c9eb88d5c66306b729cea93",
+    "snapshot_sha256": "ba750349fd9b3066fbd29234e99dbfc89581a2c5df5e232fcf287c0ff2eb01d4",
     "total_games": 317,
-    "total_known_hours": 3177.783,
+    "total_known_hours": 3178.983,
     "unknown_playtime_count": 238,
     "played_evidence_count": 174
   },
@@ -285,8 +285,8 @@
       "platforms": [
         "Steam"
       ],
-      "playtime_minutes": 3175,
-      "hours": 52.917,
+      "playtime_minutes": 3190,
+      "hours": 53.167,
       "earned_awards": 16,
       "total_awards": 37,
       "achievement_completion_percent": 43.0,
@@ -738,6 +738,26 @@
       "artwork": "output/art/steam-gj11bj7-eeba944270998cefc89b142e.png"
     },
     {
+      "id": "5143229:18390",
+      "source_player_id": "5143229",
+      "source_game_id": "18390",
+      "title": "Dead Cells",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 105,
+      "hours": 1.75,
+      "earned_awards": 41,
+      "total_awards": 121,
+      "achievement_completion_percent": 33.0,
+      "last_played": "2026-11-02T16:29:58+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
+    },
+    {
       "id": "5143229:630342",
       "source_player_id": "5143229",
       "source_game_id": "630342",
@@ -796,26 +816,6 @@
       "source_url": "https://www.exophase.com/game/pokemon-emerald-version-retro/achievements/#5315275",
       "igdb_url": "https://www.igdb.com/games/pokemon-emerald-version",
       "artwork": "output/art/retro-4g1d4-89c194cc64296dfb0ddd2b62.png"
-    },
-    {
-      "id": "5143229:18390",
-      "source_player_id": "5143229",
-      "source_game_id": "18390",
-      "title": "Dead Cells",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 48,
-      "hours": 0.8,
-      "earned_awards": 41,
-      "total_awards": 121,
-      "achievement_completion_percent": 33.0,
-      "last_played": "2026-11-02T16:29:58+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
     },
     {
       "id": "5143229:600778",
