@@ -2,14 +2,14 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-02T21:31:50+00:00",
-    "source_retrieved_at": "2026-11-02T21:31:49+00:00",
+    "last_updated": "2026-11-03T05:54:54+00:00",
+    "source_retrieved_at": "2026-11-03T05:54:53+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "dac6e0c2fece6939252bed4c7c062f6c0b535cad30db5c06f9b5159fae6a1385",
-    "total_games": 316,
-    "total_known_hours": 3176.617,
+    "snapshot_sha256": "af248e16e7fdc9fa38337625bec212e24f90c4040c9eb88d5c66306b729cea93",
+    "total_games": 317,
+    "total_known_hours": 3177.783,
     "unknown_playtime_count": 238,
-    "played_evidence_count": 173
+    "played_evidence_count": 174
   },
   "games": [
     {
@@ -285,8 +285,8 @@
       "platforms": [
         "Steam"
       ],
-      "playtime_minutes": 3153,
-      "hours": 52.55,
+      "playtime_minutes": 3175,
+      "hours": 52.917,
       "earned_awards": 16,
       "total_awards": 37,
       "achievement_completion_percent": 43.0,
@@ -796,6 +796,26 @@
       "source_url": "https://www.exophase.com/game/pokemon-emerald-version-retro/achievements/#5315275",
       "igdb_url": "https://www.igdb.com/games/pokemon-emerald-version",
       "artwork": "output/art/retro-4g1d4-89c194cc64296dfb0ddd2b62.png"
+    },
+    {
+      "id": "5143229:18390",
+      "source_player_id": "5143229",
+      "source_game_id": "18390",
+      "title": "Dead Cells",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 48,
+      "hours": 0.8,
+      "earned_awards": 41,
+      "total_awards": 121,
+      "achievement_completion_percent": 33.0,
+      "last_played": "2026-11-02T16:29:58+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
     },
     {
       "id": "5143229:600778",
