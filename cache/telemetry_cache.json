@@ -1,8 +1,110 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-04T05:30:37+00:00",
+  "retrieved_at": "2026-11-04T19:32:51+00:00",
   "games": [
+    {
+      "master_id": 333015,
+      "master_playerid": 5143229,
+      "earned_awards": 16,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1793689203,
+      "playtime": "53h 10m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 1769,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 43.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1793689203,
+      "total_awards": 37,
+      "resource_standard": "https://m.exophase.com/steam/games/m/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
+      "resource_small": "https://m.exophase.com/steam/games/s/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
+      "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
+      "playtimeUnits": {
+        "hours": 53,
+        "minutes": 10
+      },
+      "meta": {
+        "master_id": 333015,
+        "total_awards": 37,
+        "title": "Ori and the Will of the Wisps",
+        "environment_slug": "steam",
+        "platforms": [
+          {
+            "termTaxonomyId": 12,
+            "termId": 12,
+            "name": "Steam",
+            "slug": "steam"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229"
+      }
+    },
+    {
+      "master_id": 18390,
+      "master_playerid": 5143229,
+      "earned_awards": 41,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1793689202,
+      "playtime": "1h 45m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 1810,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 33.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1793689202,
+      "total_awards": 121,
+      "resource_standard": "https://m.exophase.com/steam/games/m/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
+      "resource_small": "https://m.exophase.com/steam/games/s/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
+      "resource_tile": "https://m.exophase.com/steam/games/t/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
+      "playtimeUnits": {
+        "hours": 1,
+        "minutes": 45
+      },
+      "meta": {
+        "master_id": 18390,
+        "total_awards": 121,
+        "title": "Dead Cells",
+        "environment_slug": "steam",
+        "platforms": [
+          {
+            "termTaxonomyId": 12,
+            "termId": 12,
+            "name": "Steam",
+            "slug": "steam"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229"
+      }
+    },
     {
       "master_id": 716118,
       "master_playerid": 5315278,
@@ -52,57 +154,6 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/dead-cells-apple/achievements/#5315278"
-      }
-    },
-    {
-      "master_id": 18390,
-      "master_playerid": 5143229,
-      "earned_awards": 41,
-      "completion_date": 0,
-      "beaten": null,
-      "lastplayed": 1793636998,
-      "playtime": "1h 45m",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 1810,
-      "earned_bronze": null,
-      "earned_silver": null,
-      "earned_gold": null,
-      "earned_platinum": null,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "partial",
-      "completion_information": false,
-      "percent": 33.0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 0,
-      "lastplayed_utc": 1793636998,
-      "total_awards": 121,
-      "resource_standard": "https://m.exophase.com/steam/games/m/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
-      "resource_small": "https://m.exophase.com/steam/games/s/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
-      "resource_tile": "https://m.exophase.com/steam/games/t/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
-      "playtimeUnits": {
-        "hours": 1,
-        "minutes": 45
-      },
-      "meta": {
-        "master_id": 18390,
-        "total_awards": 121,
-        "title": "Dead Cells",
-        "environment_slug": "steam",
-        "platforms": [
-          {
-            "termTaxonomyId": 12,
-            "termId": 12,
-            "name": "Steam",
-            "slug": "steam"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229"
       }
     },
     {
@@ -673,57 +724,6 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/metal-slug-advance-retro/achievements/#5315275"
-      }
-    },
-    {
-      "master_id": 333015,
-      "master_playerid": 5143229,
-      "earned_awards": 16,
-      "completion_date": 0,
-      "beaten": null,
-      "lastplayed": 1793236298,
-      "playtime": "53h 10m",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 1769,
-      "earned_bronze": null,
-      "earned_silver": null,
-      "earned_gold": null,
-      "earned_platinum": null,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "partial",
-      "completion_information": false,
-      "percent": 43.0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 0,
-      "lastplayed_utc": 1793236298,
-      "total_awards": 37,
-      "resource_standard": "https://m.exophase.com/steam/games/m/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
-      "resource_small": "https://m.exophase.com/steam/games/s/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
-      "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
-      "playtimeUnits": {
-        "hours": 53,
-        "minutes": 10
-      },
-      "meta": {
-        "master_id": 333015,
-        "total_awards": 37,
-        "title": "Ori and the Will of the Wisps",
-        "environment_slug": "steam",
-        "platforms": [
-          {
-            "termTaxonomyId": 12,
-            "termId": 12,
-            "name": "Steam",
-            "slug": "steam"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229"
       }
     },
     {
