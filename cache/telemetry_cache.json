@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-04T19:32:51+00:00",
+  "retrieved_at": "2026-11-05T05:51:02+00:00",
   "games": [
     {
       "master_id": 333015,
@@ -832,6 +832,63 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/kingdom-two-crowns-apple/achievements/#5315278"
+      }
+    },
+    {
+      "master_id": 522774,
+      "master_playerid": 5315298,
+      "earned_awards": 0,
+      "completion_date": 0,
+      "beaten": null,
+      "lastplayed": 1793024305,
+      "playtime": "238h 46m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 0,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1793024305,
+      "total_awards": 0,
+      "resource_standard": "https://m.exophase.com/nintendo/games/m/55b30gb.png?f5e87661a3399b5e22064dca981e84fe",
+      "resource_small": "https://m.exophase.com/nintendo/games/s/55b30gb.png?f5e87661a3399b5e22064dca981e84fe",
+      "resource_tile": "https://m.exophase.com/nintendo/games/t/55b30gb.png?f5e87661a3399b5e22064dca981e84fe",
+      "playtimeUnits": {
+        "hours": 238,
+        "minutes": 46
+      },
+      "meta": {
+        "master_id": 522774,
+        "total_awards": 0,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "environment_slug": "nintendo",
+        "platforms": [
+          {
+            "termTaxonomyId": 127967,
+            "termId": 129296,
+            "name": "Switch",
+            "slug": "switch"
+          },
+          {
+            "termTaxonomyId": 219780,
+            "termId": 101288,
+            "name": "Switch 2",
+            "slug": "switch-2"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/the-legend-of-zelda-breath-of-the-wild-nintendo/#5315298"
       }
     },
     {
@@ -3351,63 +3408,6 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/hades-nintendo/#5315298"
-      }
-    },
-    {
-      "master_id": 522774,
-      "master_playerid": 5315298,
-      "earned_awards": 0,
-      "completion_date": 0,
-      "beaten": null,
-      "lastplayed": 1790488437,
-      "playtime": "234h 46m",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 0,
-      "earned_bronze": null,
-      "earned_silver": null,
-      "earned_gold": null,
-      "earned_platinum": null,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "partial",
-      "completion_information": false,
-      "percent": 0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 0,
-      "lastplayed_utc": 1790488437,
-      "total_awards": 0,
-      "resource_standard": "https://m.exophase.com/nintendo/games/m/55b30gb.png?f5e87661a3399b5e22064dca981e84fe",
-      "resource_small": "https://m.exophase.com/nintendo/games/s/55b30gb.png?f5e87661a3399b5e22064dca981e84fe",
-      "resource_tile": "https://m.exophase.com/nintendo/games/t/55b30gb.png?f5e87661a3399b5e22064dca981e84fe",
-      "playtimeUnits": {
-        "hours": 234,
-        "minutes": 46
-      },
-      "meta": {
-        "master_id": 522774,
-        "total_awards": 0,
-        "title": "The Legend of Zelda: Breath of the Wild",
-        "environment_slug": "nintendo",
-        "platforms": [
-          {
-            "termTaxonomyId": 127967,
-            "termId": 129296,
-            "name": "Switch",
-            "slug": "switch"
-          },
-          {
-            "termTaxonomyId": 219780,
-            "termId": 101288,
-            "name": "Switch 2",
-            "slug": "switch-2"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/the-legend-of-zelda-breath-of-the-wild-nintendo/#5315298"
       }
     },
     {
