@@ -2,12 +2,12 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-06T05:47:04+00:00",
-    "source_retrieved_at": "2026-11-06T05:47:03+00:00",
+    "last_updated": "2026-11-06T19:04:57+00:00",
+    "source_retrieved_at": "2026-11-06T19:04:56+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "c5c5b1986b6ae645870372454fad09925f196672be76bb999870f67842487c34",
+    "snapshot_sha256": "eba521359d1f95e0dcbe12b44465ccf4914c0ff18f57d559809e570b7a30159d",
     "total_games": 317,
-    "total_known_hours": 3182.983,
+    "total_known_hours": 3183.317,
     "unknown_playtime_count": 238,
     "played_evidence_count": 174
   },
@@ -285,8 +285,8 @@
       "platforms": [
         "Steam"
       ],
-      "playtime_minutes": 3190,
-      "hours": 53.167,
+      "playtime_minutes": 3198,
+      "hours": 53.3,
       "earned_awards": 16,
       "total_awards": 37,
       "achievement_completion_percent": 43.0,
@@ -718,6 +718,26 @@
       "artwork": "output/art/steam-0033147-cee3f3fbefa79593e58fc42e.png"
     },
     {
+      "id": "5143229:18390",
+      "source_player_id": "5143229",
+      "source_game_id": "18390",
+      "title": "Dead Cells",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 117,
+      "hours": 1.95,
+      "earned_awards": 41,
+      "total_awards": 121,
+      "achievement_completion_percent": 33.0,
+      "last_played": "2026-11-03T07:00:02+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
+    },
+    {
       "id": "5143229:434855",
       "source_player_id": "5143229",
       "source_game_id": "434855",
@@ -736,26 +756,6 @@
       "source_url": null,
       "igdb_url": "https://www.igdb.com/games/the-legend-of-sword-and-fairy",
       "artwork": "output/art/steam-gj11bj7-eeba944270998cefc89b142e.png"
-    },
-    {
-      "id": "5143229:18390",
-      "source_player_id": "5143229",
-      "source_game_id": "18390",
-      "title": "Dead Cells",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 105,
-      "hours": 1.75,
-      "earned_awards": 41,
-      "total_awards": 121,
-      "achievement_completion_percent": 33.0,
-      "last_played": "2026-11-03T07:00:02+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
     },
     {
       "id": "5143229:630342",
@@ -835,7 +835,7 @@
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/cairn-steam/achievements/#5143229",
       "igdb_url": "https://www.igdb.com/games/cairn--3",
-      "artwork": "output/art/steam-40356d8-bc565a0065306df7cfd14353.png"
+      "artwork": "output/art/steam-40356d8-3631c8b0e1c1d12af99bacdd.png"
     },
     {
       "id": "5315298:522931",
