@@ -2,10 +2,10 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-08T05:14:55+00:00",
-    "source_retrieved_at": "2026-11-08T05:14:54+00:00",
+    "last_updated": "2026-11-08T17:46:48+00:00",
+    "source_retrieved_at": "2026-11-08T17:46:48+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "456db19221e1c69feeaa6cf79120187d6953a1e56d7d8e6018e3c80d3596da07",
+    "snapshot_sha256": "104081302d2a56126a9ff5ecd181132897e3091dbcd6b3db17c397fd071a33a5",
     "total_games": 317,
     "total_known_hours": 3183.317,
     "unknown_playtime_count": 238,
