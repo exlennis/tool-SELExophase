@@ -2,10 +2,10 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-11T05:24:40+00:00",
-    "source_retrieved_at": "2026-11-11T05:24:40+00:00",
+    "last_updated": "2026-11-11T19:24:21+00:00",
+    "source_retrieved_at": "2026-11-11T19:24:21+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "2be9af628dda97fbfc6351e76169bb86ba53df9b03e96f88ba6f7776ea92f75c",
+    "snapshot_sha256": "d8f6e9666952e8c6b4ed7c9365c6bc3a5cb3d9045c14047701195f9e13be4167",
     "total_games": 317,
     "total_known_hours": 3183.317,
     "unknown_playtime_count": 238,
@@ -5852,13 +5852,13 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 0,
-      "total_awards": 34,
+      "total_awards": 57,
       "achievement_completion_percent": 0.0,
       "last_played": null,
       "activity_status": "unknown",
       "source_url": "https://www.exophase.com/game/thronefall-steam/achievements/#5143229",
       "igdb_url": "https://www.igdb.com/games/thronefall",
-      "artwork": "output/art/steam-404j10j-7ac25798962241099fea6a90.png"
+      "artwork": "output/art/steam-404j10j-c88f7ce3d45802d3ddf06ceb.png"
     },
     {
       "id": "5315278:811870",
