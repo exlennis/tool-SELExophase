@@ -2,14 +2,14 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-15T05:37:18+00:00",
-    "source_retrieved_at": "2026-11-15T05:37:17+00:00",
+    "last_updated": "2026-11-15T18:38:33+00:00",
+    "source_retrieved_at": "2026-11-15T18:38:33+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "e3b2dcaf04a23f50d821f85a3723dc5da7d752e158d3e2e124fb64cdb5884c79",
-    "total_games": 317,
-    "total_known_hours": 3183.317,
+    "snapshot_sha256": "7fc9f9df2be8f6d109b7927aebfa52c1980b7f6b8942f3ac187fcf446257deaf",
+    "total_games": 318,
+    "total_known_hours": 3191.95,
     "unknown_playtime_count": 238,
-    "played_evidence_count": 174
+    "played_evidence_count": 175
   },
   "games": [
     {
@@ -578,6 +578,26 @@
       "artwork": "output/art/psn-e3g4b81-3b769376b6184ea015ddd14a.png"
     },
     {
+      "id": "5143229:343505",
+      "source_player_id": "5143229",
+      "source_game_id": "343505",
+      "title": "Hollow Knight: Silksong",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 436,
+      "hours": 7.267,
+      "earned_awards": 3,
+      "total_awards": 52,
+      "achievement_completion_percent": 5.0,
+      "last_played": "2026-11-15T09:49:56+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
+    },
+    {
       "id": "5315273:417778",
       "source_player_id": "5315273",
       "source_game_id": "417778",
@@ -678,6 +698,26 @@
       "artwork": "output/art/psn-40b58b1-c3c40564b8234d7cd5c802a8.png"
     },
     {
+      "id": "5143229:18390",
+      "source_player_id": "5143229",
+      "source_game_id": "18390",
+      "title": "Dead Cells",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 199,
+      "hours": 3.317,
+      "earned_awards": 44,
+      "total_awards": 121,
+      "achievement_completion_percent": 36.0,
+      "last_played": "2026-11-14T19:35:43+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
+    },
+    {
       "id": "5315273:442267",
       "source_player_id": "5315273",
       "source_game_id": "442267",
@@ -716,26 +756,6 @@
       "source_url": "https://www.exophase.com/game/death-s-door-steam/achievements/#5143229",
       "igdb_url": "https://www.igdb.com/games/deaths-door",
       "artwork": "output/art/steam-0033147-cee3f3fbefa79593e58fc42e.png"
-    },
-    {
-      "id": "5143229:18390",
-      "source_player_id": "5143229",
-      "source_game_id": "18390",
-      "title": "Dead Cells",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 117,
-      "hours": 1.95,
-      "earned_awards": 41,
-      "total_awards": 121,
-      "achievement_completion_percent": 33.0,
-      "last_played": "2026-11-03T07:00:02+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
     },
     {
       "id": "5143229:434855",

@@ -1,8 +1,112 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-15T05:37:17+00:00",
+  "retrieved_at": "2026-11-15T18:38:33+00:00",
   "games": [
+    {
+      "master_id": 343505,
+      "master_playerid": 5143229,
+      "earned_awards": 3,
+      "completion_date": 0,
+      "beaten": null,
+      "mythic_date": null,
+      "lastplayed": 1794736196,
+      "playtime": "7h 16m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 183,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 5.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1794736196,
+      "total_awards": 52,
+      "resource_standard": "https://m.exophase.com/steam/games/m/j7be84.png?3500d7bc4291e2a1ede060e8b32ff7d9",
+      "resource_small": "https://m.exophase.com/steam/games/s/j7be84.png?3500d7bc4291e2a1ede060e8b32ff7d9",
+      "resource_tile": "https://m.exophase.com/steam/games/t/j7be84.png?3500d7bc4291e2a1ede060e8b32ff7d9",
+      "playtimeUnits": {
+        "hours": 7,
+        "minutes": 16
+      },
+      "meta": {
+        "master_id": 343505,
+        "total_awards": 52,
+        "title": "Hollow Knight: Silksong",
+        "environment_slug": "steam",
+        "platforms": [
+          {
+            "termTaxonomyId": 12,
+            "termId": 12,
+            "name": "Steam",
+            "slug": "steam"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229"
+      }
+    },
+    {
+      "master_id": 18390,
+      "master_playerid": 5143229,
+      "earned_awards": 44,
+      "completion_date": 0,
+      "beaten": null,
+      "mythic_date": null,
+      "lastplayed": 1794684943,
+      "playtime": "3h 19m",
+      "privacy_level": null,
+      "m_earned_awards": null,
+      "m_possible_awards": null,
+      "m_completion_date": null,
+      "earned_exp": 1969,
+      "earned_bronze": null,
+      "earned_silver": null,
+      "earned_gold": null,
+      "earned_platinum": null,
+      "isInvalidated": false,
+      "privacy": "game-visible",
+      "status": "partial",
+      "completion_information": false,
+      "percent": 36.0,
+      "lastunlock": 0,
+      "firstplayed": 0,
+      "completion_date_utc": 0,
+      "lastplayed_utc": 1794684943,
+      "total_awards": 121,
+      "resource_standard": "https://m.exophase.com/steam/games/m/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
+      "resource_small": "https://m.exophase.com/steam/games/s/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
+      "resource_tile": "https://m.exophase.com/steam/games/t/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
+      "playtimeUnits": {
+        "hours": 3,
+        "minutes": 19
+      },
+      "meta": {
+        "master_id": 18390,
+        "total_awards": 121,
+        "title": "Dead Cells",
+        "environment_slug": "steam",
+        "platforms": [
+          {
+            "termTaxonomyId": 12,
+            "termId": 12,
+            "name": "Steam",
+            "slug": "steam"
+          }
+        ],
+        "regions": null,
+        "endpoint_awards": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229"
+      }
+    },
     {
       "master_id": 333015,
       "master_playerid": 5143229,
@@ -53,58 +157,6 @@
         ],
         "regions": null,
         "endpoint_awards": "https://www.exophase.com/game/ori-and-the-will-of-the-wisps-steam/achievements/#5143229"
-      }
-    },
-    {
-      "master_id": 18390,
-      "master_playerid": 5143229,
-      "earned_awards": 41,
-      "completion_date": 0,
-      "beaten": null,
-      "mythic_date": null,
-      "lastplayed": 1793689202,
-      "playtime": "1h 57m",
-      "privacy_level": null,
-      "m_earned_awards": null,
-      "m_possible_awards": null,
-      "m_completion_date": null,
-      "earned_exp": 1804,
-      "earned_bronze": null,
-      "earned_silver": null,
-      "earned_gold": null,
-      "earned_platinum": null,
-      "isInvalidated": false,
-      "privacy": "game-visible",
-      "status": "partial",
-      "completion_information": false,
-      "percent": 33.0,
-      "lastunlock": 0,
-      "firstplayed": 0,
-      "completion_date_utc": 0,
-      "lastplayed_utc": 1793689202,
-      "total_awards": 121,
-      "resource_standard": "https://m.exophase.com/steam/games/m/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
-      "resource_small": "https://m.exophase.com/steam/games/s/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
-      "resource_tile": "https://m.exophase.com/steam/games/t/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
-      "playtimeUnits": {
-        "hours": 1,
-        "minutes": 57
-      },
-      "meta": {
-        "master_id": 18390,
-        "total_awards": 121,
-        "title": "Dead Cells",
-        "environment_slug": "steam",
-        "platforms": [
-          {
-            "termTaxonomyId": 12,
-            "termId": 12,
-            "name": "Steam",
-            "slug": "steam"
-          }
-        ],
-        "regions": null,
-        "endpoint_awards": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229"
       }
     },
     {
@@ -173,7 +225,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 3651,
+      "earned_exp": 3650,
       "earned_bronze": 22,
       "earned_silver": 9,
       "earned_gold": 4,
