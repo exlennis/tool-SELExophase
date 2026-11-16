@@ -1,7 +1,7 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-16T05:36:50+00:00",
+  "retrieved_at": "2026-11-16T21:47:16+00:00",
   "games": [
     {
       "master_id": 343505,
@@ -6395,7 +6395,7 @@
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 37,
+      "earned_exp": 38,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
