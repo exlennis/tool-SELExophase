@@ -2,12 +2,12 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-16T21:47:16+00:00",
-    "source_retrieved_at": "2026-11-16T21:47:16+00:00",
+    "last_updated": "2026-11-17T07:13:34+00:00",
+    "source_retrieved_at": "2026-11-17T07:13:34+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "48558a291bc2fb05aa9d33ed56ff38fb1e3c150edfbe9b942b796c77a96239da",
+    "snapshot_sha256": "2b1b07629b7f68b40d1fa5d2b0b9cc70a5b510fd86f4716de84b2e2eabe0ca08",
     "total_games": 318,
-    "total_known_hours": 3191.95,
+    "total_known_hours": 3206.65,
     "unknown_playtime_count": 238,
     "played_evidence_count": 175
   },
@@ -398,6 +398,26 @@
       "artwork": "output/art/psn-gj51j13-0a7769b2cb2d7983e1916cd3.png"
     },
     {
+      "id": "5143229:343505",
+      "source_player_id": "5143229",
+      "source_game_id": "343505",
+      "title": "Hollow Knight: Silksong",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 1237,
+      "hours": 20.617,
+      "earned_awards": 6,
+      "total_awards": 52,
+      "achievement_completion_percent": 11.0,
+      "last_played": "2026-11-16T21:20:54+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
+    },
+    {
       "id": "5315298:522751",
       "source_player_id": "5315298",
       "source_game_id": "522751",
@@ -578,26 +598,6 @@
       "artwork": "output/art/psn-e3g4b81-3b769376b6184ea015ddd14a.png"
     },
     {
-      "id": "5143229:343505",
-      "source_player_id": "5143229",
-      "source_game_id": "343505",
-      "title": "Hollow Knight: Silksong",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 436,
-      "hours": 7.267,
-      "earned_awards": 3,
-      "total_awards": 52,
-      "achievement_completion_percent": 5.0,
-      "last_played": "2026-11-15T09:49:56+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
-    },
-    {
       "id": "5315273:417778",
       "source_player_id": "5315273",
       "source_game_id": "417778",
@@ -636,6 +636,26 @@
       "source_url": "https://www.exophase.com/game/inside-nintendo/#5315298",
       "igdb_url": "https://www.igdb.com/games/inside",
       "artwork": "output/art/nintendo-j011g06-4f6095aaf07bfa9d43905eab.png"
+    },
+    {
+      "id": "5143229:18390",
+      "source_player_id": "5143229",
+      "source_game_id": "18390",
+      "title": "Dead Cells",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 280,
+      "hours": 4.667,
+      "earned_awards": 45,
+      "total_awards": 121,
+      "achievement_completion_percent": 37.0,
+      "last_played": "2026-11-16T14:06:22+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
     },
     {
       "id": "5315298:522744",
@@ -696,26 +716,6 @@
       "source_url": "https://www.exophase.com/game/cyberpunk-2077-psn-2/trophies/#5315273",
       "igdb_url": "https://www.igdb.com/games/cyberpunk-2077",
       "artwork": "output/art/psn-40b58b1-c3c40564b8234d7cd5c802a8.png"
-    },
-    {
-      "id": "5143229:18390",
-      "source_player_id": "5143229",
-      "source_game_id": "18390",
-      "title": "Dead Cells",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 199,
-      "hours": 3.317,
-      "earned_awards": 44,
-      "total_awards": 121,
-      "achievement_completion_percent": 36.0,
-      "last_played": "2026-11-14T19:35:43+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/dead-cells-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-e4gb4-3dec5e1d3f8ba68413e9e55c.png"
     },
     {
       "id": "5315273:442267",
