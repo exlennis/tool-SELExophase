@@ -1,22 +1,22 @@
 {
   "schema": "selfexophase-cache/v1",
   "player_id": "5143228",
-  "retrieved_at": "2026-11-18T06:38:06+00:00",
+  "retrieved_at": "2026-11-18T20:12:27+00:00",
   "games": [
     {
       "master_id": 343505,
       "master_playerid": 5143229,
-      "earned_awards": 6,
+      "earned_awards": 7,
       "completion_date": 0,
       "beaten": null,
       "mythic_date": null,
-      "lastplayed": 1794864054,
-      "playtime": "20h 37m",
+      "lastplayed": 1794978874,
+      "playtime": "25h 10m",
       "privacy_level": null,
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 391,
+      "earned_exp": 458,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -25,18 +25,18 @@
       "privacy": "game-visible",
       "status": "partial",
       "completion_information": false,
-      "percent": 11.0,
+      "percent": 13.0,
       "lastunlock": 0,
       "firstplayed": 0,
       "completion_date_utc": 0,
-      "lastplayed_utc": 1794864054,
+      "lastplayed_utc": 1794978874,
       "total_awards": 52,
       "resource_standard": "https://m.exophase.com/steam/games/m/j7be84.png?3500d7bc4291e2a1ede060e8b32ff7d9",
       "resource_small": "https://m.exophase.com/steam/games/s/j7be84.png?3500d7bc4291e2a1ede060e8b32ff7d9",
       "resource_tile": "https://m.exophase.com/steam/games/t/j7be84.png?3500d7bc4291e2a1ede060e8b32ff7d9",
       "playtimeUnits": {
-        "hours": 20,
-        "minutes": 37
+        "hours": 25,
+        "minutes": 10
       },
       "meta": {
         "master_id": 343505,
@@ -58,17 +58,17 @@
     {
       "master_id": 18390,
       "master_playerid": 5143229,
-      "earned_awards": 45,
+      "earned_awards": 46,
       "completion_date": 0,
       "beaten": null,
       "mythic_date": null,
-      "lastplayed": 1794837982,
-      "playtime": "4h 40m",
+      "lastplayed": 1794915462,
+      "playtime": "5h 49m",
       "privacy_level": null,
       "m_earned_awards": null,
       "m_possible_awards": null,
       "m_completion_date": null,
-      "earned_exp": 1995,
+      "earned_exp": 2022,
       "earned_bronze": null,
       "earned_silver": null,
       "earned_gold": null,
@@ -77,18 +77,18 @@
       "privacy": "game-visible",
       "status": "partial",
       "completion_information": false,
-      "percent": 37.0,
+      "percent": 38.0,
       "lastunlock": 0,
       "firstplayed": 0,
       "completion_date_utc": 0,
-      "lastplayed_utc": 1794837982,
+      "lastplayed_utc": 1794915462,
       "total_awards": 121,
       "resource_standard": "https://m.exophase.com/steam/games/m/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
       "resource_small": "https://m.exophase.com/steam/games/s/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
       "resource_tile": "https://m.exophase.com/steam/games/t/e4gb4.png?3dec5e1d3f8ba68413e9e55cf7dd4151",
       "playtimeUnits": {
-        "hours": 4,
-        "minutes": 40
+        "hours": 5,
+        "minutes": 49
       },
       "meta": {
         "master_id": 18390,
@@ -115,7 +115,7 @@
       "beaten": null,
       "mythic_date": null,
       "lastplayed": 1793689203,
-      "playtime": "53h 18m",
+      "playtime": "53h 46m",
       "privacy_level": null,
       "m_earned_awards": null,
       "m_possible_awards": null,
@@ -140,7 +140,7 @@
       "resource_tile": "https://m.exophase.com/steam/games/t/b10beb.png?038d9aab92b7c7b3cf3d8c1d0a52f815",
       "playtimeUnits": {
         "hours": 53,
-        "minutes": 18
+        "minutes": 46
       },
       "meta": {
         "master_id": 333015,
