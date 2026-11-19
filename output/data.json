@@ -2,12 +2,12 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-19T06:39:25+00:00",
-    "source_retrieved_at": "2026-11-19T06:39:25+00:00",
+    "last_updated": "2026-11-19T20:14:52+00:00",
+    "source_retrieved_at": "2026-11-19T20:14:52+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "b753dbed461efdb08a7d586acbf7aa360d2d73f1c6a8e3dcfde346ca45c392a7",
+    "snapshot_sha256": "af4e3236d864ab1fae9b1a1f37daf9f35270b6597df9b742382b342040efbab4",
     "total_games": 318,
-    "total_known_hours": 3212.817,
+    "total_known_hours": 3227.65,
     "unknown_playtime_count": 238,
     "played_evidence_count": 175
   },
@@ -317,6 +317,26 @@
       "artwork": "output/art/psn-gj8ee38-6785c76a386019bbcf6cc99e.png"
     },
     {
+      "id": "5143229:343505",
+      "source_player_id": "5143229",
+      "source_game_id": "343505",
+      "title": "Hollow Knight: Silksong",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 2400,
+      "hours": 40.0,
+      "earned_awards": 9,
+      "total_awards": 52,
+      "achievement_completion_percent": 17.0,
+      "last_played": "2026-11-19T06:25:22+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
+    },
+    {
       "id": "5315298:522857",
       "source_player_id": "5315298",
       "source_game_id": "522857",
@@ -396,26 +416,6 @@
       "source_url": "https://www.exophase.com/game/gran-turismo-7-psn/trophies/#5315273",
       "igdb_url": "https://www.igdb.com/games/gran-turismo-7",
       "artwork": "output/art/psn-gj51j13-0a7769b2cb2d7983e1916cd3.png"
-    },
-    {
-      "id": "5143229:343505",
-      "source_player_id": "5143229",
-      "source_game_id": "343505",
-      "title": "Hollow Knight: Silksong",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 1510,
-      "hours": 25.167,
-      "earned_awards": 7,
-      "total_awards": 52,
-      "achievement_completion_percent": 13.0,
-      "last_played": "2026-11-18T05:14:34+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
     },
     {
       "id": "5315298:522751",
@@ -855,7 +855,7 @@
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/cairn-steam/achievements/#5143229",
       "igdb_url": "https://www.igdb.com/games/cairn--3",
-      "artwork": "output/art/steam-40356d8-3631c8b0e1c1d12af99bacdd.png"
+      "artwork": "output/art/steam-40356d8-4cfc7bcfdf6495736e9cd615.png"
     },
     {
       "id": "5315298:522931",
