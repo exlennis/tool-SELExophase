@@ -2,10 +2,10 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-19T20:14:52+00:00",
-    "source_retrieved_at": "2026-11-19T20:14:52+00:00",
+    "last_updated": "2026-11-20T06:27:05+00:00",
+    "source_retrieved_at": "2026-11-20T06:27:05+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "af4e3236d864ab1fae9b1a1f37daf9f35270b6597df9b742382b342040efbab4",
+    "snapshot_sha256": "5aa5ab7b17d2ef1ba50c163275e852429826f2d844d7189f716975db321016e6",
     "total_games": 318,
     "total_known_hours": 3227.65,
     "unknown_playtime_count": 238,
@@ -6178,13 +6178,13 @@
       "playtime_minutes": null,
       "hours": null,
       "earned_awards": 6,
-      "total_awards": 32,
+      "total_awards": 33,
       "achievement_completion_percent": 18.0,
       "last_played": "2025-11-24T16:45:33+00:00",
       "activity_status": "played",
       "source_url": "https://www.exophase.com/game/what-the-clash-apple/achievements/#5315278",
       "igdb_url": "https://www.igdb.com/games/what-the-clash",
-      "artwork": "output/art/apple-d000510-40c29ef7424dd369a9ff35c0.png"
+      "artwork": "output/art/apple-d000510-a50756296520d50810bf915c.png"
     },
     {
       "id": "5315278:713449",
