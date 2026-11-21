@@ -2,14 +2,14 @@
   "schema": "selfexophase-telemetry/v1",
   "metadata": {
     "player_id": "5143228",
-    "last_updated": "2026-11-20T19:47:56+00:00",
-    "source_retrieved_at": "2026-11-20T19:47:56+00:00",
+    "last_updated": "2026-11-21T06:18:23+00:00",
+    "source_retrieved_at": "2026-11-21T06:18:23+00:00",
     "source_mode": "live",
-    "snapshot_sha256": "5aa5ab7b17d2ef1ba50c163275e852429826f2d844d7189f716975db321016e6",
+    "snapshot_sha256": "098fec6e27c8d487f6f47637d7e22a9c6b9efd1161c3c8be73dd5a2ee7554667",
     "total_games": 318,
-    "total_known_hours": 3227.65,
-    "unknown_playtime_count": 238,
-    "played_evidence_count": 175
+    "total_known_hours": 3242.317,
+    "unknown_playtime_count": 237,
+    "played_evidence_count": 176
   },
   "games": [
     {
@@ -277,6 +277,26 @@
       "artwork": "output/art/steam-b86b683-585931920547b24a21e96aae.png"
     },
     {
+      "id": "5143229:343505",
+      "source_player_id": "5143229",
+      "source_game_id": "343505",
+      "title": "Hollow Knight: Silksong",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 3279,
+      "hours": 54.65,
+      "earned_awards": 12,
+      "total_awards": 52,
+      "achievement_completion_percent": 23.0,
+      "last_played": "2026-11-21T00:55:32+00:00",
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
+      "igdb_url": null,
+      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
+    },
+    {
       "id": "5143229:333015",
       "source_player_id": "5143229",
       "source_game_id": "333015",
@@ -315,26 +335,6 @@
       "source_url": "https://www.exophase.com/game/star-wars-jedi-survivor-psn/trophies/#5315273",
       "igdb_url": "https://www.igdb.com/games/star-wars-jedi-survivor",
       "artwork": "output/art/psn-gj8ee38-6785c76a386019bbcf6cc99e.png"
-    },
-    {
-      "id": "5143229:343505",
-      "source_player_id": "5143229",
-      "source_game_id": "343505",
-      "title": "Hollow Knight: Silksong",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": 2400,
-      "hours": 40.0,
-      "earned_awards": 9,
-      "total_awards": 52,
-      "achievement_completion_percent": 17.0,
-      "last_played": "2026-11-19T06:25:22+00:00",
-      "activity_status": "played",
-      "source_url": "https://www.exophase.com/game/hollow-knight-silksong-steam/achievements/#5143229",
-      "igdb_url": null,
-      "artwork": "output/art/steam-j7be84-3500d7bc4291e2a1ede060e8.png"
     },
     {
       "id": "5315298:522857",
@@ -1476,6 +1476,26 @@
       "source_url": "https://www.exophase.com/game/prince-of-persia-the-sands-of-time-retro/achievements/#5315275",
       "igdb_url": "https://www.igdb.com/games/prince-of-persia-the-sands-of-time",
       "artwork": "output/art/retro-j1583d-bba5b8a43732a1d9389eb7a3.png"
+    },
+    {
+      "id": "5143229:159156",
+      "source_player_id": "5143229",
+      "source_game_id": "159156",
+      "title": "Sekiro: Shadows Die Twice",
+      "service": "steam",
+      "platforms": [
+        "Steam"
+      ],
+      "playtime_minutes": 1,
+      "hours": 0.017,
+      "earned_awards": 0,
+      "total_awards": 34,
+      "achievement_completion_percent": 0.0,
+      "last_played": null,
+      "activity_status": "played",
+      "source_url": "https://www.exophase.com/game/sekiro-shadows-die-twice-steam/achievements/#5143229",
+      "igdb_url": "https://www.igdb.com/games/sekiro-shadows-die-twice",
+      "artwork": "output/art/steam-d8d836-0b4c1ff8906c2920168c3d03.png"
     },
     {
       "id": "5315275:21886",
@@ -4695,26 +4715,6 @@
       "source_url": "https://www.exophase.com/game/sayonara-wild-hearts-apple/achievements/#5315278",
       "igdb_url": "https://www.igdb.com/games/sayonara-wild-hearts",
       "artwork": "output/art/apple-6d148j0-8327fbff27fde7ee30a43bfa.png"
-    },
-    {
-      "id": "5143229:159156",
-      "source_player_id": "5143229",
-      "source_game_id": "159156",
-      "title": "Sekiro: Shadows Die Twice",
-      "service": "steam",
-      "platforms": [
-        "Steam"
-      ],
-      "playtime_minutes": null,
-      "hours": null,
-      "earned_awards": 0,
-      "total_awards": 34,
-      "achievement_completion_percent": 0.0,
-      "last_played": null,
-      "activity_status": "unknown",
-      "source_url": "https://www.exophase.com/game/sekiro-shadows-die-twice-steam/achievements/#5143229",
-      "igdb_url": "https://www.igdb.com/games/sekiro-shadows-die-twice",
-      "artwork": "output/art/steam-d8d836-0b4c1ff8906c2920168c3d03.png"
     },
     {
       "id": "5315278:716774",
